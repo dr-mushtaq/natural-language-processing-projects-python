@@ -284,8 +284,8 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
   
  ### Week 1-[**📚Chapter1:Recurrent Neural Networks for Language modeling**]()
 
- | Topic Name/Tutorial | Video | Code |
- |---|---|---|
+ | Topic Name/Tutorial | Video | Code |Note|
+ |---|---|---|---|
  |**🌐1-Course 3 Introduction**| [**1**](https://drive.google.com/file/d/1wp90yB137CPzX1NLcob47eGI5uPq_a1S/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
  |**🌐2-Neural Networks for Sentiment Analysis**| [**1**](https://drive.google.com/file/d/1DP6q4xQBpGaVJZi3C-Oe1bD0oyoCl-2T/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
  |**🌐3-Dense Layers and ReLU**| [**1**](https://drive.google.com/file/d/11enyL7gESQESAt3jV1G27bgomJ7V0rKz/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
@@ -296,6 +296,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
  |**🌐9-Math in Simple RNNs**| [**1**](https://drive.google.com/file/d/1lndcAud4iy3APbSUuwwfrBw6zVNcLBsO/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
  |**🌐10-Cost Function for RNNs**| [**1**](https://drive.google.com/file/d/1aZMnZuh9WfV42KJh1NVYmdr5DqnNKfTt/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
  |**🌐11-Implementation Note**| [**1**](https://drive.google.com/file/d/1rCmTngVoZLN8Gy55clZ05cGHjb2p8joZ/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+ |**🌐12-Gated Recurrent Units**| [**1**](https://drive.google.com/file/d/1mOorMZApRL5fYwfgxDtZDYCGH3OYt8cN/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Link](https://drive.google.com/file/d/1mOorMZApRL5fYwfgxDtZDYCGH3OYt8cN/view?usp=sharing)|
 
 
 
