@@ -299,6 +299,12 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
  |**🌐12-Gated Recurrent Units**| [**1**](https://drive.google.com/file/d/1mOorMZApRL5fYwfgxDtZDYCGH3OYt8cN/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Link](https://drive.google.com/file/d/1mOorMZApRL5fYwfgxDtZDYCGH3OYt8cN/view?usp=sharing)|
  |**🌐13-Deep and Bi-directional RNNs**| [**1**](https://drive.google.com/file/d/1bhpnvc--LYTkn1BKJxI-kCepdUCBwtjj/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Link](https://coursesteach.com/mod/page/view.php?id=10406&forceview=1)|
 
+ ### Week 2-[**📚Chapter2:LSTMS and Named Entity Recognition**]()
+
+ | Topic Name/Tutorial | Video | Code |Note|
+ |---|---|---|---|
+ |**🌐1-RNNs and Vanishing Gradients**| [**1**](https://drive.google.com/file/d/1wp90yB137CPzX1NLcob47eGI5uPq_a1S/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Link](https://coursesteach.com/mod/page/view.php?id=10407&forceview=1)|
+
 
 
 
