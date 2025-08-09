@@ -357,7 +357,8 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 ## 👁️ Chapter2: - **Important Website**
 | Title/link| Description | Code |
 |---|---|---|
-|[**✅14- learngood**](https://www.learngood.com/#/youtube-series/Andrej%20Karpathy%20-%20Large%20Language%20Models%20for%20the%20General%20Audience)|It is Videos and github|---|
+|[**✅1- learngood**](https://www.learngood.com/#/youtube-series/Andrej%20Karpathy%20-%20Large%20Language%20Models%20for%20the%20General%20Audience)|It is Videos and github|---|
+|[**✅2- LongChain**](https://python.langchain.com/docs/introduction/)|offical Doc of longchain|---|
 
 ## 👁️ Chapter3: - **Important Social medica Groups**
 | Title/link| Description | Code |
@@ -452,6 +453,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
