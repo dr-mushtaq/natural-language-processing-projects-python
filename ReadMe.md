@@ -366,6 +366,8 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 | Title/link| Description | Code |
 |---|---|---|
 |[**✅1-Hands-On Large Language Models**](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)|It is Videos and github|---|
+|[**✅2-LLM courses**](https://github.com/mlabonne/llm-course)|It is Videos and github|---|
+
 
 
 
@@ -462,6 +464,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
