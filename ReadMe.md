@@ -403,6 +403,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 |[**✅ 16-Build a Large Language Model (From Scratch)**](https://github.com/rasbt/LLMs-from-scratch)|This repository contains the code for developing, pretraining, and finetuning a GPT-like LLM and is the official code repository for the book Build a Large Language Model (From Scratch).| Pending|
 |[**✅ 17-AI-Notebooks by Marktechpost**](https://github.com/Marktechpost/AI-Notebooks/tree/main)|AI-Tutorials/Implementations and Notebooks.| Pending|
 |[**✅ 18-microsoft**](https://github.com/microsoft/ai-agents-for-beginners)|AI-Tutorials/Implementations and Notebooks.| Pending|
+|[**✅ 19-awesome-generative-ai-guide**](https://github.com/aishwaryanr/awesome-generative-ai-guide)|AI-Tutorials/Implementations and Notebooks.| Pending|
 
 
 
@@ -464,6 +465,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
