@@ -306,6 +306,10 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
  |---|---|---|---|---|
  |**🌐1-RNNs and Vanishing Gradients**| [**1**](https://drive.google.com/file/d/12AAEBWl7AzLn9tdq6KHiv89IjsRg4fX6/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Link](https://coursesteach.com/mod/page/view.php?id=10407&forceview=1)| intermediate|
   |**🌐2-Introduction to LSTMs**| [**1**](https://drive.google.com/file/d/1_XDgs5LYvnJ23jRtkQ0NoD3wVSATNygT/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Link](https://coursesteach.com/mod/page/view.php?id=10414&forceview=1)|Intermediate|
+ |**🌐3-LSTM Architecture**| [**1**](https://drive.google.com/file/d/14PGEMY4mdYc8SyRExOcfF84I5qJgA9AU/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Link](https://coursesteach.com/mod/page/view.php?id=10430&forceview=1)|Intermediate|
+
+
+  
 
 
 
@@ -465,6 +469,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
