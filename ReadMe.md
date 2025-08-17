@@ -300,6 +300,9 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
  |**🌐13-Deep and Bi-directional RNNs**| [**1**](https://drive.google.com/file/d/1bhpnvc--LYTkn1BKJxI-kCepdUCBwtjj/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Link](https://coursesteach.com/mod/page/view.php?id=10406&forceview=1)|
  |[**🌐Assignment:Deep N-Grams **](https://medium.com/@Coursesteach/natural-language-processing-part-51-the-viterbi-algorithm-cd5a00149e9b)|--|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/C2_W2_Assignment_(1).ipynb)|
 
+  |**🌐Projects-Movie Review Sentiment Classifier with Gradio**|Deep N-Gram + GRU + RNN model,Gradio|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+
+
  ### Week 2-[**📚Chapter2:LSTMS and Named Entity Recognition**]()
 
  | Topic Name/Tutorial | Video | Code |Note|Diffculty Level|
@@ -469,6 +472,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
