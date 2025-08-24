@@ -417,23 +417,14 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 |[**✅ 18-microsoft**](https://github.com/microsoft/ai-agents-for-beginners)|AI-Tutorials/Implementations and Notebooks.| Pending|
 |[**✅ 19-awesome-generative-ai-guide**](https://github.com/aishwaryanr/awesome-generative-ai-guide)|AI-Tutorials/Implementations and Notebooks.| Pending|
 
-
-
-
-## 👁️ Chapter1: - **🔍 General Tools and Chatbots**
+## 👁️ Chapter1: - **🔍 Tools and libraries**
 
 | Title/Link | Description |
 |---|---|
-| [**Theresanaiforthat**](https://theresanaiforthat.com/) | Directory of AI tools for every possible use case. |
-| [**ChatGPT**](https://chat.openai.com/) | Chatbot powered by OpenAI for general and professional use. |
-| [**Copilot**](https://copilot.microsoft.com/) | Microsoft's AI assistant integrated across their ecosystem. |
-| [**Poe**](https://poe.com/) | Multi-AI platform enabling access to various models. |
-| [**Groq**](https://groq.com/) | High-performance inference for LLMs. |
-| [**Hugging Face**](https://huggingface.co/) | Hub for AI models, datasets, and ML tools. |
-| [**Mistral Chat**](https://chat.mistral.ai/) | Chatbot powered by Mistral models. |
-| [**Pi (Inflection AI)**](https://heypi.com/) | Personalized AI chatbot assistant. |
-| [**DeepSeek Chat**](https://chat.deepseek.com/) | Open-source chat assistant by DeepSeek. |
-| [**Andi Search**](https://andisearch.com/) | AI-powered search engine with conversational answers. |
+| [**✅NLTK**](https://github.com/nltk/nltk) | Toolkit for basic NLP tasks like tokenization and stemming |
+| [**✅spaCy**](https://github.com/explosion/spaCy) | Efficient NLP library for entity recognition and dependency parsing |
+| [**✅Transformers**](https://github.com/huggingface/transformers) | Hugging Face library for state-of-the-art NLP models|
+| [**✅Flair**](https://github.com/flairNLP/flair) | Framework for advanced NLP with pre-trained embeddings |
 </details>
 
 ## 💻 [Workflow](https://www.youtube.com/watch?v=LuWAw-RBPys):
@@ -477,6 +468,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
