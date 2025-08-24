@@ -298,7 +298,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
  |**🌐11-Implementation Note**| [**1**](https://drive.google.com/file/d/1rCmTngVoZLN8Gy55clZ05cGHjb2p8joZ/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
  |**🌐12-Gated Recurrent Units**| [**1**](https://drive.google.com/file/d/1mOorMZApRL5fYwfgxDtZDYCGH3OYt8cN/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Link](https://drive.google.com/file/d/1mOorMZApRL5fYwfgxDtZDYCGH3OYt8cN/view?usp=sharing)|
  |**🌐13-Deep and Bi-directional RNNs**| [**1**](https://drive.google.com/file/d/1bhpnvc--LYTkn1BKJxI-kCepdUCBwtjj/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Link](https://coursesteach.com/mod/page/view.php?id=10406&forceview=1)|
- |**🌐Projects-Movie Review Sentiment Classifier with Gradio**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)]((https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|
+ |**🌐Projects-Movie Review Sentiment Classifier with Gradio**| [**1**](https://drive.google.com/file/d/1rCmTngVoZLN8Gy55clZ05cGHjb2p8joZ/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
  |[**🌐Assignment:Deep N-Grams **](https://medium.com/@Coursesteach/natural-language-processing-part-51-the-viterbi-algorithm-cd5a00149e9b)|--|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/C2_W2_Assignment_(1).ipynb)|
 
 
@@ -468,6 +468,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
