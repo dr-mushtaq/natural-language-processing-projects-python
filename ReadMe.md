@@ -25,7 +25,13 @@ Welcome to the Natural Language Processing (NLP) Course, an open-source initiati
 - [💻 Workflow](#workflow)
 - [⚙️ Things to Note](#️-things-to-note)
 - [🔍 Explore more](#-explore-more)
-- [✨ Top Contributors](#-top-contributors)
+- [✨ Top Contributors](#-top-contributors
+
+## 💖 Support My Work
+If you find these NLP projects useful, please consider supporting my research & teaching work.
+
+👉 [Sponsor via GitHub](https://github.com/sponsors/dr-mushtaq)  
+👉 [Buy Me a Coffee](https://www.buymeacoffee.com/drmushtaq)
 
 
 ## **🎯 Why Join This Course?**
@@ -471,6 +477,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
