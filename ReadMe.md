@@ -424,10 +424,10 @@ Understanding all the tools, frameworks, architectures, and ecosystems around NL
 
 | Title/Link | Description |Tage|
 |---|---|---|
-| [**✅NLTK**](https://github.com/nltk/nltk) | Toolkit for basic NLP tasks like tokenization and stemming |
-| [**✅spaCy**](https://github.com/explosion/spaCy) | Efficient NLP library for entity recognition and dependency parsing |
-| [**✅Transformers**](https://github.com/huggingface/transformers) | Hugging Face library for state-of-the-art NLP models|
-| [**✅Flair**](https://github.com/flairNLP/flair) | Framework for advanced NLP with pre-trained embeddings |
+| [**✅NLTK**](https://github.com/nltk/nltk) | Toolkit for basic NLP tasks like tokenization and stemming |NLP, Tokenization, Preprocessing|
+| [**✅spaCy**](https://github.com/explosion/spaCy) | Efficient NLP library for entity recognition and dependency parsing |NER, POS, Parsing, Production NLP|
+| [**✅Transformers**](https://github.com/huggingface/transformers) | Hugging Face library for state-of-the-art NLP models|Transformer Models, Deep Learning, NLP|
+| [**✅Flair**](https://github.com/flairNLP/flair) | Framework for advanced NLP with pre-trained embeddings |Embeddings, NER, Sequence Labeling|
 </details>
 
 ## 💻 [Workflow](https://www.youtube.com/watch?v=LuWAw-RBPys):
@@ -471,6 +471,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
