@@ -418,10 +418,12 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 |[**✅ 18-microsoft**](https://github.com/microsoft/ai-agents-for-beginners)|AI-Tutorials/Implementations and Notebooks.| Pending|
 |[**✅ 19-awesome-generative-ai-guide**](https://github.com/aishwaryanr/awesome-generative-ai-guide)|AI-Tutorials/Implementations and Notebooks.| Pending|
 
-## 👁️ Chapter1: - **🔍 Tools and libraries**
+## 👁️ Chapter1: - **🔍 Tools, Frameworks & Platforms**
 
-| Title/Link | Description |
-|---|---|
+Understanding all the tools, frameworks, architectures, and ecosystems around NLP can sometimes feel harder than understanding AI itself. Below are the ones I’ve explored and used enough to feel confident recommending. Of course, these won’t solve every use case, and I’m not listing every supporting technology you might need to build real-world AI systems, but it’s a start.
+
+| Title/Link | Description |Tage|
+|---|---|---|
 | [**✅NLTK**](https://github.com/nltk/nltk) | Toolkit for basic NLP tasks like tokenization and stemming |
 | [**✅spaCy**](https://github.com/explosion/spaCy) | Efficient NLP library for entity recognition and dependency parsing |
 | [**✅Transformers**](https://github.com/huggingface/transformers) | Hugging Face library for state-of-the-art NLP models|
@@ -469,6 +471,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
