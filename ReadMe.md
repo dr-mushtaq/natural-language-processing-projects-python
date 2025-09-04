@@ -423,6 +423,8 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 |[**✅ 17-AI-Notebooks by Marktechpost**](https://github.com/Marktechpost/AI-Notebooks/tree/main)|AI-Tutorials/Implementations and Notebooks.| Pending|
 |[**✅ 18-microsoft**](https://github.com/microsoft/ai-agents-for-beginners)|AI-Tutorials/Implementations and Notebooks.| Pending|
 |[**✅ 19-awesome-generative-ai-guide**](https://github.com/aishwaryanr/awesome-generative-ai-guide)|AI-Tutorials/Implementations and Notebooks.| Pending|
+|[**✅ 19-Awesome LLM Apps**](https://github.com/Shubhamsaboo/awesome-llm-apps?tab=readme-ov-file)|AI-Tutorials/Implementations and Notebooks.| Pending|
+
 
 ## 👁️ Chapter1: - **🔍 Tools, Frameworks & Platforms**
 
@@ -477,6 +479,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
