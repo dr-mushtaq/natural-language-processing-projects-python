@@ -253,10 +253,10 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
  
  4- Apply Practical Skills in Word Embedding Tasks
 
- | Topic Name/Tutorial | Video | Code |Resources|
+ | Topic Name/Tutorial | Video | Code |Extra Resources|
  |--|---|---|---|
  |[**🌐1-Basic Word Representations⭐️**](https://medium.com/@Coursesteach/one-hot-vectors-explained-simplifying-word-representation-in-nlp-part-58-7855fe35dd5b)| [**1**](https://drive.google.com/file/d/1D-DiE4vlZgulAoh5Ygoy4O1s8LZezJju/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
-  |[**🌐2-Word Embedding⭐️**](https://medium.com/@Coursesteach/from-words-to-vectors-understanding-word-embeddings-in-nlp-part-59-d80d0d470120)| [**1**](https://drive.google.com/file/d/1y149H5Tch-y0aq3Ro2lPVuC0YX-HZ_S9/view)[-2](https://www.youtube.com/watch?v=IebL0RQF5lg)[-3](https://www.youtube.com/watch?v=Do8cVbx-HOs)[-4](https://www.youtube.com/watch?v=wgfSDrqYMJ4)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[1](https://machinelearningmastery.com/word-embeddings-in-language-models/?fbclid=IwY2xjawKrUpFleHRuA2FlbQIxMQBicmlkETFJalp2N1BLekFJd0hCZ2F2AR5cO0Dy3oQB8zBER1fzwvVtJa61gAFqfHiSjv8t3rLHfhJpJDpSDPB4yTcDvA_aem_TVcQBzJP4VJQtzk7jxAjqw)|
+  |[**🌐2-Word Embedding⭐️**](https://medium.com/@Coursesteach/from-words-to-vectors-understanding-word-embeddings-in-nlp-part-59-d80d0d470120)| [**1**](https://drive.google.com/file/d/1y149H5Tch-y0aq3Ro2lPVuC0YX-HZ_S9/view)[-2](https://www.youtube.com/watch?v=IebL0RQF5lg)[-3](https://www.youtube.com/watch?v=Do8cVbx-HOs)[-4](https://www.youtube.com/watch?v=wgfSDrqYMJ4)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[1](https://machinelearningmastery.com/word-embeddings-in-language-models/?fbclid=IwY2xjawKrUpFleHRuA2FlbQIxMQBicmlkETFJalp2N1BLekFJd0hCZ2F2AR5cO0Dy3oQB8zBER1fzwvVtJa61gAFqfHiSjv8t3rLHfhJpJDpSDPB4yTcDvA_aem_TVcQBzJP4VJQtzk7jxAjqw)|[1](https://dev.to/dev_kiran/embeddings-the-hidden-power-behind-ai-search-21eb)|
   |[**🌐3-How to Create Word Embeddings⭐️**](https://medium.com/@Coursesteach/learn-to-create-word-embeddings-tools-techniques-and-best-practices-natural-language-processing-8ca08a659ea3)| [**1**](https://drive.google.com/file/d/1Xqd96C6GcLSPEBGFVzxyBAd8MYWVGoPH/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
    |[**🌐4-Word Embedding Methods⭐️**](https://medium.com/@Coursesteach/exploring-word-embedding-techniques-from-word2vec-to-transformers-natural-language-processing-cf3b2b8b9dd3)| [**1**](https://drive.google.com/file/d/1a9Cad2Kgel2cr7IwTzVAoWWMq4CgTP2g/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
    |[**🌐5-Continuous Bag-of-Words Model⭐️**](https://medium.com/@Coursesteach/understanding-the-continuous-bag-of-words-model-for-word-embeddings-natural-language-processing-7080b5c1a8d8)| [**1**](https://drive.google.com/file/d/1n9hZuRvN2l0JKoxuRmQeodAm-QWDg9gW/view)[-2](https://www.youtube.com/watch?v=viZrOnJclY0)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
@@ -479,6 +479,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
