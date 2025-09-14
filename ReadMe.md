@@ -377,6 +377,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 |[**✅ 14-CS336: Language Modeling from Scratch**](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)|Stanford's CS336 2025 (Language Modeling from Scratch) is now available on YouTube| Pending|
 |[**✅ 15-Week 6: Chatbots and Dialogue Agents**](https://www.youtube.com/playlist?list=PLaZQkZp6WhWzLZt7k3zTl6ClAdLuyP8v)|Stanford's CS336 2025 (Language Modeling from Scratch) is now available on YouTube| Pending|
 |[**✅ 16-10 Best Large Language Models Courses and Training (LLMs)- 2025**](https://www.mltut.com/best-large-language-models-courses/)|Stanford's CS336 2025 (Language Modeling from Scratch) is now available on YouTube| Pending|
+|[**✅ 16-Free LLM Course o Hugace**](https://huggingface.co/learn/llm-course/chapter1/2?fw=pt)|Stanford's CS336 2025 (Language Modeling from Scratch) is now available on YouTube| Pending|
 
 
 
@@ -487,6 +488,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
