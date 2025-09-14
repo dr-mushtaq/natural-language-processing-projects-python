@@ -314,6 +314,8 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 
  ### Week 2-[**📚Chapter2:LSTMS and Named Entity Recognition**]()
 
+ This module takes you through the journey of sequence models and NER step by step. You’ll start with RNNs and the vanishing gradient problem, then see how LSTMs overcome this limitation and explore their architecture with input, forget, and output gates. From there, you’ll shift to Named Entity Recognition (NER) — first understanding what it is, then learning about data preprocessing for training, and finally discovering how to evaluate models by computing accuracy with masking and prediction.
+
  | Topic Name/Tutorial | Video | Code |Note|Diffculty Level|
  |---|---|---|---|---|
  |**🌐1-RNNs and Vanishing Gradients**| [**1**](https://drive.google.com/file/d/12AAEBWl7AzLn9tdq6KHiv89IjsRg4fX6/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Link](https://coursesteach.com/mod/page/view.php?id=10407&forceview=1)| intermediate|
@@ -492,6 +494,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
