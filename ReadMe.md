@@ -11,7 +11,7 @@ Welcome to the Natural Language Processing (NLP) Course, an open-source initiati
  ## 🚀 Get Involved  
 
 <p align="center">
-  <a href="https://github.com/YOUR-USERNAME/YOUR-REPO/discussions">
+  <a href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/discussions">
     <img src="https://img.shields.io/badge/💬_Join-Discussions-blue?style=for-the-badge" />
   </a>
   <a href="https://github.com/YOUR-USERNAME/YOUR-REPO/issues">
@@ -517,6 +517,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
