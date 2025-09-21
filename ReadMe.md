@@ -467,20 +467,26 @@ Understanding all the tools, frameworks, architectures, and ecosystems around NL
 | [**✅Transformers**](https://github.com/huggingface/transformers) | Hugging Face library for state-of-the-art NLP models|Transformer Models, Deep Learning, NLP|
 | [**✅Flair**](https://github.com/flairNLP/flair) | Framework for advanced NLP with pre-trained embeddings |Embeddings, NER, Sequence Labeling|
 
-## 👁️ Chapter 2: - **Latest NLP Models**
+# 👁️ Chapter 2: - **Latest NLP Models (Chronological Order)**
 
-| Name | Purpose | Strengths | Resource | Language Support | Use Cases |
-|---|---|---|---|---|---|
-| **🌐 1 - Siamese Network** | Semantic similarity matching between text pairs | Excellent at identifying paraphrases, duplicate questions, and similar intents | [Paper](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) | English (multilingual versions exist) | FAQ bots, duplicate detection, semantic search |
-| **🤖 2 - BERT (Bidirectional Encoder Representations from Transformers)** | Contextual word embeddings | Deep bidirectional understanding of text, strong for classification tasks | [Google AI Blog](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) | Multilingual (100+ languages with mBERT) | Sentiment analysis, NER, Q&A, text classification |
-| **⚡ 3 - RoBERTa (Robustly Optimized BERT)** | Improved version of BERT | Better performance with optimized training and larger datasets | [Paper](https://arxiv.org/abs/1907.11692) | Multilingual (via XLM-R variants) | Sentiment analysis, intent detection, sequence labeling |
-| **📝 4 - GPT (Generative Pre-trained Transformer)** | Text generation & completion | Strong generative ability, coherent long-form outputs | [OpenAI](https://openai.com/research/gpt-3) | English (multilingual via fine-tuning) | Chatbots, creative writing, summarization |
-| **📖 5 - T5 (Text-to-Text Transfer Transformer)** | Unified framework for all NLP tasks | Converts every task into text-to-text format | [Paper](https://arxiv.org/abs/1910.10683) | Multilingual (via mT5) | Summarization, translation, Q&A, classification |
-| **📊 6 - XLNet** | Generalized autoregressive pretraining | Combines strengths of BERT & GPT, better for sequence modeling | [Paper](https://arxiv.org/abs/1906.08237) | Mainly English (multilingual versions available) | Sentiment analysis, document classification |
-| **🌍 7 - XLM-R (Cross-lingual RoBERTa)** | Cross-lingual understanding | State-of-the-art multilingual embeddings | [Paper](https://arxiv.org/abs/1911.02116) | 100+ languages | Cross-lingual transfer, multilingual chatbots |
-| **🎯 8 - DistilBERT** | Lightweight BERT variant | Faster & smaller while retaining 95% of BERT’s performance | [Hugging Face](https://arxiv.org/abs/1910.01108) | Multilingual | On-device NLP, real-time applications |
-| **🔎 9 - ALBERT (A Lite BERT)** | Parameter-efficient BERT | Reduces parameters with factorization, faster training | [Paper](https://arxiv.org/abs/1909.11942) | Mainly English | Low-resource tasks, efficient NLP pipelines |
-| **🗣️ 10 - Whisper** | Speech-to-text & translation | Strong multilingual ASR model | [OpenAI](https://openai.com/research/whisper) | 90+ languages | Speech recognition, real-time transcription |
+| Year | Name | Purpose | Strengths (Pros) | Limitations (Cons) | Hugging Face Checkpoint | Founder / Origin |
+|---|---|---|---|---|---|---|
+| **1997** | 🧠 **LSTM (Long Short-Term Memory)** | Sequence modeling, long-range dependencies | Handles long-term dependencies, stable training compared to vanilla RNNs | Training is slower than GRU/Transformers | `keras/lstm` (conceptual, implemented in Keras/TensorFlow) | Sepp Hochreiter & Jürgen Schmidhuber |
+| **2014** | 🔄 **GRU (Gated Recurrent Unit)** | Simpler RNN variant for sequence tasks | Fewer parameters than LSTM, faster training | Sometimes less accurate than LSTM for long dependencies | `tensorflow/gru` (implemented in TF & PyTorch) | Kyunghyun Cho et al. |
+| **2015** | 🌐 **Siamese Network** | Semantic similarity between text pairs | Great for similarity & matching tasks | Requires paired training data, limited generative power | `sentence-transformers/siamese-mpnet-base` | Gregory Koch, Richard Zemel, Ruslan Salakhutdinov |
+| **2017** | 🔁 **Transformer** | Attention-based sequence modeling | Parallelizable, captures long-range context, foundation for modern NLP | Needs large data & compute, less intuitive than RNNs | `google/transformer` (reference impl.) | Google Brain (Vaswani et al.) |
+| **2018** | 🤖 **BERT** | Contextual embeddings | Excellent bidirectional context, strong for many downstream tasks | Slow inference, large model size | `bert-base-uncased` | Google AI (Jacob Devlin et al.) |
+| **2019** | 📊 **XLNet** | Generalized autoregressive pretraining | Combines BERT & GPT advantages, better for permutation language modeling | More complex training, resource-heavy | `xlnet-base-cased` | Google Brain & CMU (Zhilin Yang et al.) |
+| **2019** | ⚡ **RoBERTa** | Optimized BERT | Better performance with longer training, more data | Computationally expensive | `roberta-base` | Facebook AI (Liu et al.) |
+| **2019** | 🔎 **ALBERT** | Efficient BERT variant | Reduced parameters, faster training | Slight drop in accuracy compared to BERT | `albert-base-v2` | Google Research & TTI (Lan et al.) |
+| **2019** | 🎯 **DistilBERT** | Lightweight BERT | Faster & smaller, retains ~95% of BERT performance | Lower accuracy on complex tasks | `distilbert-base-uncased` | Hugging Face (Victor Sanh et al.) |
+| **2019** | 📖 **T5** | Text-to-text framework | Flexible (all tasks as text-to-text), powerful transfer | Requires large datasets for best results | `t5-small` / `t5-base` | Google Research (Colin Raffel et al.) |
+| **2019** | 🌍 **XLM-R** | Cross-lingual embeddings | Strong multilingual transfer across 100+ languages | Resource-heavy training | `xlm-roberta-base` | Facebook AI |
+| **2020** | 📝 **GPT-3** | Large-scale text generation | Few-shot capability, strong coherence | Closed-source, costly inference | (API only, no public HF checkpoint) | OpenAI (Brown et al.) |
+| **2022** | 🗣️ **Whisper** | Speech-to-text & translation | Robust multilingual ASR | Requires GPU for real-time | `openai/whisper-base` | OpenAI |
+| **2023** | 🤯 **GPT-4** | Advanced reasoning, multimodal | Better reasoning, multimodal support | Closed-source, expensive API | (API only, no HF checkpoint) | OpenAI |
+| **2023/24** | 🦙 **LLaMA** | Open-source large-scale LLM | Efficient, open-source alternative to GPT | Needs fine-tuning for many tasks | `meta-llama/Llama-2-7b-hf` | Meta AI (Hugo Touvron et al.) |
+
 
 </details>
 
@@ -525,6 +531,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
