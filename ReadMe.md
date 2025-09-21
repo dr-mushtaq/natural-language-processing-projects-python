@@ -475,6 +475,11 @@ Understanding all the tools, frameworks, architectures, and ecosystems around NL
 | [**✅spaCy**](https://github.com/explosion/spaCy) | Efficient NLP library for entity recognition and dependency parsing |NER, POS, Parsing, Production NLP|
 | [**✅Transformers**](https://github.com/huggingface/transformers) | Hugging Face library for state-of-the-art NLP models|Transformer Models, Deep Learning, NLP|
 | [**✅Flair**](https://github.com/flairNLP/flair) | Framework for advanced NLP with pre-trained embeddings |Embeddings, NER, Sequence Labeling|
+
+## 👁️ Chapter2: - **Latest NLP Models**
+| Name| Puerpose | Strengths |Resource|Language Support|Use Cases|
+|---|---|---|---|---|---|
+|**🌐-1-Siamese Network**|better for semantic similarity matching|Great for identifying similar intents or paraphrased questions.|---|English (multilingual variants exist)|FAQ bots, duplicate detection, semantic search|
 </details>
 
 ## 💻 [Workflow](https://www.youtube.com/watch?v=LuWAw-RBPys):
@@ -518,6 +523,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
