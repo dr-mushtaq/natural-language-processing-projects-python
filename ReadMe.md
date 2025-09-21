@@ -134,10 +134,10 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 [![Subscribe on Substack](https://img.shields.io/badge/Subscribe-Substack-orange?style=for-the-badge&logo=substack)](https://substack.com/@coursesteach)
 
 
-## **📌 Course Modules & Resources**
+## **🧭 Suggested Learning Path (Basic → Advanced → Expert)**
 
 <details> 
-<summary> <h2> 📕Course 01 -Classification and Vector Spaces </h2> </summary>
+<summary> <h2> 📕 Level 2: Intermediate: Course 01 -Classification and Vector Spaces </h2> </summary>
 
 ### 🔹Week 0-**Chapter 1:Introduction**
 | Topic Name/Tutorial | Video | 💻 Colab Implementation |Note|
@@ -215,7 +215,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 </details>
 
 <details> 
-<summary> <h2>📕Course 02 -Natural Language Processing with Probabilistic Models </h2> </summary>
+<summary> <h2>Level 2: Intermediate: Course 02 -Natural Language Processing with Probabilistic Models </h2> </summary>
   
  ### Week 1-[**📚Chapter1:Autocorrect and Mininum Edit Distance**]()
 
@@ -531,6 +531,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
