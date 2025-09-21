@@ -346,29 +346,10 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
  ### Week 2-[**📚Chapter3:Siamese Networks**]()
 
  This module takes you through the journey of sequence models and NER step by step. You’ll start with RNNs and the vanishing gradient problem, then see how LSTMs overcome this limitation and explore their architecture with input, forget, and output gates. From there, you’ll shift to Named Entity Recognition (NER) — first understanding what it is, then learning about data preprocessing for training, and finally discovering how to evaluate models by computing accuracy with masking and prediction.
-
+ 
  | Topic Name/Tutorial | Video | Code |Note|Diffculty Level|
  |---|---|---|---|---|
-| Name | Purpose | Strengths | Resource | Language Support | Use Cases |
-|---|---|---|---|---|---|
-| **🌐 1 - Siamese Network** | Semantic similarity matching between text pairs | Excellent at identifying paraphrases, duplicate questions, and similar intents | [Paper](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) | English (multilingual versions exist) | FAQ bots, duplicate detection, semantic search |
-| **🤖 2 - BERT (Bidirectional Encoder Representations from Transformers)** | Contextual word embeddings | Deep bidirectional understanding of text, strong for classification tasks | [Google AI Blog](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) | Multilingual (100+ languages with mBERT) | Sentiment analysis, NER, Q&A, text classification |
-| **⚡ 3 - RoBERTa (Robustly Optimized BERT)** | Improved version of BERT | Better performance with optimized training and larger datasets | [Paper](https://arxiv.org/abs/1907.11692) | Multilingual (via XLM-R variants) | Sentiment analysis, intent detection, sequence labeling |
-| **📝 4 - GPT (Generative Pre-trained Transformer)** | Text generation & completion | Strong generative ability, coherent long-form outputs | [OpenAI](https://openai.com/research/gpt-3) | English (multilingual via fine-tuning) | Chatbots, creative writing, summarization |
-| **📖 5 - T5 (Text-to-Text Transfer Transformer)** | Unified framework for all NLP tasks | Converts every task into text-to-text format | [Paper](https://arxiv.org/abs/1910.10683) | Multilingual (via mT5) | Summarization, translation, Q&A, classification |
-| **📊 6 - XLNet** | Generalized autoregressive pretraining | Combines strengths of BERT & GPT, better for sequence modeling | [Paper](https://arxiv.org/abs/1906.08237) | Mainly English (multilingual versions available) | Sentiment analysis, document classification |
-| **🌍 7 - XLM-R (Cross-lingual RoBERTa)** | Cross-lingual understanding | State-of-the-art multilingual embeddings | [Paper](https://arxiv.org/abs/1911.02116) | 100+ languages | Cross-lingual transfer, multilingual chatbots |
-| **🎯 8 - DistilBERT** | Lightweight BERT variant | Faster & smaller while retaining 95% of BERT’s performance | [Hugging Face](https://arxiv.org/abs/1910.01108) | Multilingual | On-device NLP, real-time applications |
-| **🔎 9 - ALBERT (A Lite BERT)** | Parameter-efficient BERT | Reduces parameters with factorization, faster training | [Paper](https://arxiv.org/abs/1909.11942) | Mainly English | Low-resource tasks, efficient NLP pipelines |
-
-
-  
-
-
-
-
-
-
+ |**🌐1-RNNs and Vanishing Gradients**| [**1**](https://drive.google.com/file/d/12AAEBWl7AzLn9tdq6KHiv89IjsRg4fX6/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Link](https://coursesteach.com/mod/page/view.php?id=10407&forceview=1)| intermediate|
 
  </details>
 
@@ -501,6 +482,7 @@ Understanding all the tools, frameworks, architectures, and ecosystems around NL
 | **🔎 9 - ALBERT (A Lite BERT)** | Parameter-efficient BERT | Reduces parameters with factorization, faster training | [Paper](https://arxiv.org/abs/1909.11942) | Mainly English | Low-resource tasks, efficient NLP pipelines |
 | **🗣️ 10 - Whisper** | Speech-to-text & translation | Strong multilingual ASR model | [OpenAI](https://openai.com/research/whisper) | 90+ languages | Speech recognition, real-time transcription |
 
+</details>
 
 ## 💻 [Workflow](https://www.youtube.com/watch?v=LuWAw-RBPys):
 
@@ -543,6 +525,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
