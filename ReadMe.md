@@ -486,11 +486,21 @@ Understanding all the tools, frameworks, architectures, and ecosystems around NL
 | [**✅Transformers**](https://github.com/huggingface/transformers) | Hugging Face library for state-of-the-art NLP models|Transformer Models, Deep Learning, NLP|
 | [**✅Flair**](https://github.com/flairNLP/flair) | Framework for advanced NLP with pre-trained embeddings |Embeddings, NER, Sequence Labeling|
 
-## 👁️ Chapter2: - **Latest NLP Models**
-| Name| Puerpose | Strengths |Resource|Language Support|Use Cases|
+## 👁️ Chapter 2: - **Latest NLP Models**
+
+| Name | Purpose | Strengths | Resource | Language Support | Use Cases |
 |---|---|---|---|---|---|
-|**🌐-1-Siamese Network**|better for semantic similarity matching|Great for identifying similar intents or paraphrased questions.|---|English (multilingual variants exist)|FAQ bots, duplicate detection, semantic search|
-</details>
+| **🌐 1 - Siamese Network** | Semantic similarity matching between text pairs | Excellent at identifying paraphrases, duplicate questions, and similar intents | [Paper](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) | English (multilingual versions exist) | FAQ bots, duplicate detection, semantic search |
+| **🤖 2 - BERT (Bidirectional Encoder Representations from Transformers)** | Contextual word embeddings | Deep bidirectional understanding of text, strong for classification tasks | [Google AI Blog](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) | Multilingual (100+ languages with mBERT) | Sentiment analysis, NER, Q&A, text classification |
+| **⚡ 3 - RoBERTa (Robustly Optimized BERT)** | Improved version of BERT | Better performance with optimized training and larger datasets | [Paper](https://arxiv.org/abs/1907.11692) | Multilingual (via XLM-R variants) | Sentiment analysis, intent detection, sequence labeling |
+| **📝 4 - GPT (Generative Pre-trained Transformer)** | Text generation & completion | Strong generative ability, coherent long-form outputs | [OpenAI](https://openai.com/research/gpt-3) | English (multilingual via fine-tuning) | Chatbots, creative writing, summarization |
+| **📖 5 - T5 (Text-to-Text Transfer Transformer)** | Unified framework for all NLP tasks | Converts every task into text-to-text format | [Paper](https://arxiv.org/abs/1910.10683) | Multilingual (via mT5) | Summarization, translation, Q&A, classification |
+| **📊 6 - XLNet** | Generalized autoregressive pretraining | Combines strengths of BERT & GPT, better for sequence modeling | [Paper](https://arxiv.org/abs/1906.08237) | Mainly English (multilingual versions available) | Sentiment analysis, document classification |
+| **🌍 7 - XLM-R (Cross-lingual RoBERTa)** | Cross-lingual understanding | State-of-the-art multilingual embeddings | [Paper](https://arxiv.org/abs/1911.02116) | 100+ languages | Cross-lingual transfer, multilingual chatbots |
+| **🎯 8 - DistilBERT** | Lightweight BERT variant | Faster & smaller while retaining 95% of BERT’s performance | [Hugging Face](https://arxiv.org/abs/1910.01108) | Multilingual | On-device NLP, real-time applications |
+| **🔎 9 - ALBERT (A Lite BERT)** | Parameter-efficient BERT | Reduces parameters with factorization, faster training | [Paper](https://arxiv.org/abs/1909.11942) | Mainly English | Low-resource tasks, efficient NLP pipelines |
+| **🗣️ 10 - Whisper** | Speech-to-text & translation | Strong multilingual ASR model | [OpenAI](https://openai.com/research/whisper) | 90+ languages | Speech recognition, real-time transcription |
+
 
 ## 💻 [Workflow](https://www.youtube.com/watch?v=LuWAw-RBPys):
 
