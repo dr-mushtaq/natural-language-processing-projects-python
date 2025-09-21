@@ -386,11 +386,33 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 
 
 <details> 
-<summary> <h2> 📕Course 05 -Building Chatbots in Python </h2> </summary>
+<summary> <h2> 📕🔵Level 3: Advanced:Course 05 -Building Chatbots in Python </h2> </summary>
  
 ## Week - [**Building Chatbots in Python**]()
   - [**Building Chatbots in Python**](https://github.com/hussain0048/Natural-language-processing/blob/main/Chatbot_using_python.ipynb)
 </details>
+
+<details> 
+<summary> <h2>📕Level 4: Expert (Research & Applications)</h2> </summary>
+
+- Large Language Models (LLMs): GPT-4, LLaMA, Claude, Mistral
+- Prompt engineering & instruction tuning
+- Retrieval-Augmented Generation (RAG)
+- Multimodal models (text + vision, speech)
+  
+ ### Week 1-[**📚 Cutting-edge NLP**]()
+
+ | Topic Name/Tutorial | Video | Code |
+ |---|---|---|
+ |[**🌐1-Overview**](https://medium.com/@Coursesteach/natural-language-processing-part-33-transforming-word-vectors-37491a721ac7)| [**1**](https://drive.google.com/file/d/1n_AX9UaW-8T97jucHEr0Ge9sGJjTyhEG/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+
+  ### Week 1-[**📚 Cutting-edge NLP**]()
+
+ | Topic Name/Tutorial | Video | Code |
+ |---|---|---|
+ |[**🌐1-Overview**](https://medium.com/@Coursesteach/natural-language-processing-part-33-transforming-word-vectors-37491a721ac7)| [**1**](https://drive.google.com/file/d/1n_AX9UaW-8T97jucHEr0Ge9sGJjTyhEG/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+
+ </details>
 
 <details> 
 <summary> <h2>📕 Natural-Language Processing Resources </h2> </summary>
@@ -551,6 +573,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
