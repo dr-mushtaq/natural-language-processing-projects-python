@@ -349,7 +349,17 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 
  | Topic Name/Tutorial | Video | Code |Note|Diffculty Level|
  |---|---|---|---|---|
- |**🌐1-Siamese Networks**| [**1**](https://drive.google.com/file/d/1C8kxW9r9ScnF31A2L_07JuDPdC2J5IIL/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10463&forceview=1)| Expart|
+| Name | Purpose | Strengths | Resource | Language Support | Use Cases |
+|---|---|---|---|---|---|
+| **🌐 1 - Siamese Network** | Semantic similarity matching between text pairs | Excellent at identifying paraphrases, duplicate questions, and similar intents | [Paper](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) | English (multilingual versions exist) | FAQ bots, duplicate detection, semantic search |
+| **🤖 2 - BERT (Bidirectional Encoder Representations from Transformers)** | Contextual word embeddings | Deep bidirectional understanding of text, strong for classification tasks | [Google AI Blog](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) | Multilingual (100+ languages with mBERT) | Sentiment analysis, NER, Q&A, text classification |
+| **⚡ 3 - RoBERTa (Robustly Optimized BERT)** | Improved version of BERT | Better performance with optimized training and larger datasets | [Paper](https://arxiv.org/abs/1907.11692) | Multilingual (via XLM-R variants) | Sentiment analysis, intent detection, sequence labeling |
+| **📝 4 - GPT (Generative Pre-trained Transformer)** | Text generation & completion | Strong generative ability, coherent long-form outputs | [OpenAI](https://openai.com/research/gpt-3) | English (multilingual via fine-tuning) | Chatbots, creative writing, summarization |
+| **📖 5 - T5 (Text-to-Text Transfer Transformer)** | Unified framework for all NLP tasks | Converts every task into text-to-text format | [Paper](https://arxiv.org/abs/1910.10683) | Multilingual (via mT5) | Summarization, translation, Q&A, classification |
+| **📊 6 - XLNet** | Generalized autoregressive pretraining | Combines strengths of BERT & GPT, better for sequence modeling | [Paper](https://arxiv.org/abs/1906.08237) | Mainly English (multilingual versions available) | Sentiment analysis, document classification |
+| **🌍 7 - XLM-R (Cross-lingual RoBERTa)** | Cross-lingual understanding | State-of-the-art multilingual embeddings | [Paper](https://arxiv.org/abs/1911.02116) | 100+ languages | Cross-lingual transfer, multilingual chatbots |
+| **🎯 8 - DistilBERT** | Lightweight BERT variant | Faster & smaller while retaining 95% of BERT’s performance | [Hugging Face](https://arxiv.org/abs/1910.01108) | Multilingual | On-device NLP, real-time applications |
+| **🔎 9 - ALBERT (A Lite BERT)** | Parameter-efficient BERT | Reduces parameters with factorization, faster training | [Paper](https://arxiv.org/abs/1909.11942) | Mainly English | Low-resource tasks, efficient NLP pipelines |
 
 
   
@@ -523,6 +533,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
