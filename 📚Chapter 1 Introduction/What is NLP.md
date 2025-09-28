@@ -34,21 +34,20 @@ NLP is primarily about developing systems that allow machines to communicate wit
 
 **Def: Natural Language Processing** is a branch of linguistics, AI, and CS for the manipulation, and translation of natural language which gives machines the ability to read, understand and derive meaning from human language. Simply put, NLP is a set of computational techniques that allow machines to understand and manipulate human spoken languages. But how is that possible?
 
+There are trillions of web pages full of natural text, so imagine the scale of data available today. NLP algorithms often model the hierarchical structure of natural language i.e. characters form words, words form phrases, phrases form sentences, sentences form paragraphs, and paragraphs form documents .
+
  
 
 <p align="center">
-<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/1_uhwJAFDBNBjTVmJ_6P5Zyg.png"></a>
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/image-1.png"></a>
 </p>
+
+Natural Language Processing (or NLP for short) consists of developing a set of algorithms and tools so that machines can make sense of data available in natural (human) languages such as English, German, French, etc. Although there are traces of NLP research since a long time ago, the concept got well defined in the 1950s, with the breakthrough research work of Alan Turing and Noam Chomsky. Natural language refers to the medium in which humans communicate with each other. This could be in the form of writings (text) for example emails, articles, news, blogs, bank documents, etc or speech, for example, lectures, speeches, audio calls, etc. There are trillions of web pages full of natural text, so imagine the scale of data available today.NLP algorithms often model the hierarchical structure of natural language i.e. characters form words, words form phrases, phrases form sentences, sentences form paragraphs, and paragraphs form documents.
 
 ### References
 
 1-[What is Computer Vision? & Its Applications](https://medium.com/@draj0718/what-is-computer-vision-its-applications-826c0bbd772b)
 
-2-[-Introduction of Computer Vision](https://auth.udacity.com/sign-in)
-
-4-[How computer vision works](https://www.sas.com/en_us/insights/analytics/computer-vision.html#technical)
-
-5-[Computer Vision 🤖 Fundamentals with OpenCV](https://medium.com/codex/computer-vision-fundamentals-with-opencv-9fc93b61e3e8)
 
 
 <p align="center">
@@ -64,6 +63,7 @@ NLP is primarily about developing systems that allow machines to communicate wit
     </button>
   </a>
 </p>
+
 
 
 
