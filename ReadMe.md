@@ -350,6 +350,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
  | Topic Name/Tutorial | Video | Code |Note|Diffculty Level|
  |---|---|---|---|---|
  |**🌐1-Siamese Networks**| [**1**](https://drive.google.com/file/d/1C8kxW9r9ScnF31A2L_07JuDPdC2J5IIL/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10463&forceview=1)| intermediate|
+ |**🌐2-Architecture**| [**1**](https://drive.google.com/file/d/1IUJYZt7QEK-c2pu6-D8yJy3IZGYn3z-i/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10472&forceview=1)| intermediate|
 
  </details>
 
@@ -573,6 +574,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
