@@ -30,6 +30,8 @@ NLP is primarily about developing systems that allow machines to communicate wit
 
 **Natural Language Generation (NLG):** Once a machine understands human input, NLG takes over by generating appropriate responses. An example of this is AI writing assistants that can craft sentences or paragraphs based on the data provided.
 
+**Def: Natural language refers** to the medium in which humans communicate with each other. This could be in the form of writing (text) for example emails, articles, news, blogs, bank documents, etc, or speech for example lectures, speeches, audio calls, etc. NLP is one of the major AI technologies aimed at making machines capable enough to interpret speech and text-based human language.
+
  
 
 <p align="center">
@@ -60,6 +62,7 @@ NLP is primarily about developing systems that allow machines to communicate wit
     </button>
   </a>
 </p>
+
 
 
 
