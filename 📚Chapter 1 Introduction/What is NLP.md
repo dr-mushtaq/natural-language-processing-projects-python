@@ -102,6 +102,64 @@ it is the task of automatically translating from one natural language to another
 
 Chatbots are another interesting application in NLP. They can understand some common queries and can respond. By now most business websites have chatbots to interact with customers.[3]
 
+--------------------------------------------------------------------------------
+NLP Concepts Quiz
+Test your knowledge of Natural Language Processing based on the provided materials. Choose the best answer for each question.
+
+--------------------------------------------------------------------------------
+**1.Of course. Here is a quiz in Markdown format based on the sources you provided.
+
+--------------------------------------------------------------------------------
+NLP Concepts Quiz
+Test your knowledge of Natural Language Processing based on the provided materials. Choose the best answer for each question.
+
+--------------------------------------------------------------------------------
+1. What is the primary goal of Natural Language Processing (NLP)?
+• a) To work with numerical values and spreadsheets.
+• b) To make computers understand, interpret, and manipulate human language.
+• c) To create hand-coded rules for language analysis.
+• d) To model the hierarchical structure of computer code.
+
+--------------------------------------------------------------------------------
+2. NLP encompasses two key areas. What are they?
+• a) Data Labeling and Text Analysis.
+• b) Natural Language Understanding (NLU) and Natural Language Generation (NLG).
+• c) Rule-Based Approaches and Statistical Approaches.
+• d) Machine Learning and Linguistics.
+
+--------------------------------------------------------------------------------
+3. Which of the following is an example of Natural Language Generation (NLG)?
+• a) Recognizing the user's intent when they ask "What's the weather like?".
+• b) An AI writing assistant crafting a paragraph based on provided data.
+• c) Classifying a news article as "sports" or "politics".
+• d) Extracting a person's name from a document.
+
+--------------------------------------------------------------------------------
+4. The 'Deep Learning Era' in NLP began in which decade?
+• a) 1950s-1960s.
+• b) 1970s-1980s.
+• c) 1990s-2000s.
+• d) 2010s-present.
+
+--------------------------------------------------------------------------------
+5. The task of analyzing text to determine if the emotion is positive, negative, or neutral is called:
+• a) Named Entity Recognition.
+• b) Document Summarization.
+• c) Sentiment Analysis.
+• d) Machine Translation.
+
+--------------------------------------------------------------------------------
+6. True or False: The earliest work in NLP relied on machine learning and statistical models.
+• a) True
+• b) False
+
+--------------------------------------------------------------------------------
+7. Which NLP application is used to automatically translate text from one language to another, like Google Translate does?
+• a) Question Answering.
+• b) Machine Translation.
+• c) Document Clustering.
+• d) Keyword Extraction.
+
 ### References
 
 1-[Natural Language Processing (NLP) with Python](https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
@@ -121,6 +179,7 @@ Chatbots are another interesting application in NLP. They can understand some co
     </button>
   </a>
 </p>
+
 
 
 
