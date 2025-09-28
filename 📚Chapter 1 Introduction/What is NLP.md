@@ -70,37 +70,41 @@ Let's discuss some common NLP applications and use cases:
 
 Deals with classifying textual documents and assigning it to one or multiple categories. Example applications include classifying news articles into categories like sports, politics, business, technology, etc, or segregating different types of invoices and sales deeds in a large company.
 
-Document Clustering
+**Document Clustering**
 
 is used to find similar documents and segregate them to form groups. Documents that are closely related will be part of the same group. Example applications include finding similar questions that have already posted in a forum, or finding new published medical research related to a patient's symptoms.
 
-Sentiment Analysis
+**Sentiment Analysis**
+
 It is the process of analyzing emotions from text and classifying classes based on its content like Positive and Negative. We can use Sentiment analysis for product reviews, Customer feedback, News articles, social media comments, and many more. For Example, Let’s think about product reviews. We can classify those reviews as Positive, Negative, and Neutral using sentiment analysis without reading manually. NLP is used to classify text for different sentiments ranging from negative to neutral to positive. This is commonly used to understand customer opinions from product reviews or their posts on social media.[3].
 
-Keyword Extraction
+**Keyword Extraction**
+
 It is the process of extracting important keywords from some text or document. It helps to summarize the content and to find the main topics in the content.[3]
 
-Document Summarization
+**Document Summarization**
 
 NLP helps to extract the most important and central ideas in a document. For example, one could train a model to summarize a 3000-word article to 200 words. This allows the reader to save time and get the gist, and is often useful for news, research papers, etc.
 
-Named Entity Recognition,
+**Named Entity Recognition**,
 
 also known as entity extraction, identifies named entities and classifies them into categories such as person, organization, location, etc. Such a system can be used by stock investors to follow news corresponding to companies they have invested in, or to get news relating to your favorite sports players and teams from across various news sources.
 
-Question Answering systems
+**Question Answering systems**
 
 are intelligent systems that generate responses to the questions being asked by the user. Such systems often use facts and rules stored in their knowledge base. Many conversational AI and personal assistant solutions (for example Amazon Alexa) are able to perform question answering.
 
-Machine Translation
+**Machine Translation**
+
 it is the task of automatically translating from one natural language to another. This is the task Google translate is performing when you visit a website that is written in a language you do not understand.It is a most powerful example in Natural Language Processing. It is the process of some content being translated to another language. Google translate can translate different natural languages to each other using NLP techniques.[3].
 
-Chatbot
+**Chatbot**
+
 Chatbots are another interesting application in NLP. They can understand some common queries and can respond. By now most business websites have chatbots to interact with customers.[3]
 
 ### References
 
-1-[What is Computer Vision? & Its Applications](https://medium.com/@draj0718/what-is-computer-vision-its-applications-826c0bbd772b)
+1-[Natural Language Processing (NLP) with Python](https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
 
 
 
@@ -117,6 +121,7 @@ Chatbots are another interesting application in NLP. They can understand some co
     </button>
   </a>
 </p>
+
 
 
 
