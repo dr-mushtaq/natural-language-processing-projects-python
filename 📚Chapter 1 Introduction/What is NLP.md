@@ -32,6 +32,8 @@ NLP is primarily about developing systems that allow machines to communicate wit
 
 **Def: Natural language refers** to the medium in which humans communicate with each other. This could be in the form of writing (text) for example emails, articles, news, blogs, bank documents, etc, or speech for example lectures, speeches, audio calls, etc. NLP is one of the major AI technologies aimed at making machines capable enough to interpret speech and text-based human language.
 
+**Def: Natural Language Processing** is a branch of linguistics, AI, and CS for the manipulation, and translation of natural language which gives machines the ability to read, understand and derive meaning from human language. Simply put, NLP is a set of computational techniques that allow machines to understand and manipulate human spoken languages. But how is that possible?
+
  
 
 <p align="center">
@@ -62,6 +64,7 @@ NLP is primarily about developing systems that allow machines to communicate wit
     </button>
   </a>
 </p>
+
 
 
 
