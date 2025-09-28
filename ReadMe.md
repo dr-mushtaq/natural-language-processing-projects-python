@@ -143,7 +143,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | Topic Name/Tutorial | Video | 💻 Colab Implementation |Note|
 |---|---|---|---|
 |[**1-What is Natural Language Processing (NLP)-g⭐️**](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md#Brief-History-of-NLPl)|---|
-| [**✅2- Natural Language Processing Tasks and Applications-g⭐️**](https://mushtaqmsit.substack.com/p/natural-language-processing-for-beginners) | [1](https://www.youtube.com/watch?v=j86dP_05_o0)| Content 3 |
+| [**2- Natural Language Processing Tasks and Applications-g⭐️**](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md#Brief-History-of-NLPl) | [1](https://www.youtube.com/watch?v=j86dP_05_o0)| Content 3 |
 | [**✅3- Best Free Resources to Learn NLP-Tutorial-g**](https://mushtaqmsit.substack.com/p/top-free-nlp-learning-resources-your) | Content 5 | Content 6 |[Link](https://coursesteach.com/mod/page/view.php?id=10292)|
  
 ### 🔹Week 1-**Chapter 2:Sentiment Analysis (logistic Regression)**
@@ -576,6 +576,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
