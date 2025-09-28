@@ -3,8 +3,8 @@
 
 ## 📑 Table of Contents  
 
-- [Difference between CV and CP](#Difference-between-CV-and-CP)  
-- [What is Computer Vision?](#2--what-is-computer-vision)  
+- [Introduction](#1-Introduction)  
+- [Why NLP is so important?](#2-Why-NLP-is-so-important?)  
 - [What is Computer Vision NOT?](#what-is-computer-vision-not)  
 - [How does Computer Vision work?](#3-how-does-computer-vision-work)
 - [Real life Example?](#Real-life-Example)   
@@ -22,7 +22,7 @@ Computers and machines are great at working with tabular data or spreadsheets. H
 
 Well NLP is cool and stuff, but how can we leverage it to improve our businesses more efficiently? How it could differ from the more traditional techniques?” [5].As we have said before, NLP allows machines to effectively understand and manipulate human languages. With that, you will be able to automate a lot of tasks and improve their rapidity and scale, like data labeling, translation, customer feedback, and text analysis. Applying NLP to real-world cases and not just for research purposes, will bring a significant competitive advantage to many businesses.
 
-# **What is NLP?**
+# **3- What is NLP?**
 
 NLP is primarily about developing systems that allow machines to communicate with humans in their natural language. It encompasses two key areas:
 
@@ -60,6 +60,7 @@ NLP is primarily about developing systems that allow machines to communicate wit
     </button>
   </a>
 </p>
+
 
 
 
