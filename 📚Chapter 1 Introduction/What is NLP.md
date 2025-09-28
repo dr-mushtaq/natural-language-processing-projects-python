@@ -44,6 +44,26 @@ There are trillions of web pages full of natural text, so imagine the scale of d
 
 Natural Language Processing (or NLP for short) consists of developing a set of algorithms and tools so that machines can make sense of data available in natural (human) languages such as English, German, French, etc. Although there are traces of NLP research since a long time ago, the concept got well defined in the 1950s, with the breakthrough research work of Alan Turing and Noam Chomsky. Natural language refers to the medium in which humans communicate with each other. This could be in the form of writings (text) for example emails, articles, news, blogs, bank documents, etc or speech, for example, lectures, speeches, audio calls, etc. There are trillions of web pages full of natural text, so imagine the scale of data available today.NLP algorithms often model the hierarchical structure of natural language i.e. characters form words, words form phrases, phrases form sentences, sentences form paragraphs, and paragraphs form documents.
 
+# **Brief History of NLP**
+
+Natural Language Processing (NLP) boasts a diverse history that stretches across multiple decades. The domain of NLP has undergone substantial evolution, starting from its inception in the 1950s to the present-day advanced models capable of comprehending and producing language akin to humans.
+
+**Early Years (1950s-1960s)**
+
+The Dartmouth Summer Research Project on Artificial Intelligence, spearheaded by John McCarthy, Marvin Minsky, Nathaniel Rochester, and Claude Shannon, is frequently cited as the origin of Artificial Intelligence (AI) and Natural Language Processing (NLP). During the 1950s and 1960s, pioneers such as Alan Turing, Noam Chomsky, and Marvin Minsky established the groundwork for NLP through their investigations into machine learning, linguistics, and computer science.
+
+**Rule-Based Approach (1970s-1980s)**
+
+During the 1970s and 1980s, research in Natural Language Processing (NLP) was centered on rule-based methods for language processing. This required the formulation of hand-coded rules for the analysis and generation of language. While this method achieved some level of success, it was ultimately constrained by its lack of capacity to manage the intricacies and variations of human language.
+
+**Statistical Approach (1990s-2000s)**
+
+During the 1990s and 2000s, there was a transition to statistical methods in natural language processing (NLP). Researchers started to employ machine learning algorithms and statistical models for language analysis and generation. These methods proved to be more efficient than rule-based systems, although they also had drawbacks, such as the need for extensive annotated datasets.
+
+**Deep Learning Era (2010s-present)**
+
+The 2010s heralded the advent of the deep learning revolution in natural language processing (NLP). The emergence of vast datasets, significant improvements in computational power, and innovative algorithms such as recurrent neural networks (RNNs), long short-term memory (LSTM) networks, and transformers have facilitated the development of highly sophisticated and accurate NLP models.
+
 ### References
 
 1-[What is Computer Vision? & Its Applications](https://medium.com/@draj0718/what-is-computer-vision-its-applications-826c0bbd772b)
@@ -63,6 +83,7 @@ Natural Language Processing (or NLP for short) consists of developing a set of a
     </button>
   </a>
 </p>
+
 
 
 
