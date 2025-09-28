@@ -5,7 +5,7 @@
 
 - [Introduction](#Introduction)  
 - [Why NLP is so important?](#Why-NLP-is-so-important?)  
-- [What is NLP?](#What-is-NLP)  
+- [What is NLP?](#What-is-NLP?)  
 - [Brief History of NLP](#Brief-History-of-NLP)
 - [Real life Example?](#Real-life-Example)   
 - [History of Computer Vision](#history-of-computer-vision)  
@@ -83,6 +83,7 @@ The 2010s heralded the advent of the deep learning revolution in natural languag
     </button>
   </a>
 </p>
+
 
 
 
