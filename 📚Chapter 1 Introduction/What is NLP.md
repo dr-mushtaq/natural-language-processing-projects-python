@@ -5,7 +5,7 @@
 
 - [Introduction](#1-Introduction)  
 - [Why NLP is so important?](#2-Why-NLP-is-so-important?)  
-- [What is Computer Vision NOT?](#what-is-computer-vision-not)  
+- [3- What is NLP?](#3-What-is-NLP)  
 - [How does Computer Vision work?](#3-how-does-computer-vision-work)
 - [Real life Example?](#Real-life-Example)   
 - [History of Computer Vision](#history-of-computer-vision)  
@@ -60,6 +60,7 @@ NLP is primarily about developing systems that allow machines to communicate wit
     </button>
   </a>
 </p>
+
 
 
 
