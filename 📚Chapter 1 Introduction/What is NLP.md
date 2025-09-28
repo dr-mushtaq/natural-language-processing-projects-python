@@ -3,18 +3,18 @@
 
 ## 📑 Table of Contents  
 
-- [Introduction](#1-Introduction)  
-- [Why NLP is so important?](#2-Why-NLP-is-so-important?)  
+- [Introduction](#Introduction)  
+- [Why NLP is so important?](#Why-NLP-is-so-important?)  
 - [3- What is NLP?](#3-What-is-NLP)  
-- [How does Computer Vision work?](#3-how-does-computer-vision-work)
+- [Brief History of NLP](#Brief-History-of-NLP)
 - [Real life Example?](#Real-life-Example)   
 - [History of Computer Vision](#history-of-computer-vision)  
 
 
-# **1- Introduction** 
+# **Introduction** 
 In a world where communication reigns supreme, the ability to understand and interact with human language is invaluable. Natural Language Processing (NLP) is the field of artificial intelligence (AI) dedicated to making this possible. From powering virtual assistants to analyzing vast amounts of text data, NLP plays a pivotal role in shaping the way we interact with technology and each other.
 
-# **2-Why NLP is so important?**
+# **Why NLP is so important?**
 
 By now we have to work with a huge amount of data. In Machine Learning we mainly work with those numerical values. How we can get some actions on text data like news reports, social media comments and posts, and customer reviews in the online stores? We can use Natural language processing techniques to do that..Not only that, Even now we have made daily work easier by using applications made from NLP. Summarization applications, spell checker applications, and machine translations are some of them .
 
@@ -83,6 +83,7 @@ The 2010s heralded the advent of the deep learning revolution in natural languag
     </button>
   </a>
 </p>
+
 
 
 
