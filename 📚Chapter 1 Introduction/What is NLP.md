@@ -11,8 +11,16 @@
 - [History of Computer Vision](#history-of-computer-vision)  
 
 
-### **1- Introduction** 
+# **1- Introduction** 
 In a world where communication reigns supreme, the ability to understand and interact with human language is invaluable. Natural Language Processing (NLP) is the field of artificial intelligence (AI) dedicated to making this possible. From powering virtual assistants to analyzing vast amounts of text data, NLP plays a pivotal role in shaping the way we interact with technology and each other.
+
+# **Why NLP is so important?**
+
+By now we have to work with a huge amount of data. In Machine Learning we mainly work with those numerical values. How we can get some actions on text data like news reports, social media comments and posts, and customer reviews in the online stores? We can use Natural language processing techniques to do that.[3].Not only that, Even now we have made daily work easier by using applications made from NLP. Summarization applications, spell checker applications, and machine translations are some of them [3].
+
+Computers and machines are great at working with tabular data or spreadsheets. However, human beings generally communicate in words and sentences, not in the form of tables. Much information that humans speak or write is unstructured. So it is not very clear for computers to interpret such. In natural language processing (NLP), the goal is to make computers understand the unstructured text and retrieve meaningful pieces of information from it [2] 
+
+“Well NLP is cool and stuff, but how can we leverage it to improve our businesses more efficiently? How it could differ from the more traditional techniques?” [5].As we have said before, NLP allows machines to effectively understand and manipulate human languages. With that, you will be able to automate a lot of tasks and improve their rapidity and scale, like data labeling, translation, customer feedback, and text analysis. Applying NLP to real-world cases and not just for research purposes, will bring a significant competitive advantage to many businesses [5]
 
  
 
@@ -44,6 +52,7 @@ In a world where communication reigns supreme, the ability to understand and int
     </button>
   </a>
 </p>
+
 
 
 
