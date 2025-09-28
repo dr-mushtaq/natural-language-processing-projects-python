@@ -26,8 +26,9 @@ Well NLP is cool and stuff, but how can we leverage it to improve our businesses
 
 NLP is primarily about developing systems that allow machines to communicate with humans in their natural language. It encompasses two key areas:
 
-Natural Language Understanding (NLU): The goal here is to make machines comprehend and interpret human language. NLU allows systems to recognize the intent behind the text or speech, extracting key information such as emotions, entities, and actions. For instance, when you ask a voice assistant “What’s the weather like?”, NLU helps the system determine that the user is asking for weather information.
-Natural Language Generation (NLG): Once a machine understands human input, NLG takes over by generating appropriate responses. An example of this is AI writing assistants that can craft sentences or paragraphs based on the data provided.
+**Natural Language Understanding (NLU):** The goal here is to make machines comprehend and interpret human language. NLU allows systems to recognize the intent behind the text or speech, extracting key information such as emotions, entities, and actions. For instance, when you ask a voice assistant “What’s the weather like?”, NLU helps the system determine that the user is asking for weather information.
+
+**Natural Language Generation (NLG):** Once a machine understands human input, NLG takes over by generating appropriate responses. An example of this is AI writing assistants that can craft sentences or paragraphs based on the data provided.
 
  
 
@@ -59,6 +60,7 @@ Natural Language Generation (NLG): Once a machine understands human input, NLG t
     </button>
   </a>
 </p>
+
 
 
 
