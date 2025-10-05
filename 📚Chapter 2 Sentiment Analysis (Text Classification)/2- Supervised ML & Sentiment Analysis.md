@@ -11,8 +11,18 @@ Sentiment analysis, also known as opinion mining, is a technique used to determi
 - [History of Computer Vision](#history-of-computer-vision)  
 
 
-### **1- Introduction** 
-This is a course on computer vision. It's aimed at covering the foundational aspects of how to analyze images and to extract content from images. That is, how can we build a computer or a machine that can see and interpret an image. First what do I mean by foundational? I mean that we are going to cover the mathematical and computational methods to provide you with core concepts of how can a computer be built to interpret images. Notice I am using the word interpret. In Computer Vision we are interested in extracting information, knowledge from an image. Many want to go beyond processing an image to really knowing what is inside the image, what's the content of the image. So we will learn the math and the basic concepts how to compute with an image and extract information from it.
+### **What is Sentiment Analysis** 
+Sentiment analysis is a natural language processing (NLP) technique that aims to understand and categorize the sentiment expressed in a given text. It involves analyzing the words, phrases, and context of the text to determine whether the sentiment is positive, negative, or neutral.
+
+Sentiment analysis, also known as opinion mining, is a technique used to determine the sentiment or emotion expressed in a piece of text. It has gained significant popularity in recent years due to its applications in various fields such as marketing, customer feedback analysis, and social media monitoring. In this blog post, we will explore the concept of sentiment analysis and delve into the details of using logistic regression as a powerful tool for sentiment classification.
+
+In this section, we will provide an overview of sentiment analysis and its importance in today’s data-driven world.
+
+Sentiment analysis is the process of extracting subjective information from text and determining the sentiment or emotion associated with it. It involves analyzing the text to classify it into positive, negative, or neutral sentiment categories. The main goal of sentiment analysis is to understand the opinions, attitudes, and emotions expressed by individuals or groups. This information can then be used to make informed decisions, improve customer service, and gain valuable insights.
+
+Def: Sentiment analysis has been widely used since the early 20th century, and its research area is still fast growing. One of the most advanced solutions is to use AI to proceed with sentiment analysis. The algorithm uses a natural language processing (NLP) technique which enables it to determine the moods or emotions of a piece of text. In this case, companies can react based on user feedback.
+
+Def: Sentiment analysis is a Natural Language Processing (NLP) [2] technique used to determine the sentiment of a text by automatically identifying its underlying opinions. The sentiment can be positive (e.g. “I’m very happy today”), negative (e.g. “I didn’t like that movie”), or neutral (e.g. “Today is Friday”, which may be subjectively seen as positive by some people actually 😁) [1]
 
  ## **Difference between CV and CP**
  
@@ -88,6 +98,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
     </button>
   </a>
 </p>
+
 
 
 
