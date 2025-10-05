@@ -71,7 +71,10 @@ You will first process the raw tweets in your training sets and extract useful f
 Before we can build a sentiment analysis model, we need to prepare the data. This involves cleaning and preprocessing the text, as well as labeling the data with sentiment labels (positive, negative, or neutral).
 
 ###  **Feature Extraction**
-Feature extraction is a crucial step in sentiment analysis. It involves converting the text into numerical features that can be used by a machine learning model. Some common feature extraction techniques for sentiment analysis include bag-of-words, TF-IDF, and word embeddings.
+Feature extraction is a crucial step in sentiment analysis. It involves converting the text into numerical features that can be used by a machine learning model. Some common feature extraction techniques for sentiment analysis include 
+- bag-of-words,
+- TF-IDF
+- word embeddings.
 
 ### References
 
@@ -85,6 +88,7 @@ Feature extraction is a crucial step in sentiment analysis. It involves converti
 
 
 <p align="right"><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/home_page.png" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/contents_page.jpg" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/back_page.png" /></a><a target="_blank" href="https://coursesteach.com/mod/page/view.php?id=6320&amp;forceview=1"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/next_page.png" /></a></p>
+
 
 
 
