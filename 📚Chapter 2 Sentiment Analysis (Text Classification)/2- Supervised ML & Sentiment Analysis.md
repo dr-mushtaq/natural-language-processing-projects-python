@@ -5,10 +5,10 @@ Sentiment analysis, also known as opinion mining, is a technique used to determi
 
 - [What is Sentiment Analysis](#What-is-Sentiment-Analysis)  
 - [How does sentiment analysis work](#How-does-sentiment-analysis-work)  
-- [What is Computer Vision NOT?](#what-is-computer-vision-not)  
-- [How does Computer Vision work?](#3-how-does-computer-vision-work)
-- [Real life Example?](#Real-life-Example)   
-- [History of Computer Vision](#history-of-computer-vision)  
+- [Supervised Machine Learning](#Supervised-Machine-Learning)  
+- [Logistic Regression and Sentiment Analysis?](#Logistic-Regression-and-Sentiment-Analysis?)
+- [Challenges and Limitations](#Challenges-and-Limitations)   
+- [Conclusion](#Conclusion)  
 
 
 ### **What is Sentiment Analysis** 
@@ -111,6 +111,7 @@ In conclusion, sentiment analysis using logistic regression is a powerful techni
 
 
 <p align="right"><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/home_page.png" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/contents_page.jpg" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/back_page.png" /></a><a target="_blank" href="https://coursesteach.com/mod/page/view.php?id=6320&amp;forceview=1"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/next_page.png" /></a></p>
+
 
 
 
