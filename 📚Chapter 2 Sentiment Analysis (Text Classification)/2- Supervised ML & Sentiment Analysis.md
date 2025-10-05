@@ -4,7 +4,7 @@ Sentiment analysis, also known as opinion mining, is a technique used to determi
 ## 📑 Table of Contents  
 
 - [What is Sentiment Analysis](#What-is-Sentiment-Analysis)  
-- [What is Computer Vision?](#2--what-is-computer-vision)  
+- [How does sentiment analysis work](#How-does-sentiment-analysis-work)  
 - [What is Computer Vision NOT?](#what-is-computer-vision-not)  
 - [How does Computer Vision work?](#3-how-does-computer-vision-work)
 - [Real life Example?](#Real-life-Example)   
@@ -39,7 +39,7 @@ Background: machine-learning classification task of sentiment analysis. In this 
 
 In order for you to implement logistic regression, you need to take a few steps. In this tutorial you will learn about the steps required in order to implement this algorithm, so let’s take a look.
 
-### **2- What is Computer Vision** 
+### **Supervised Machine Learning** 
 
 **Definition:** Computer vision is a field of artificial intelligence that trains computers to interpret and understand the visual world. Using digital images from cameras and videos and deep learning models, machines can accurately identify and classify objects — and then react to what they “see.”
 
@@ -107,6 +107,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
     </button>
   </a>
 </p>
+
 
 
 
