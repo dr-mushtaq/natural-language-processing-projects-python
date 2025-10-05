@@ -1,4 +1,4 @@
-
+Sentiment analysis, also known as opinion mining, is a technique used to determine the sentiment or emotion expressed in a piece of text. It has gained significant popularity in recent years due to the rise of social media and the need to understand customer opinions and feedback. In this blog post, we will explore how to perform sentiment analysis using logistic regression with Python.
 
 
 ## 📑 Table of Contents  
@@ -88,6 +88,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
     </button>
   </a>
 </p>
+
 
 
 
