@@ -65,7 +65,7 @@ For this task you will be using your logistic regression classifier which assign
 <img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%202%20Sentiment%20Analysis%20(Text%20Classification)/2.jpg"></a>
 </p>
 
-You will first process the raw tweets in your training sets and extract useful features. Then you will train your logistic regression classifier while minimizing the cost. And finally you’ll be able to make your predictions. So in this video you learned about the steps required for you to classify a tweet. Given the tweet, you should classify it to either be positive or negative. In order for you to do so, you first have to extract the features. Then you have to train your model. And then you have to classify the tweet based off your trained model. In the next video, you’re going to learn how to extract these features. So let’s take a look at how you can do that
+You will first process the raw tweets in your training sets and extract useful features. Then you will train your logistic regression classifier while minimizing the cost. And finally you’ll be able to make your predictions. So in this blog you learned about the steps required for you to classify a tweet. Given the tweet, you should classify it to either be positive or negative. In order for you to do so, you first have to extract the features. Then you have to train your model. And then you have to classify the tweet based off your trained model. In the next video, you’re going to learn how to extract these features. So let’s take a look at how you can do that
 
 ### References
 
@@ -91,6 +91,7 @@ You will first process the raw tweets in your training sets and extract useful f
     </button>
   </a>
 </p>
+
 
 
 
