@@ -39,7 +39,7 @@ Background: machine-learning classification task of sentiment analysis. In this 
 
 In order for you to implement logistic regression, you need to take a few steps. In this tutorial you will learn about the steps required in order to implement this algorithm, so let’s take a look.
 
-### **Supervised Machine Learning** 
+## **Supervised Machine Learning** 
 
 In supervised machine learning, you have input features X and a set of labels Y. Now to make sure you’re getting the most accurate predictions based on your data, your goal is to minimize your error rates or cost as much as possible. And to do this, you’re going to run your prediction function which takes in parameters data to map your features to output labels Y hat.
 
@@ -50,7 +50,7 @@ Now the best mapping from features to labels is achieved when the difference bet
 </p>
  
  
-###  **Logistic Regression and Sentiment Analysis**?
+##  **Logistic Regression and Sentiment Analysis**?
 
 Logistic regression is a statistical model used to predict binary outcomes. It is commonly used when the dependent variable is dichotomous, meaning it can take only two values. In the context of sentiment analysis, the binary outcome represents the sentiment category (positive or negative).
 
@@ -67,6 +67,12 @@ For this task you will be using your logistic regression classifier which assign
 
 You will first process the raw tweets in your training sets and extract useful features. Then you will train your logistic regression classifier while minimizing the cost. And finally you’ll be able to make your predictions. So in this blog you learned about the steps required for you to classify a tweet. Given the tweet, you should classify it to either be positive or negative. In order for you to do so, you first have to extract the features. Then you have to train your model. And then you have to classify the tweet based off your trained model. In the next video, you’re going to learn how to extract these features. So let’s take a look at how you can do that
 
+###  **Preparing the Data**
+Before we can build a sentiment analysis model, we need to prepare the data. This involves cleaning and preprocessing the text, as well as labeling the data with sentiment labels (positive, negative, or neutral).
+
+###  **Feature Extraction**
+Feature extraction is a crucial step in sentiment analysis. It involves converting the text into numerical features that can be used by a machine learning model. Some common feature extraction techniques for sentiment analysis include bag-of-words, TF-IDF, and word embeddings.
+
 ### References
 
 1-[What is Computer Vision? & Its Applications](https://medium.com/@draj0718/what-is-computer-vision-its-applications-826c0bbd772b)
@@ -79,6 +85,7 @@ You will first process the raw tweets in your training sets and extract useful f
 
 
 <p align="right"><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/home_page.png" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/contents_page.jpg" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/back_page.png" /></a><a target="_blank" href="https://coursesteach.com/mod/page/view.php?id=6320&amp;forceview=1"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/next_page.png" /></a></p>
+
 
 
 
