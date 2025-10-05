@@ -50,29 +50,22 @@ Now the best mapping from features to labels is achieved when the difference bet
 </p>
  
  
-###  **3-How does computer vision work**?
-Computer vision technology tends to mimic the way the human brain works. But how does our brain solve visual object recognition? One of the popular hypothesis states that our brains rely on patterns to decode individual objects. This concept is used to create computer vision systems [5].Computer vision algorithms that we use today are based on pattern recognition. We train computers on a massive amount of visual data — computers process images, label objects on them, and find patterns in those objects. For example, if we send a million images of flowers, the computer will analyze them, identify patterns that are similar to all flowers and, at the end of this process, will create a model “flower.” As a result, the computer will be able to accurately detect whether a particular image is a flower every time we send them pictures.
-Computer vision works in three basic steps:
+###  **Logistic Regression and Sentiment Analysis**?
 
-1- **Acquiring an image**
+Logistic regression is a statistical model used to predict binary outcomes. It is commonly used when the dependent variable is dichotomous, meaning it can take only two values. In the context of sentiment analysis, the binary outcome represents the sentiment category (positive or negative).
 
-Images, even large sets, can be acquired in real-time through video, photos or 3D technology for analysis.
+Logistic regression is a popular machine learning algorithm used for binary classification problems. It is well-suited for sentiment analysis because it can handle text data and provide probabilistic outputs. Logistic regression models are interpretable and can capture nonlinear relationships between features and labels.
 
-2- **Processing the image**
+Logistic regression works by estimating the probability of an event occurring based on a set of independent variables. It uses a logistic function (also known as a sigmoid function) to map the linear combination of the independent variables to a value between 0 and 1. This value represents the probability of the event occurring.
 
-Deep learning models automate much of this process, but the models are often trained by first being fed thousands of labeled or pre-identified images. Computer vision algorithms are based on pattern recognition. We train our model on a massive amount of visual(images) data. Our model processes the images with label and find patterns in those objects(images).
+For this task you will be using your logistic regression classifier which assigns its observations to two distinct classes. Next up I’ll show you how to do this. So to get started building a logistic regression classifier that’s capable of predicting sentiments of an arbitrary tweet.
 
-3- **Understanding the image**
-
-The final step is the interpretative step, where an object is identified or classified.
-
-###  Real life Example
-
-For example, If we send a million pictures of vegetable images to a model to train, it will analyze them and create an Engine (Computer Vision Model) based on patterns that are similar to all vegetables. As a result, Our Model will be able to accurately detect whether a particular image is a Vegetables every time we send it .
 
 <p align="center">
-<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/1_uhwJAFDBNBjTVmJ_6P5Zyg.png"></a>
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%202%20Sentiment%20Analysis%20(Text%20Classification)/2.jpg"></a>
 </p>
+
+You will first process the raw tweets in your training sets and extract useful features. Then you will train your logistic regression classifier while minimizing the cost. And finally you’ll be able to make your predictions. So in this video you learned about the steps required for you to classify a tweet. Given the tweet, you should classify it to either be positive or negative. In order for you to do so, you first have to extract the features. Then you have to train your model. And then you have to classify the tweet based off your trained model. In the next video, you’re going to learn how to extract these features. So let’s take a look at how you can do that
 
 ### References
 
@@ -98,6 +91,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
     </button>
   </a>
 </p>
+
 
 
 
