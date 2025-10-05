@@ -26,9 +26,13 @@ Sentiment analysis is the process of extracting subjective information from text
 
  ## **How does sentiment analysis work**
  
-Sentiment analysis typically works by first identifying the sentiment of individual words or phrases. This can be done using a variety of methods, such as lexicon-based analysis, machine learning, or natural language processing.
+Sentiment analysis typically works by first identifying the sentiment of individual words or phrases. This can be done using a variety of methods, such as **lexicon-based analysis**, **machine learning**, or **natural language processing**.
 
-Once the sentiment of individual words or phrases has been identified, they can be combined to determine the overall feeling of a piece of text. This can be done using a variety of techniques, such as sentiment scoring or sentiment classification [4].
+Once the sentiment of individual words or phrases has been identified, they can be combined to determine the overall feeling of a piece of text. This can be done using a variety of techniques, such as **sentiment scoring** or **sentiment classification**.
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%202%20Sentiment%20Analysis%20(Text%20Classification)/1.jpg"></a>
+</p>
 
 Background: machine-learning classification task of sentiment analysis. In this example you have the tweet, let’s say, I’m happy because I’m learning NLP. And the objective in this task is to predict whether a tweet has a positive or negative sentiment. And you’ll do this by starting with a training set where tweets with a positive sentiment have a label of one, and the tweets with a negative sentiment have a label of zero.
 
@@ -103,6 +107,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
     </button>
   </a>
 </p>
+
 
 
 
