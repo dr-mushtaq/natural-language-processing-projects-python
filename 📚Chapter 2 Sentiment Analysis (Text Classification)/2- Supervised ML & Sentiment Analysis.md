@@ -20,15 +20,20 @@ In this section, we will provide an overview of sentiment analysis and its impor
 
 Sentiment analysis is the process of extracting subjective information from text and determining the sentiment or emotion associated with it. It involves analyzing the text to classify it into positive, negative, or neutral sentiment categories. The main goal of sentiment analysis is to understand the opinions, attitudes, and emotions expressed by individuals or groups. This information can then be used to make informed decisions, improve customer service, and gain valuable insights.
 
-Def: Sentiment analysis has been widely used since the early 20th century, and its research area is still fast growing. One of the most advanced solutions is to use AI to proceed with sentiment analysis. The algorithm uses a natural language processing (NLP) technique which enables it to determine the moods or emotions of a piece of text. In this case, companies can react based on user feedback.
+**Def:** Sentiment analysis has been widely used since the early 20th century, and its research area is still fast growing. One of the most advanced solutions is to use AI to proceed with sentiment analysis. The algorithm uses a natural language processing (NLP) technique which enables it to determine the moods or emotions of a piece of text. In this case, companies can react based on user feedback.
 
-Def: Sentiment analysis is a Natural Language Processing (NLP) [2] technique used to determine the sentiment of a text by automatically identifying its underlying opinions. The sentiment can be positive (e.g. “I’m very happy today”), negative (e.g. “I didn’t like that movie”), or neutral (e.g. “Today is Friday”, which may be subjectively seen as positive by some people actually 😁) [1]
+**Def:** Sentiment analysis is a Natural Language Processing (NLP) [2] technique used to determine the sentiment of a text by automatically identifying its underlying opinions. The sentiment can be positive (e.g. “I’m very happy today”), negative (e.g. “I didn’t like that movie”), or neutral (e.g. “Today is Friday”, which may be subjectively seen as positive by some people actually 😁) [1]
 
- ## **Difference between CV and CP**
+ ## **How does sentiment analysis work**
  
-What is the difference between these two classes and the material covered in it? There is indeed some overlap between the classes, especially in the initial few modules where we learn about computing with images and extracting information from images.
+Sentiment analysis typically works by first identifying the sentiment of individual words or phrases. This can be done using a variety of methods, such as lexicon-based analysis, machine learning, or natural language processing.
 
-Computational photography is really about capturing a light from a scene to record a scene into a photograph or such other related novel artifact that showcases the scene. Image analysis is done to support the capture and display of the scene in novel ways. Some of it's actually about building newer forms of cameras and softwares to facilitate that process. Computer vision is really about interpreting an analysis of the scene. That is what is the content of the image of the scene, who is in there, what is in the image and what is happening.
+Once the sentiment of individual words or phrases has been identified, they can be combined to determine the overall feeling of a piece of text. This can be done using a variety of techniques, such as sentiment scoring or sentiment classification [4].
+
+Background: machine-learning classification task of sentiment analysis. In this example you have the tweet, let’s say, I’m happy because I’m learning NLP. And the objective in this task is to predict whether a tweet has a positive or negative sentiment. And you’ll do this by starting with a training set where tweets with a positive sentiment have a label of one, and the tweets with a negative sentiment have a label of zero.
+
+
+In order for you to implement logistic regression, you need to take a few steps. In this tutorial you will learn about the steps required in order to implement this algorithm, so let’s take a look.
 
 ### **2- What is Computer Vision** 
 
@@ -98,6 +103,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
     </button>
   </a>
 </p>
+
 
 
 
