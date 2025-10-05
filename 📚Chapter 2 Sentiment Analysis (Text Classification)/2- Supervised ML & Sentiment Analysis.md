@@ -3,7 +3,7 @@ Sentiment analysis, also known as opinion mining, is a technique used to determi
 
 ## 📑 Table of Contents  
 
-- [Difference between CV and CP](#Difference-between-CV-and-CP)  
+- [What is Sentiment Analysis](#What-is-Sentiment-Analysis)  
 - [What is Computer Vision?](#2--what-is-computer-vision)  
 - [What is Computer Vision NOT?](#what-is-computer-vision-not)  
 - [How does Computer Vision work?](#3-how-does-computer-vision-work)
@@ -98,6 +98,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
     </button>
   </a>
 </p>
+
 
 
 
