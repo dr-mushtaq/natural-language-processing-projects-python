@@ -101,9 +101,9 @@ In conclusion, sentiment analysis using logistic regression is a powerful techni
 
 ### References
 
-1-[What is Computer Vision? & Its Applications](https://medium.com/@draj0718/what-is-computer-vision-its-applications-826c0bbd772b)
+1-[public pre-trained models for sentiment analysis on Hugging Face.](https://huggingface.co/models?search=sentiment)
 
-2-[-Introduction of Computer Vision](https://auth.udacity.com/sign-in)
+2-[Two minutes NLP — Quick Intro to Sentiment Analysis](https://medium.com/nlplanet/two-minutes-nlp-quick-intro-to-sentiment-analysis-106b6947b2fd)
 
 4-[How computer vision works](https://www.sas.com/en_us/insights/analytics/computer-vision.html#technical)
 
@@ -111,6 +111,7 @@ In conclusion, sentiment analysis using logistic regression is a powerful techni
 
 
 <p align="right"><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/home_page.png" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/contents_page.jpg" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/back_page.png" /></a><a target="_blank" href="https://coursesteach.com/mod/page/view.php?id=6320&amp;forceview=1"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/next_page.png" /></a></p>
+
 
 
 
