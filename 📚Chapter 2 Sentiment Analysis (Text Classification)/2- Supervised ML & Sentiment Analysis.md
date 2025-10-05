@@ -46,7 +46,7 @@ In supervised machine learning, you have input features X and a set of labels Y.
 Now the best mapping from features to labels is achieved when the difference between the expected values Y and the predicted values Y hat is minimized. Which the cost function does by comparing how closely your output Y hat is to your label Y. Then you can update your parameters and repeat the whole process until your cost is minimized. So let’s take a look at the supervised
 
 <p align="center">
-<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Annotation%202021-03-31%20014715.png"></a>
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%202%20Sentiment%20Analysis%20(Text%20Classification)/2.jpg"></a>
 </p>
  
  
@@ -98,6 +98,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
     </button>
   </a>
 </p>
+
 
 
 
