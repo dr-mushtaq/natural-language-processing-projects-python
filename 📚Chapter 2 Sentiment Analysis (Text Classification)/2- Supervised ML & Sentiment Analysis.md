@@ -80,7 +80,7 @@ Feature extraction is a crucial step in sentiment analysis. It involves converti
 
 Once we have extracted the features, we can build our logistic regression model. We will use the scikit-learn library in Python to implement logistic regression. This involves splitting the data into training and testing sets, fitting the model on the training data, and evaluating its performance on the testing data.
 
-###  ** Evaluating the Model**
+###  **Evaluating the Model**
 
 To evaluate the performance of our sentiment analysis model, we can use various metrics such as accuracy, precision, recall, and F1 score. These metrics provide insights into how well our model is performing in classifying sentiment.
 
@@ -120,6 +120,7 @@ In conclusion, sentiment analysis using logistic regression is a powerful techni
 
 
 <p align="right"><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/home_page.png" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/contents_page.jpg" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/back_page.png" /></a><a target="_blank" href="https://coursesteach.com/mod/page/view.php?id=6320&amp;forceview=1"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/next_page.png" /></a></p>
+
 
 
 
