@@ -114,12 +114,13 @@ In conclusion, sentiment analysis using logistic regression is a powerful techni
 
 2-[Two minutes NLP — Quick Intro to Sentiment Analysis](https://medium.com/nlplanet/two-minutes-nlp-quick-intro-to-sentiment-analysis-106b6947b2fd)
 
-4-[How computer vision works](https://www.sas.com/en_us/insights/analytics/computer-vision.html#technical)
+4-[Understanding the Emotion Tone of Text with AI — Sentiment Analysis on Monkeypox Tweets](https://pub.towardsai.net/understanding-the-emotion-tone-of-text-with-ai-sentiment-analysis-on-monkeypox-tweets-13040cfb1f99)
 
-5-[Computer Vision 🤖 Fundamentals with OpenCV](https://medium.com/codex/computer-vision-fundamentals-with-opencv-9fc93b61e3e8)
+5-[Sentiment Analysis: Marketing with Large Language Models (LLMs)](https://medium.com/codex/computer-vision-fundamentals-with-opencv-9fc93b61e3e8)
 
 
 <p align="right"><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/home_page.png" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/contents_page.jpg" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/back_page.png" /></a><a target="_blank" href="https://coursesteach.com/mod/page/view.php?id=6320&amp;forceview=1"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/next_page.png" /></a></p>
+
 
 
 
