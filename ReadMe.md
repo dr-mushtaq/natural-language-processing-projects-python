@@ -479,8 +479,8 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 |[**✅ 17-Free LLM Course o Hugace**](https://huggingface.co/learn/llm-course/chapter1/2?fw=pt)|Stanford's CS336 2025 (Language Modeling from Scratch) is now available on YouTube| Pending|
 |[**✅ 18-AI Agents for Beginners b miscrofot**](https://www.youtube.com/watch?v=3zgm60bXmQk&list=PLlrxD0HtieHgKcRjd5-8DT9TbwdlDO-OC&index=1)|Stanford's CS336 2025 (Language Modeling from Scratch) is now available on YouTube| Pending|
 |[**✅ 19-Artificial Intelligence for Beginners - A Curriculum by microsoft**](https://github.com/microsoft/AI-For-Beginners/tree/main?tab=readme-ov-file)|Explore the world of Artificial Intelligence (AI) with our 12-week, 24-lesson curriculum! It includes practical lessons, quizzes, and labs. The curriculum is beginner-friendly and covers tools like TensorFlow and PyTorch, as well as ethics in AI| Pending|
-
-
+|[**✅ 20-CMU Advanced NLP Spring 2024**](https://www.youtube.com/playlist?list=PL8PYTP1V4I8DZprnWryM4nR8IZl1ZXDjg)|Explore the world of Artificial Intelligence (AI) with our 12-week, 24-lesson curriculum! It includes practical lessons, quizzes, and labs. The curriculum is beginner-friendly and covers tools like TensorFlow and PyTorch, as well as ethics in AI| Pending|
+|[**✅ 21-CS 886: Recent Advances on Foundation Models**](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)|Explore the world of Artificial Intelligence (AI) with our 12-week, 24-lesson curriculum! It includes practical lessons, quizzes, and labs. The curriculum is beginner-friendly and covers tools like TensorFlow and PyTorch, as well as ethics in AI| Pending|
 
 
 
@@ -614,6 +614,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
