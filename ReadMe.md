@@ -481,6 +481,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 |[**✅ 19-Artificial Intelligence for Beginners - A Curriculum by microsoft**](https://github.com/microsoft/AI-For-Beginners/tree/main?tab=readme-ov-file)|Explore the world of Artificial Intelligence (AI) with our 12-week, 24-lesson curriculum! It includes practical lessons, quizzes, and labs. The curriculum is beginner-friendly and covers tools like TensorFlow and PyTorch, as well as ethics in AI| Pending|
 |[**✅ 20-CMU Advanced NLP Spring 2024**](https://www.youtube.com/playlist?list=PL8PYTP1V4I8DZprnWryM4nR8IZl1ZXDjg)|Explore the world of Artificial Intelligence (AI) with our 12-week, 24-lesson curriculum! It includes practical lessons, quizzes, and labs. The curriculum is beginner-friendly and covers tools like TensorFlow and PyTorch, as well as ethics in AI| Pending|
 |[**✅ 21-CS 886: Recent Advances on Foundation Models**](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)|Explore the world of Artificial Intelligence (AI) with our 12-week, 24-lesson curriculum! It includes practical lessons, quizzes, and labs. The curriculum is beginner-friendly and covers tools like TensorFlow and PyTorch, as well as ethics in AI| Pending|
+|[**✅ 22-CS294/194-196 Large Language Model Agents**](https://rdi.berkeley.edu/llm-agents/f24)|Explore the world of Artificial Intelligence (AI) with our 12-week, 24-lesson curriculum! It includes practical lessons, quizzes, and labs. The curriculum is beginner-friendly and covers tools like TensorFlow and PyTorch, as well as ethics in AI| Pending|
 
 
 
@@ -614,6 +615,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
