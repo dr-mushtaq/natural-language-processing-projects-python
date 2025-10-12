@@ -177,7 +177,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 ## **🧭 Suggested Learning Path (Basic → Advanced → Expert)**
 
 <details> 
-<summary> <h2>📕 🟡 Level 2: Intermediate: Course 01 -Classification and Vector Spaces </h2> </summary>
+<summary> <h2>📕 🟡 Intermediate: Course 01 -Classification and Vector Spaces </h2> </summary>
 
 ### 🔹Week 0-**Chapter 1:Introduction**
 | Topic Name/Tutorial | Video | 💻 Colab Implementation |Note|
@@ -255,7 +255,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 </details>
 
 <details> 
-<summary> <h2>📕🟡Level 2: Intermediate: Course 02 -NLP with Probabilistic Models </h2> </summary>
+<summary> <h2>📕🟡 Intermediate: Course 02 -NLP with Probabilistic Models </h2> </summary>
   
  ### Week 1-[**📚Chapter1:Autocorrect and Mininum Edit Distance**]()
 
@@ -342,7 +342,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 </details>
 
 <details> 
-<summary> <h2>📕🟡Level 2: Intermediate:Course 03 -NLP with Sequence Models</h2> </summary>
+<summary> <h2>📕🟡 Intermediate:Course 03 -NLP with Sequence Models</h2> </summary>
 
 🎯 Course Description
 
@@ -617,6 +617,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
