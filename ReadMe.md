@@ -194,7 +194,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | Topic Name/Tutorial | Video | 💻 Colab Implementation |
 |---|---|---|
 |**✅1- Preprocessing_Aassignment_1**| Content 2 |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Preprocessing_Aassignment_1.ipynb) |
-|[**✅2- Supervised ML & Sentiment Analysis-g**](https://open.substack.com/pub/mushtaqmsit/p/sentiment-analysis-with-logistic?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false) |[Video 1](https://drive.google.com/file/d/1cN2GrXXW1mcxGkmoD4O1I4iydFrSZugz/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb) |
+|[**✅2- Supervised ML & Sentiment Analysis-g**](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%202%20Sentiment%20Analysis%20(Text%20Classification)/2-%20Supervised%20ML%20&%20Sentiment%20Analysis.md) |[Video 1](https://drive.google.com/file/d/1cN2GrXXW1mcxGkmoD4O1I4iydFrSZugz/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb) |
 |[**✅3-Vocabulary & Feature Extraction**](https://open.substack.com/pub/mushtaqmsit/p/comprehensive-guide-to-vocabulary?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)|[1]()|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
 |[**✅4-Negative and Positive Frequencies**](https://open.substack.com/pub/mushtaqmsit/p/what-is-a-frequency-dictionary-in?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)|[1](https://drive.google.com/file/d/103nzJmltWxPqFgzs3LmMZcjQCj_o_kXJ/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
 |[**✅5-Text pre-processing-s**](https://mushtaqmsit.substack.com/p/text-processing-basics-essential)|[1](https://drive.google.com/file/d/16c-fd1qLcHXmEckQiKC3gchpErAcECL6/view)[-2](https://drive.google.com/file/d/1cHFkOq_74RJHVWQZojNQMgeZ78gsfaes/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
@@ -617,6 +617,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
