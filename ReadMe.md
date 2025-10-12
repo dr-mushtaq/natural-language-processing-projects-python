@@ -90,9 +90,6 @@ If you find these NLP projects useful, please consider supporting my research & 
 👉 [Sponsor via GitHub](https://github.com/sponsors/dr-mushtaq)  
 👉 [Buy Me a Coffee](https://www.buymeacoffee.com/drmushtaq)
 
-## 💖 Support My Work
-If you find my projects useful, consider [sponsoring me on GitHub](https://github.com/sponsors/dr-mushtaq) or buying me a coffee ☕.
-
 
 ## **🎯 Why Join This Course?**
  
@@ -617,6 +614,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
