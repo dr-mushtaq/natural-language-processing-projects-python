@@ -11,18 +11,15 @@ Sentiment analysis, also known as opinion mining, is a technique used to determi
 - [Conclusion](#Conclusion)  
 
 
-### **What is Sentiment Analysis** 
-Sentiment analysis is a natural language processing (NLP) technique that aims to understand and categorize the sentiment expressed in a given text. It involves analyzing the words, phrases, and context of the text to determine whether the sentiment is positive, negative, or neutral.
+### **Vocabulary** 
 
-Sentiment analysis, also known as opinion mining, is a technique used to determine the sentiment or emotion expressed in a piece of text. It has gained significant popularity in recent years due to its applications in various fields such as marketing, customer feedback analysis, and social media monitoring. In this blog post, we will explore the concept of sentiment analysis and delve into the details of using logistic regression as a powerful tool for sentiment classification.
+def:In the context of natural language processing (NLP), vocabulary refers to the set of unique words that appear in a text corpus.The vocabulary is used to represent text in a machine-readable format. For example, if the vocabulary contains 10,000 words, then each text document can be represented as a vector of 10,000 numbers, where each number represents the frequency of a particular word in the document.
 
-In this section, we will provide an overview of sentiment analysis and its importance in today’s data-driven world.
+The vocabulary is an important part of NLP because it allows us to represent text in a way that can be processed by computers. Without a vocabulary, it would be very difficult to develop NLP algorithms that can understand and process natural language.
 
-Sentiment analysis is the process of extracting subjective information from text and determining the sentiment or emotion associated with it. It involves analyzing the text to classify it into positive, negative, or neutral sentiment categories. The main goal of sentiment analysis is to understand the opinions, attitudes, and emotions expressed by individuals or groups. This information can then be used to make informed decisions, improve customer service, and gain valuable insights.
+There are a few different ways to create a vocabulary for NLP. One common approach is to use a statistical method to select the most frequent words in a text corpus. Another approach is to use a dictionary of words that are considered to be important for a particular task.
 
-**Def:** Sentiment analysis has been widely used since the early 20th century, and its research area is still fast growing. One of the most advanced solutions is to use AI to proceed with sentiment analysis. The algorithm uses a natural language processing (NLP) technique which enables it to determine the moods or emotions of a piece of text. In this case, companies can react based on user feedback.
 
-**Def:** Sentiment analysis is a Natural Language Processing (NLP) [2] technique used to determine the sentiment of a text by automatically identifying its underlying opinions. The sentiment can be positive (e.g. “I’m very happy today”), negative (e.g. “I didn’t like that movie”), or neutral (e.g. “Today is Friday”, which may be subjectively seen as positive by some people actually 😁) [1]
 
  ## **How does sentiment analysis work**
  
@@ -120,6 +117,7 @@ In conclusion, sentiment analysis using logistic regression is a powerful techni
 
 
 <p align="right"><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/home_page.png" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/contents_page.jpg" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/back_page.png" /></a><a target="_blank" href="https://coursesteach.com/mod/page/view.php?id=6320&amp;forceview=1"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/next_page.png" /></a></p>
+
 
 
 
