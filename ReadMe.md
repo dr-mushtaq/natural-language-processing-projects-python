@@ -4,7 +4,7 @@
 <img src="https://github.com/hussain0048/Natural-language-processing/blob/main/CoursesTeach.jpg"></a>
 </p>
 
-Welcome to the Natural Language Processing (NLP) Course, an open-source initiative to learn, implement, and master NLP concepts using Python. Whether you're a student, researcher, or AI enthusiast, this repository provides a structured, hands-on approach to mastering NLP from fundamentals to advanced topics.
+Welcome to the Natural Language Processing (NLP) Course, an open-source initiative to learn, implement, and master NLP concepts using Python. Whether you're a student, researcher, or AI enthusiast, this repository provides a structured, hands-on approach to mastering NLP from fundamentals to advanced topics Learn Natural Language Processing (NLP) with Python â€” from text preprocessing and sentiment analysis to deep learning with transformers like BERT and GPT..
 
  Also please subscribe to my [youtube channel!](https://www.youtube.com/@coursesteach-mv5si)
 
@@ -617,6 +617,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!ðŸš
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
