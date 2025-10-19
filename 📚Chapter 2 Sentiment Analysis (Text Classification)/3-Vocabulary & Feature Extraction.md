@@ -25,11 +25,12 @@ There are a few different ways to create a vocabulary for NLP. One common approa
 So let’s dive in and see how you can do this. Picture a list of tweets, visually it would look like this. Then your vocabulary, V, would be the list of unique words from your list of tweets. To get that list, you’ll have to go through all the words from all your tweets and save every new word that appears in your search. So in this example, you’d have the word I, then the word, am and happy, because, and so forth. But note that the word I and the word am would not be repeated
 in the vocabulary.
 
- ## **How does sentiment analysis work**
- 
-Sentiment analysis typically works by first identifying the sentiment of individual words or phrases. This can be done using a variety of methods, such as **lexicon-based analysis**, **machine learning**, or **natural language processing**.
+ # **Feature Extraction**
+## Sparse Representations
 
-Once the sentiment of individual words or phrases has been identified, they can be combined to determine the overall feeling of a piece of text. This can be done using a variety of techniques, such as **sentiment scoring** or **sentiment classification**.
+Let’s take these tweets and extract features using your vocabulary. To do so, you’d have to check if every word from your vocabulary appears in the tweet. If it does like in the case of the word I, you would assign a value of 1 to that feature, like this. If it doesn’t appear, you’d assign a value of 0, like that.
+
+In this example, the representation of your tweet would have six ones and many zeros. These correspond to every unique word from your vocabulary that isn’t in the tweet.
 
 <p align="center">
 <img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%202%20Sentiment%20Analysis%20(Text%20Classification)/1.jpg"></a>
@@ -197,6 +198,7 @@ B. As a vector of word embeddings.
 D. As the words 'positive' and 'negative'.  
 
 ---
+
 
 
 
