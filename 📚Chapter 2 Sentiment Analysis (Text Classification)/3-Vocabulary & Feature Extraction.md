@@ -10,7 +10,10 @@ In this blog, you’re going to learn how to represent a text as a vector. In or
 - [Conclusion](#Conclusion)  
 
 
-#  **Vocabulary** 
+#  **🧩Vocabulary in NLP** 
+
+In Natural Language Processing (NLP), a vocabulary refers to the set of all unique words that appear in a text corpus.
+This vocabulary allows us to represent text in a numerical format, which is essential for applying machine learning algorithms.
 
 def:In the context of natural language processing (NLP), vocabulary refers to the set of unique words that appear in a text corpus.The vocabulary is used to represent text in a machine-readable format. For example, if the vocabulary contains 10,000 words, then each text document can be represented as a vector of 10,000 numbers, where each number represents the frequency of a particular word in the document.
 
@@ -62,6 +65,7 @@ Given a text, you learned how to represent this text as a vector of dimension V.
 
 
 <p align="right"><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/home_page.png" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/contents_page.jpg" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/back_page.png" /></a><a target="_blank" href="https://coursesteach.com/mod/page/view.php?id=6320&amp;forceview=1"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/next_page.png" /></a></p>
+
 
 
 
