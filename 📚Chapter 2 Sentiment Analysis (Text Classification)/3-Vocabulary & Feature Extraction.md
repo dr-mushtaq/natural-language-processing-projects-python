@@ -18,6 +18,13 @@ The vocabulary is an important part of NLP because it allows us to represent tex
 
 There are a few different ways to create a vocabulary for NLP. One common approach is to use a **statistical method** to select the most frequent words in a text corpus. Another approach is to use a **dictionary** of words that are considered to be important for a particular task.
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%202%20Sentiment%20Analysis%20(Text%20Classification)/ec4e5245-28c6-415d-b7b3-d17d7bbf4de4_700x232.jpg"></a>
+</p>
+
+So let’s dive in and see how you can do this. Picture a list of tweets, visually it would look like this. Then your vocabulary, V, would be the list of unique words from your list of tweets. To get that list, you’ll have to go through all the words from all your tweets and save every new word that appears in your search. So in this example, you’d have the word I, then the word, am and happy, because, and so forth. But note that the word I and the word am would not be repeated
+in the vocabulary.
+
  ## **How does sentiment analysis work**
  
 Sentiment analysis typically works by first identifying the sentiment of individual words or phrases. This can be done using a variety of methods, such as **lexicon-based analysis**, **machine learning**, or **natural language processing**.
@@ -190,6 +197,7 @@ B. As a vector of word embeddings.
 D. As the words 'positive' and 'negative'.  
 
 ---
+
 
 
 
