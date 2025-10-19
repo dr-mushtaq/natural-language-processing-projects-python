@@ -2,12 +2,9 @@ In this blog, you’re going to learn how to represent a text as a vector. In or
 
 ## 📑 Table of Contents  
 
-- [What is Sentiment Analysis](#What-is-Sentiment-Analysis)  
-- [How does sentiment analysis work](#How-does-sentiment-analysis-work)  
-- [Supervised Machine Learning](#Supervised-Machine-Learning)  
-- [Logistic Regression and Sentiment Analysis?](#Logistic-Regression-and-Sentiment-Analysis?)
-- [Challenges and Limitations](#Challenges-and-Limitations)   
-- [Conclusion](#Conclusion)  
+- [Vocabulary in NLP](#Vocabulary-in-NLP)  
+- [Feature Extraction](#Feature-Extraction)  
+- [Simple Python Example](#Simple-Python-Example)  
 
 
 #  **🧩Vocabulary in NLP** 
@@ -56,7 +53,7 @@ This representation would have a number of features equal to the size of your en
 
 Given a text, you learned how to represent this text as a vector of dimension V. Specifically, you did this for a tweet and you were able to build a vocabulary of dimension V. Now as V gets larger and larger, you will face certain problems. In the next video, you will learn to identify these problems.
 
-# 💻 3. Simple Python Example: Building a Vocabulary
+# Simple Python Example: Building a Vocabulary
 
 Below is a simple demonstration using scikit-learn’s CountVectorizer to automatically build a vocabulary and extract features.
 
@@ -99,16 +96,11 @@ Feature Representation:
 
 ### References
 
-1-[public pre-trained models for sentiment analysis on Hugging Face.](https://huggingface.co/models?search=sentiment)
 
-2-[Two minutes NLP — Quick Intro to Sentiment Analysis](https://medium.com/nlplanet/two-minutes-nlp-quick-intro-to-sentiment-analysis-106b6947b2fd)
-
-4-[Understanding the Emotion Tone of Text with AI — Sentiment Analysis on Monkeypox Tweets](https://pub.towardsai.net/understanding-the-emotion-tone-of-text-with-ai-sentiment-analysis-on-monkeypox-tweets-13040cfb1f99)
-
-5-[Sentiment Analysis: Marketing with Large Language Models (LLMs)](https://medium.com/codex/computer-vision-fundamentals-with-opencv-9fc93b61e3e8)
 
 
 <p align="right"><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/home_page.png" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/contents_page.jpg" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/back_page.png" /></a><a target="_blank" href="https://coursesteach.com/mod/page/view.php?id=6320&amp;forceview=1"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/next_page.png" /></a></p>
+
 
 
 
