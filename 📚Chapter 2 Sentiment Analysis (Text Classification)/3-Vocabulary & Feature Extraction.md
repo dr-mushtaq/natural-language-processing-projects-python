@@ -28,6 +28,11 @@ There are a few different ways to create a vocabulary for NLP. One common approa
 So let’s dive in and see how you can do this. Picture a list of tweets, visually it would look like this. Then your vocabulary, V, would be the list of unique words from your list of tweets. To get that list, you’ll have to go through all the words from all your tweets and save every new word that appears in your search. So in this example, you’d have the word I, then the word, am and happy, because, and so forth. But note that the word I and the word am would not be repeated
 in the vocabulary.
 
+Building a vocabulary usually involves:
+
+- Selecting the most frequent words from a corpus (statistical method).
+- Using a custom dictionary relevant to a specific task (domain-based method).
+
  # **Feature Extraction**
 ## Sparse Representations
 
@@ -65,6 +70,7 @@ Given a text, you learned how to represent this text as a vector of dimension V.
 
 
 <p align="right"><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/home_page.png" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/contents_page.jpg" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/back_page.png" /></a><a target="_blank" href="https://coursesteach.com/mod/page/view.php?id=6320&amp;forceview=1"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/next_page.png" /></a></p>
+
 
 
 
