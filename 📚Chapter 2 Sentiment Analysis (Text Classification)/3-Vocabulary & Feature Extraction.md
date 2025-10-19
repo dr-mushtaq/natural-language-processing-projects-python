@@ -10,13 +10,13 @@ In this blog, you’re going to learn how to represent a text as a vector. In or
 - [Conclusion](#Conclusion)  
 
 
-#**Vocabulary** 
+#  **Vocabulary** 
 
 def:In the context of natural language processing (NLP), vocabulary refers to the set of unique words that appear in a text corpus.The vocabulary is used to represent text in a machine-readable format. For example, if the vocabulary contains 10,000 words, then each text document can be represented as a vector of 10,000 numbers, where each number represents the frequency of a particular word in the document.
 
 The vocabulary is an important part of NLP because it allows us to represent text in a way that can be processed by computers. Without a vocabulary, it would be very difficult to develop NLP algorithms that can understand and process natural language.
 
-There are a few different ways to create a vocabulary for NLP. One common approach is to use a statistical method to select the most frequent words in a text corpus. Another approach is to use a dictionary of words that are considered to be important for a particular task.
+There are a few different ways to create a vocabulary for NLP. One common approach is to use a **statistical method** to select the most frequent words in a text corpus. Another approach is to use a **dictionary** of words that are considered to be important for a particular task.
 
  ## **How does sentiment analysis work**
  
@@ -190,6 +190,7 @@ B. As a vector of word embeddings.
 D. As the words 'positive' and 'negative'.  
 
 ---
+
 
 
 
