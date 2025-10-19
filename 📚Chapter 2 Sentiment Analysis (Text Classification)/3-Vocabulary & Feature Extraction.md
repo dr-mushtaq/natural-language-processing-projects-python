@@ -56,6 +56,45 @@ This representation would have a number of features equal to the size of your en
 
 Given a text, you learned how to represent this text as a vector of dimension V. Specifically, you did this for a tweet and you were able to build a vocabulary of dimension V. Now as V gets larger and larger, you will face certain problems. In the next video, you will learn to identify these problems.
 
+# 💻 3. Simple Python Example: Building a Vocabulary
+
+Below is a simple demonstration using scikit-learn’s CountVectorizer to automatically build a vocabulary and extract features.
+
+
+<pre>
+# Import the necessary library
+from sklearn.feature_extraction.text import CountVectorizer
+import pandas as pd
+
+# Example corpus
+tweets = [
+    "I am happy",
+    "I am learning NLP",
+    "NLP is fun"
+]
+
+# Create a CountVectorizer instance
+vectorizer = CountVectorizer()
+
+# Fit and transform the data
+X = vectorizer.fit_transform(tweets)
+
+# Convert the result into a DataFrame for clarity
+df = pd.DataFrame(X.toarray(), columns=vectorizer.get_feature_names_out())
+
+print("Vocabulary:", vectorizer.get_feature_names_out())
+print("\nFeature Representation:\n", df)
+
+ </pre>
+
+Vocabulary: ['am' 'fun' 'happy' 'is' 'learning' 'nlp']
+Feature Representation:
+   am  fun  happy  is  learning  nlp
+0   1    0      1   0         0    0
+1   1    0      0   0         1    1
+2   0    1      0   1         0    1
+
+
 
 
 ### References
@@ -70,6 +109,7 @@ Given a text, you learned how to represent this text as a vector of dimension V.
 
 
 <p align="right"><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/home_page.png" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/contents_page.jpg" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/back_page.png" /></a><a target="_blank" href="https://coursesteach.com/mod/page/view.php?id=6320&amp;forceview=1"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/next_page.png" /></a></p>
+
 
 
 
