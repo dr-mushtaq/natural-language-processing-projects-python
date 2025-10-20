@@ -516,7 +516,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 ## 👁️ Chapter4: - **Free Books**
 | Title/link| Description | Code |
 |---|---|---|
-|[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
+|[**🌐1-Comprehensive Study Resources**](https://github.com/Rishabh-creator601/Books/tree/master)|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.|---|
 
 ## 👁️ Chapter5: - **Github Repository**
 | Title/link| Description | Status |
@@ -622,6 +622,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
