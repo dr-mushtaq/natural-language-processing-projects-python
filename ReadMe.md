@@ -488,6 +488,8 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 |[**✅ 23-Advanced Large Language Model Agents**](https://rdi.berkeley.edu/adv-llm-agents/sp25)|Explore the world of Artificial Intelligence (AI) with our 12-week, 24-lesson curriculum! It includes practical lessons, quizzes, and labs. The curriculum is beginner-friendly and covers tools like TensorFlow and PyTorch, as well as ethics in AI| Pending|
 |[**✅ 24-Generative AI for Beginners**](https://learn.microsoft.com/en-gb/shows/generative-ai-for-beginners/)|Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates| Pending|
 |[**✅ 25-Large Language Models with Semantic Search**](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/?utm_campaign=cohere-launch&utm_medium=video&utm_source=youtube&utm_content=teaser)|Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates| Pending|
+|[**✅ 26-MIT Introductory Course on Foundation Models & Generative AI (2024)**]([https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/?utm_campaign=cohere-launch&utm_medium=video&utm_source=youtube&utm_content=teaser](https://www.youtube.com/playlist?list=PLXV9Vh2jYcjbnv67sXNDJiO8MWLA3ZJKR))|Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates| Pending|
+
 
 
 
@@ -622,6 +624,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
