@@ -32,6 +32,9 @@ We’ll now learn to generate counts, which you can then use as features in your
 
 So let’s take a look at how you can do that. It is helpful to first imagine how these two classes would look.
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%202%20Sentiment%20Analysis%20(Text%20Classification)/6d091ab7-9d0f-46ea-bd70-9de7ca9c7c92_700x278.jpg"></a>
+</p>
 
 Here for instance, you could have a corpus consisting of four tweets. Associated with that corpus, you would have a set of unique words, your vocabulary. In this example, your vocabulary would have eight unique words.
 
@@ -49,6 +52,7 @@ So this is the entire table with the positive and negative frequencies for your 
 
 
 ### References
+
 
 
 
