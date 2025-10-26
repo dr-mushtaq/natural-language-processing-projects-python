@@ -45,6 +45,10 @@ Here for instance, you could have a corpus consisting of four tweets. Associated
 
 For this particular example of sentiment analysis, you have two classes. One class is associated with positive sentiment and the other with negative sentiment. So taking your corpus, you’d have a set of two tweets that belong to the positive class,and the sets of two tweets that belong to the negative class.
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%202%20Sentiment%20Analysis%20(Text%20Classification)/d16b22bf-67db-418d-8d00-0889bd210bd0_700x298.jpg"></a>
+</p>
+
 
 Let’s take the sets of positive tweets. Now, take a look at your vocabulary. To get the positive frequency in any word in your vocabulary, you will have to count the times as it appears in the positive tweets. For instance, the word happy appears one time in the first positive tweet, and another time in the second positive tweet. So it’s positive frequency is two. The complete table looks like this. Feel free to take a pause and check any of its entries.
 
@@ -56,6 +60,7 @@ So this is the entire table with the positive and negative frequencies for your 
 
 
 ### References
+
 
 
 
