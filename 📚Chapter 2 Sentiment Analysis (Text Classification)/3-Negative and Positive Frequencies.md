@@ -19,9 +19,9 @@ A frequency dictionary in NLP is a list of all the unique words occurring in a c
 
 - **Document classification:** Frequency dictionaries can be used to represent documents as vectors of word frequencies. This can then be used to train machine learning models to classify documents into different categories.
 
-Sentiment analysis: Frequency dictionaries can be used to identify the sentiment of a document. For example, a document that contains a lot of words with positive sentiment scores is likely to be positive, while a document that contains a lot of words with negative sentiment scores is likely to be negative.
+- **Sentiment analysis:** Frequency dictionaries can be used to identify the sentiment of a document. For example, a document that contains a lot of words with positive sentiment scores is likely to be positive, while a document that contains a lot of words with negative sentiment scores is likely to be negative.
 
-Topic modeling: Frequency dictionaries can be used to identify the topics of a document. This is done by clustering words together based on their frequencies. The clusters of words are then used to represent the topics of the document.
+- **Topic modeling:** Frequency dictionaries can be used to identify the topics of a document. This is done by clustering words together based on their frequencies. The clusters of words are then used to represent the topics of the document.
  # **Feature Extraction**
 ## Sparse Representations
 
@@ -92,6 +92,7 @@ Feature Representation:
 
 
 <p align="right"><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/home_page.png" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/contents_page.jpg" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/back_page.png" /></a><a target="_blank" href="https://coursesteach.com/mod/page/view.php?id=6320&amp;forceview=1"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/next_page.png" /></a></p>
+
 
 
 
