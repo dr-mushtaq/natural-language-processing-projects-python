@@ -38,6 +38,10 @@ So let’s take a look at how you can do that. It is helpful to first imagine ho
 
 Here for instance, you could have a corpus consisting of four tweets. Associated with that corpus, you would have a set of unique words, your vocabulary. In this example, your vocabulary would have eight unique words.
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%202%20Sentiment%20Analysis%20(Text%20Classification)/2abc1674-c1eb-4281-9df4-7d9aade17cb7_700x125.jpg"></a>
+</p>
+
 
 For this particular example of sentiment analysis, you have two classes. One class is associated with positive sentiment and the other with negative sentiment. So taking your corpus, you’d have a set of two tweets that belong to the positive class,and the sets of two tweets that belong to the negative class.
 
@@ -52,6 +56,7 @@ So this is the entire table with the positive and negative frequencies for your 
 
 
 ### References
+
 
 
 
