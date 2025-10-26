@@ -24,8 +24,13 @@ A frequency dictionary in NLP is a list of all the unique words occurring in a c
 - Frequency dictionaries can be created manually or automatically. Manually created frequency dictionaries are created by counting the frequency of each word in a corpus.
 - Automatic frequency dictionaries are created using statistical techniques.
 
+# Using Frequency Dictionaries for Logistic Regression
+
+We’ll now learn to generate counts, which you can then use as features in your logistic regression classifier. Specifically, given a word, you want to keep track of the number of times, that’s where it shows up as the positive class. Given another word you want to keep track of the number of times that word showed up in the negative class. Using both those counts, you can then extract features and use those features into your logistic regression classifier.
+
 
 ### References
+
 
 
 
