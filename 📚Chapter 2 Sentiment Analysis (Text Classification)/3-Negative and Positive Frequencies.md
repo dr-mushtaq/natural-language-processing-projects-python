@@ -1,4 +1,4 @@
-In this blog, you’re going to learn how to represent a text as a vector. In order for you to do so, you first have to build vocabulary and that will allow you to encode any text or any tweet as an array of numbers.
+A frequency dictionary is a specialized type of lexicon used in Natural Language Processing (NLP) that organizes words based on their frequency of occurrence within a specific corpus. This tool is particularly beneficial for linguistic research, language learning, and various applications in text analysis.
 
 ## 📑 Table of Contents  
 
@@ -7,23 +7,15 @@ In this blog, you’re going to learn how to represent a text as a vector. In or
 - [Simple Python Example](#Simple-Python-Example)  
 
 
-#  **🧩Vocabulary in NLP** 
+#  **What is the frequency dictionary (Bar)** 
 
-In Natural Language Processing (NLP), a vocabulary refers to the set of all unique words that appear in a text corpus.
-This vocabulary allows us to represent text in a numerical format, which is essential for applying machine learning algorithms.
-
-def:In the context of natural language processing (NLP), vocabulary refers to the set of unique words that appear in a text corpus.The vocabulary is used to represent text in a machine-readable format. For example, if the vocabulary contains 10,000 words, then each text document can be represented as a vector of 10,000 numbers, where each number represents the frequency of a particular word in the document.
-
-The vocabulary is an important part of NLP because it allows us to represent text in a way that can be processed by computers. Without a vocabulary, it would be very difficult to develop NLP algorithms that can understand and process natural language.
-
-There are a few different ways to create a vocabulary for NLP. One common approach is to use a **statistical method** to select the most frequent words in a text corpus. Another approach is to use a **dictionary** of words that are considered to be important for a particular task.
+A frequency dictionary in NLP is a list of all the unique words occurring in a corpus, along with their frequencies. The frequency of a word is the number of times it appears in the corpus. Frequency dictionaries are used in a variety of NLP tasks, such as:
 
 <p align="center">
 <img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%202%20Sentiment%20Analysis%20(Text%20Classification)/ec4e5245-28c6-415d-b7b3-d17d7bbf4de4_700x232.jpg"></a>
 </p>
 
-So let’s dive in and see how you can do this. Picture a list of tweets, visually it would look like this. Then your vocabulary, V, would be the list of unique words from your list of tweets. To get that list, you’ll have to go through all the words from all your tweets and save every new word that appears in your search. So in this example, you’d have the word I, then the word, am and happy, because, and so forth. But note that the word I and the word am would not be repeated
-in the vocabulary.
+# Key Applications of Frequency Dictionaries in NLP
 
 Building a vocabulary usually involves:
 
@@ -100,6 +92,7 @@ Feature Representation:
 
 
 <p align="right"><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/home_page.png" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/contents_page.jpg" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/back_page.png" /></a><a target="_blank" href="https://coursesteach.com/mod/page/view.php?id=6320&amp;forceview=1"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/next_page.png" /></a></p>
+
 
 
 
