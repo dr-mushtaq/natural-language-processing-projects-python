@@ -19,11 +19,14 @@ A frequency dictionary in NLP is a list of all the unique words occurring in a c
 
 - **Topic modeling:** Frequency dictionaries can be used to identify the topics of a document. This is done by clustering words together based on their frequencies. The clusters of words are then used to represent the topics of the document.
 
+# How Are Frequency Dictionaries Created?
 
-
+- Frequency dictionaries can be created manually or automatically. Manually created frequency dictionaries are created by counting the frequency of each word in a corpus.
+- Automatic frequency dictionaries are created using statistical techniques.
 
 
 ### References
+
 
 
 
