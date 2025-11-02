@@ -76,6 +76,7 @@ In practice, you end up with something like:
 | not   | 0                  | 2                  |
 | am    | 0                  | 3                  |
 
+This table becomes your feature matrix — an essential step before training your classifier.
 
 So let’s take a look at how you can do that. It is helpful to first imagine how these two classes would look.
 
@@ -113,8 +114,19 @@ The same logic applies for getting the negative frequency. However, for the sake
 
 So this is the entire table with the positive and negative frequencies for your corpus. In practice when coding, this table is a dictionary mapping from a word class there to its frequency. So it maps the word and its corresponding class to the frequency or the number of times that’s where it showed up in the class. You now know how to create a frequency dictionary, which maps a word and the class to the number of times that word showed up in the corresponding class.
 
+# Why Frequency Dictionaries Matter
+
+Frequency dictionaries form the foundation for many NLP pipelines.
+They transform raw text into numerical representations, enabling algorithms to detect sentiment, classify topics, or even recognize authorship.
+By analyzing how often words occur across different sentiment categories, models can learn patterns of positive and negative expression — a critical ability for tasks like:
+
+- Product review analysis
+- Social media monitoring
+- Feedback classification
+
 
 ### References
+
 
 
 
