@@ -51,6 +51,23 @@ These two counts — known as **positive and negative frequencies** — can then
 
 # 😊 Example: Positive and Negative Word Frequencies
 
+Imagine a small corpus of four tweets:
+
+- Two belong to the positive class
+- Two belong to the negative class
+
+From these tweets, you build a vocabulary of all unique words.
+Then, you count how many times each word appears in positive versus negative tweets.
+
+For example:'
+
+- The word “happy” appears twice in positive tweets → Positive Frequency = 2
+- The word “am” appears three times in negative tweets → Negative Frequency = 3
+
+These counts are stored in a dictionary structure, mapping each word and class to its frequency.
+
+In practice, you end up with something like:
+
 So let’s take a look at how you can do that. It is helpful to first imagine how these two classes would look.
 
 <p align="center">
@@ -89,6 +106,7 @@ So this is the entire table with the positive and negative frequencies for your 
 
 
 ### References
+
 
 
 
