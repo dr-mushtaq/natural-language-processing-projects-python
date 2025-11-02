@@ -84,13 +84,6 @@ You can support this project by becoming a sponsor on **[GitHub Sponsors](https:
 - [🔍 Explore more](#-explore-more)
 - [✨ Top Contributors](#-top-contributors
 
-## 💖 Support My Work
-If you find these NLP projects useful, please consider supporting my research & teaching work.
-
-👉 [Sponsor via GitHub](https://github.com/sponsors/dr-mushtaq)  
-👉 [Buy Me a Coffee](https://www.buymeacoffee.com/drmushtaq)
-
-
 ## **🎯 Why Join This Course?**
  
 1.  📖 Comprehensive Learning: Covers all major NLP topics, from basics to cutting-edge deep learning techniques.
@@ -629,6 +622,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
