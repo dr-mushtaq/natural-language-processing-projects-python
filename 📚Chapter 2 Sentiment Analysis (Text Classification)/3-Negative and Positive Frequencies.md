@@ -4,9 +4,11 @@ A frequency dictionary is a specialized type of lexicon used in Natural Language
 
 ## 📑 Table of Contents  
 
-- [Vocabulary in NLP](#Vocabulary-in-NLP)  
-- [Feature Extraction](#Feature-Extraction)  
-- [Simple Python Example](#Simple-Python-Example)  
+- [What Is a Frequency Dictionary in NLP](#What-Is-a-Frequency-Dictionary-in-NLP)  
+- [Key Applications of Frequency Dictionaries](#Key-Applications-of-Frequency-Dictionaries)  
+- [How Frequency Dictionaries Are Buil](#How-Frequency-Dictionaries-Are-Buil)
+- [Using Frequency Dictionaries in Logistic Regression](#Using-Frequency-Dictionaries-in-Logistic-Regression)
+- [Why Frequency Dictionaries Matter](#Why Frequency Dictionaries Matter)   
 
 
 #  **What Is a Frequency Dictionary in NLP?** 
@@ -126,6 +128,7 @@ By analyzing how often words occur across different sentiment categories, models
 
 
 ### References
+
 
 
 
