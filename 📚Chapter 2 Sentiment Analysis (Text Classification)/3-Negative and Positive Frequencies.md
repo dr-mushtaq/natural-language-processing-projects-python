@@ -39,11 +39,17 @@ There are two main approaches:
 - 
 Most modern applications rely on automatic methods since they’re faster and more scalable.
 
-# Using Frequency Dictionaries for Logistic Regression
+# Using Frequency Dictionaries in Logistic Regression
 
-We’ll now learn to generate counts, which you can then use as features in your logistic regression classifier. Specifically, given a word, you want to keep track of the number of times, that’s where it shows up as the positive class. Given another word you want to keep track of the number of times that word showed up in the negative class. Using both those counts, you can then extract features and use those features into your logistic regression classifier.
+Frequency dictionaries can serve as **feature generators** for machine learning models.
+For example, in sentiment classification, you can track:
 
-# Example: Positive and Negative Word Frequencies
+- How often a word appears in **positive** documents
+- How often it appears in **negative** documents
+
+These two counts — known as **positive and negative frequencies** — can then be used as input features for a logistic regression model that predicts sentiment polarity.
+
+# 😊 Example: Positive and Negative Word Frequencies
 
 So let’s take a look at how you can do that. It is helpful to first imagine how these two classes would look.
 
@@ -83,6 +89,7 @@ So this is the entire table with the positive and negative frequencies for your 
 
 
 ### References
+
 
 
 
