@@ -1,3 +1,5 @@
+# 📊 Understanding Positive and Negative Word Frequencies in NLP
+
 A frequency dictionary is a specialized type of lexicon used in Natural Language Processing (NLP) that organizes words based on their frequency of occurrence within a specific corpus. This tool is particularly beneficial for linguistic research, language learning, and various applications in text analysis.
 
 ## 📑 Table of Contents  
@@ -7,11 +9,20 @@ A frequency dictionary is a specialized type of lexicon used in Natural Language
 - [Simple Python Example](#Simple-Python-Example)  
 
 
-#  **What is the frequency dictionary (Bar)** 
+#  **What Is a Frequency Dictionary in NLP?** 
 
 A frequency dictionary in NLP is a list of all the unique words occurring in a corpus, along with their frequencies. The frequency of a word is the number of times it appears in the corpus. Frequency dictionaries are used in a variety of NLP tasks, such as:
 
-# Key Applications of Frequency Dictionaries in NLP
+A frequency dictionary is a special type of lexicon that organizes words based on how often they appear in a given text or dataset.
+In Natural Language Processing (NLP), this tool helps researchers and developers understand the importance of specific words in a corpus.
+
+Simply put — it’s a list of all unique words in your dataset, along with the number of times each word occurs.
+
+These frequency counts become powerful features in various NLP tasks, from sentiment analysis to document classification.
+
+# Key Applications of Frequency Dictionaries
+
+Frequency dictionaries are used in multiple NLP applications, including:
 
 - **Document classification:** Frequency dictionaries can be used to represent documents as vectors of word frequencies. This can then be used to train machine learning models to classify documents into different categories.
 
@@ -19,10 +30,14 @@ A frequency dictionary in NLP is a list of all the unique words occurring in a c
 
 - **Topic modeling:** Frequency dictionaries can be used to identify the topics of a document. This is done by clustering words together based on their frequencies. The clusters of words are then used to represent the topics of the document.
 
-# How Are Frequency Dictionaries Created?
+# How Frequency Dictionaries Are Built?
 
-- Frequency dictionaries can be created manually or automatically. Manually created frequency dictionaries are created by counting the frequency of each word in a corpus.
-- Automatic frequency dictionaries are created using statistical techniques.
+There are two main approaches:
+
+- **Manual creation:** Counting word occurrences by hand — often done for small datasets or linguistic studies.
+- **Automatic generation:** Using NLP libraries (like NLTK, scikit-learn, or spaCy) to calculate word frequencies statistically across large corpora.
+- 
+Most modern applications rely on automatic methods since they’re faster and more scalable.
 
 # Using Frequency Dictionaries for Logistic Regression
 
@@ -68,6 +83,7 @@ So this is the entire table with the positive and negative frequencies for your 
 
 
 ### References
+
 
 
 
