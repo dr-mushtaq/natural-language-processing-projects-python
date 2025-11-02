@@ -68,6 +68,15 @@ These counts are stored in a dictionary structure, mapping each word and class t
 
 In practice, you end up with something like:
 
+| Word  | Positive Frequency | Negative Frequency |
+| ----- | ------------------ | ------------------ |
+| happy | 2                  | 0                  |
+| sad   | 0                  | 1                  |
+| great | 1                  | 0                  |
+| not   | 0                  | 2                  |
+| am    | 0                  | 3                  |
+
+
 So let’s take a look at how you can do that. It is helpful to first imagine how these two classes would look.
 
 <p align="center">
@@ -106,6 +115,7 @@ So this is the entire table with the positive and negative frequencies for your 
 
 
 ### References
+
 
 
 
