@@ -1,6 +1,8 @@
 # 📊 Understanding Positive and Negative Word Frequencies in NLP
 
 A frequency dictionary is a specialized type of lexicon used in Natural Language Processing (NLP) that organizes words based on their frequency of occurrence within a specific corpus. This tool is particularly beneficial for linguistic research, language learning, and various applications in text analysis.
+![Example of positive and negative word frequency tables in NLP](positive-negative-frequency-table-example.png)
+
 
 ## 📑 Table of Contents  
 
@@ -128,6 +130,7 @@ By analyzing how often words occur across different sentiment categories, models
 
 
 ### References
+
 
 
 
