@@ -52,14 +52,23 @@ For this particular example of sentiment analysis, you have two classes. One cla
 
 Let’s take the sets of positive tweets. Now, take a look at your vocabulary. To get the positive frequency in any word in your vocabulary, you will have to count the times as it appears in the positive tweets. For instance, the word happy appears one time in the first positive tweet, and another time in the second positive tweet. So it’s positive frequency is two. The complete table looks like this. Feel free to take a pause and check any of its entries.
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%202%20Sentiment%20Analysis%20(Text%20Classification)/download%20(3).png"></a>
+</p>
+
 
 The same logic applies for getting the negative frequency. However, for the sake of clarity, look at some examples, the word am appears two times in the first tweet and another time in the second one. So it’s negative frequency is three. Take a look at the entire table for negative frequencies and feel free to check its values.
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%202%20Sentiment%20Analysis%20(Text%20Classification)/download%20(4).png"></a>
+</p>
 
 
 So this is the entire table with the positive and negative frequencies for your corpus. In practice when coding, this table is a dictionary mapping from a word class there to its frequency. So it maps the word and its corresponding class to the frequency or the number of times that’s where it showed up in the class. You now know how to create a frequency dictionary, which maps a word and the class to the number of times that word showed up in the corresponding class.
 
 
 ### References
+
 
 
 
