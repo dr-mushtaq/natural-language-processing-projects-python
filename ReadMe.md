@@ -484,7 +484,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 |[**✅ 24-Generative AI for Beginners**](https://learn.microsoft.com/en-gb/shows/generative-ai-for-beginners/)|Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates| Pending|
 |[**✅ 25-Large Language Models with Semantic Search**](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/?utm_campaign=cohere-launch&utm_medium=video&utm_source=youtube&utm_content=teaser)|Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates| Pending|
 |[**✅ 26-MIT Introductory Course on Foundation Models & Generative AI (2024)**]([https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/?utm_campaign=cohere-launch&utm_medium=video&utm_source=youtube&utm_content=teaser](https://www.youtube.com/playlist?list=PLXV9Vh2jYcjbnv67sXNDJiO8MWLA3ZJKR))|Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates| Pending|
-|[**✅ 27-Generative AI for Everyone by Andrew**]([https://www.deeplearning.ai/courses/generative-ai-for-everyone/))|Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates| Pending|
+|[**✅ 27-Generative AI for Everyone by Andrew**](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)|Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates| Pending|
 |[**✅ 28-Stanford CS236: Deep Generative Models I 2023 I Stefano Ermon**](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)|Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates| Pending|
 
 
@@ -623,6 +623,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
