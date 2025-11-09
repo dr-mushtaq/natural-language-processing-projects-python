@@ -11,6 +11,11 @@ Data preparation is a critical stage in the data analysis process, ensuring that
 
 Def: Text pre-processing is the process of transforming unstructured text to structured text to prepare it for analysis.
 
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%202%20Sentiment%20Analysis%20(Text%20Classification)/31.jpg"></a>
+</p>
+
 # Section 2- Why Text Preprocessing
 
 -When you pre-process text before feeding it to algorithms, you increase the accuracy and efficiency of said algorithms by removing noise and other inconsistencies in the text that can make it hard for the computer to understand. 
@@ -323,5 +328,6 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
