@@ -90,6 +90,7 @@ Since we have a Twitter dataset, we'd like to remove some substrings commonly us
 
 By removing punctuation marks from our text we allow the model to focus on the text alone rather than distracting it with symbols. This makes it easier for the text to be analysed.
 
+<pre>
 print('\033[92m' + tweet)
 print('\033[94m')
 # remove old style retweet text "RT"
@@ -100,10 +101,14 @@ tweet2 = re.sub(r'https?:\/\/.*[\r\n]*', '', tweet2)
 # only removing the hash # sign from the word
 tweet2 = re.sub(r'#', '', tweet2)
 print(tweet2)
+
 My beautiful sunflowers on a sunny Friday morning off :) #sunflowers #favourites #happy #Friday off… https://t.co/3tfYom0N1i
 
 My beautiful sunflowers on a sunny Friday morning off :) sunflowers favourites happy Friday off…
-2- Tokenization
+  </pre>
+  
+## 2- Tokenization
+
 What is tokenization?
 Def: Tokenization is the process of transforming a string or document into smaller chunks, which we call tokens. When a sentence breakup into small individual words or Phrases, these pieces of words are known as tokens, and the process is known as tokenization. This is usually one step in the process of preparing a text for natural language processing.
 
@@ -331,6 +336,7 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
