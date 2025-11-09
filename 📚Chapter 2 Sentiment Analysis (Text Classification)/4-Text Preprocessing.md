@@ -64,21 +64,22 @@ However, it’s important to note that there are cases where punctuations and sp
 
 ## 3- Tokenization:
 
-Def: Tokenization is the process of splitting text into individual words or tokens. This step helps in creating a structured format for further analysis.
+**Def:** Tokenization is the process of splitting text into individual words or tokens. This step helps in creating a structured format for further analysis.
 
-Def: To use text data for predicting stuff, you gotta break it down and get rid of some words — that’s called tokenization.
+**Def:** To use text data for predicting stuff, you gotta break it down and get rid of some words — that’s called tokenization.
 
-4- Feature Extraction:
+## 4- Feature Extraction:
 
-Def: After tokenization, relevant features need to be extracted from the text. This can be done using techniques such as bag-of-words, TF-IDF (Term Frequency-Inverse Document Frequency), or word embeddings.
+**Def:** After tokenization, relevant features need to be extracted from the text. This can be done using techniques such as bag-of-words, TF-IDF (Term Frequency-Inverse Document Frequency), or word embeddings.
 
-Def: To analyze preprocessed data, it needs to be converted into features. Depending upon the usage, text features can be constructed using assorted techniques — Bag of Words, TF IDF (Term Frequency — Inverse Document Frequency), Word2Vec (by Google), GloVe (Global Vectors by Stanford), FastText (by Facebook), ELMo (Embeddings from Language Models),GPT (Generative Pre-trained Transformer by OpenAI) BERT (Bidirectional Encoder Representations from Transformer by Google),LLM’s[11].
+**Def:** To analyze preprocessed data, it needs to be converted into features. Depending upon the usage, text features can be constructed using assorted techniques — Bag of Words, TF IDF (Term Frequency — Inverse Document Frequency), Word2Vec (by Google), GloVe (Global Vectors by Stanford), FastText (by Facebook), ELMo (Embeddings from Language Models),GPT (Generative Pre-trained Transformer by OpenAI) BERT (Bidirectional Encoder Representations from Transformer by Google),LLM’s[11].
 
 Def: Then you gotta turn those words into numbers, either integers or floating-point values, so you can use them in machine learning. That whole thing is known as feature extraction (or vectorization).
 
 Labeling: Each data point in the dataset needs to be labeled with the corresponding sentiment category (positive or negative). This can be done manually or by using pre-labeled datasets for training purposes.
 
-Section 2- Detail discussion on steps involved in Data Preparation for Sentiment Analysis
+# Section 2- Detail discussion on steps involved in Data Preparation for Sentiment Analysis
+
 1- Removing Punctuations, Numbers, and Special Characters (Remove hyperlinks, Twitter marks, and styles)
 During human conversations, punctuation marks like ‘’, ! , [, }, *, #, /, ?, and ‘’ are incredibly relevant and necessary to have a proper conversation. They help to fully convey the message of the writer.
 
@@ -329,6 +330,7 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
