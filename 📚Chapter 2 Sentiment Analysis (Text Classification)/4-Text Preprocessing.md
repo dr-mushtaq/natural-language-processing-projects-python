@@ -80,7 +80,8 @@ Labeling: Each data point in the dataset needs to be labeled with the correspond
 
 # Section 2- Detail discussion on steps involved in Data Preparation for Sentiment Analysis
 
-1- Removing Punctuations, Numbers, and Special Characters (Remove hyperlinks, Twitter marks, and styles)
+## 1- Removing Punctuations, Numbers, and Special Characters (Remove hyperlinks, Twitter marks, and styles)
+
 During human conversations, punctuation marks like ‘’, ! , [, }, *, #, /, ?, and ‘’ are incredibly relevant and necessary to have a proper conversation. They help to fully convey the message of the writer.
 
 But in nlp , punctuations, numbers and special characters do not help much. It is better to remove them from the text just as we removed the twitter handles [11]
@@ -330,6 +331,7 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
