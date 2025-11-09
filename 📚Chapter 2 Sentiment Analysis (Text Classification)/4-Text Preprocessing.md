@@ -109,12 +109,13 @@ My beautiful sunflowers on a sunny Friday morning off :) sunflowers favourites h
   
 ## 2- Tokenization
 
-What is tokenization?
+**What is tokenization?**
+
 Def: Tokenization is the process of transforming a string or document into smaller chunks, which we call tokens. When a sentence breakup into small individual words or Phrases, these pieces of words are known as tokens, and the process is known as tokenization. This is usually one step in the process of preparing a text for natural language processing.
 
 Def: The tokenization process takes a body of text and breaks it into pieces, or tokens, which can then be transformed into a format the model can work with.
 
-Why is it Important?
+**Why is it Important?**
 
 The model is only capable of processing numerical data, hence tokens are transformed into numbers. This step is crucial as it converts unstructured content into a format that the models can comprehend and evaluate. In the absence of tokenization, there would be no method to input text into machine learning models, since they can only interpret numerical values, not direct text strings.
 
@@ -336,6 +337,7 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
