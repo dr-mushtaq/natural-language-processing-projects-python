@@ -54,15 +54,15 @@ Once the data is collected, it needs to be cleaned by **removing unnecessary cha
 
 **Dimensionality Reduction:** Keeping every punctuation mark and special character as a separate feature can significantly increase the dimensionality of the data, making it computationally expensive and potentially leading to overfitting. By removing them, you reduce the dimensionality of the feature space.
 
-Computational Efficiency: Some NLP algorithms and models, especially those based on neural networks, are computationally more efficient when trained on preprocessed text. Removing punctuations and special characters can help speed up the training and inference processes.
+**Computational Efficiency:** Some NLP algorithms and models, especially those based on neural networks, are computationally more efficient when trained on preprocessed text. Removing punctuations and special characters can help speed up the training and inference processes.
 
-Noise Reduction: Punctuation and special characters often don’t carry significant semantic meaning on their own. Removing them can help reduce the noise in the text and make it easier for NLP models to focus on the meaningful words and phrases.
+**Noise Reduction:** Punctuation and special characters often don’t carry significant semantic meaning on their own. Removing them can help reduce the noise in the text and make it easier for NLP models to focus on the meaningful words and phrases.
 
-Generalization: Ignoring punctuations and special characters helps NLP models generalize better. For instance, if you remove the period from the end of a sentence, the model can better learn the relationship between words without being overly influenced by sentence boundaries.
+**Generalization:** Ignoring punctuations and special characters helps NLP models generalize better. For instance, if you remove the period from the end of a sentence, the model can better learn the relationship between words without being overly influenced by sentence boundaries.
 
 However, it’s important to note that there are cases where punctuations and special characters might convey valuable information, such as in sentiment analysis (e.g., “I love it” vs. “I love it!”, in the second case the speaker seems to be more excited). In such cases, you may choose to retain certain punctuation marks or handle them differently in your preprocessing pipeline. The choice of whether to remove or retain punctuations depends on the specific NLP task and the goals of your analysis.
 
-3- Tokenization:
+## 3- Tokenization:
 
 Def: Tokenization is the process of splitting text into individual words or tokens. This step helps in creating a structured format for further analysis.
 
@@ -329,6 +329,7 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
