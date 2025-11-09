@@ -130,7 +130,9 @@ Description : This allows the computer to work on your text token by token rathe
 
 Why bother with tokenization? Because it can help us with some simple text processing tasks like mapping part of speech, matching common words and perhaps removing unwanted tokens like common words or repeated words. Here, we have a good example. The sentence is: I don’t like Sam’s shoes. When we tokenize it we can clearly see the negation in the not and we can see possession with the ‘s. These indicators can help us determine meaning from simple text [1].
 
-
+<p align="center">
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%202%20Sentiment%20Analysis%20(Text%20Classification)/32.jpg"></a>
+</p>
 
 **Types of tokenization**
 
@@ -338,6 +340,7 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
