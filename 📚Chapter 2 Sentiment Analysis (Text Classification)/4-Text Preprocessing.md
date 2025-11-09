@@ -121,18 +121,19 @@ The model is only capable of processing numerical data, hence tokens are transfo
 
 Description : This allows the computer to work on your text token by token rather than working on the entire text in the following stage. There are many theories and rules regarding tokenization, and you can create your own tokenization rules using regular expressions, but normally tokenization will do things like break out words or sentences, often separate punctuation or you can even just tokenize parts of a string like separating all hashtags in a Tweet [1].
 
-Python Libraries
+**Python Libraries**
 
-In spaCy, you can do either sentence tokenization or word tokenization
+- In spaCy, you can do either sentence tokenization or word tokenization
+- The NLTK library includes a range of tokenizers for different languages and use cases.
 
-The NLTK library includes a range of tokenizers for different languages and use cases.
+**Why tokenize?**
 
-Why tokenize?
 Why bother with tokenization? Because it can help us with some simple text processing tasks like mapping part of speech, matching common words and perhaps removing unwanted tokens like common words or repeated words. Here, we have a good example. The sentence is: I don’t like Sam’s shoes. When we tokenize it we can clearly see the negation in the not and we can see possession with the ‘s. These indicators can help us determine meaning from simple text [1].
 
 
 
-Types of tokenization
+**Types of tokenization**
+
 The two main types of tokenization are word and sentence tokenization.
 
 1- Word tokenization is the most common kind of tokenization. Here, each token is a word, meaning the algorithm breaks down the entire text into individual words. breaks text down into individual words.
@@ -337,6 +338,7 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
