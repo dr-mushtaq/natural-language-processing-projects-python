@@ -38,7 +38,7 @@ In one of the later stages, we will be extracting numeric features from our Twit
 # Section 1- Main Steps involved in Data Preparation for Sentiment Analysis
 In this section, we will discuss the steps involved in preparing the data for sentiment analysis using logistic regression.
 
-1- Data Collection:
+## 1- Data Collection:
 
 The first step in any sentiment analysis project is to collect a suitable dataset. This can be done by scraping data from social media platforms, online reviews, or any other relevant sources.The first step for any supervised machine learning project is to gather the data to train and test your model [11].
 
@@ -331,6 +331,7 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
