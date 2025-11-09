@@ -33,14 +33,14 @@ You are searching for a document in this office space. In which scenario are you
 
 The preprocessing of the text data is an essential step as it makes the raw text ready for mining, i.e., it becomes easier to extract information from the text and apply machine learning algorithms to it. If we skip this step then there is a higher chance that you are working with noisy and inconsistent data. The objective of this step is to clean noise those are less relevant to find the sentiment of tweets such as punctuation, special characters, numbers, and terms which don’t carry much weightage in context to the text[11].
 
-In one of the later stages, we will be extracting numeric features from our Twitter text data. This feature space is created using all the unique words present in the entire data. So, if we preprocess our data well, then we would be able to get a better quality feature space[11].
+In one of the later stages, we will be extracting numeric features from our Twitter text data. This feature space is created using all the unique words present in the entire data. So, if we preprocess our data well, then we would be able to get a better quality feature space.
 
 # Section 3- Main Steps involved in Data Preparation for Sentiment Analysis
 In this section, we will discuss the steps involved in preparing the data for sentiment analysis using logistic regression.
 
 ## 1- Data Collection:
 
-The first step in any sentiment analysis project is to collect a suitable dataset. This can be done by scraping data from social media platforms, online reviews, or any other relevant sources.The first step for any supervised machine learning project is to gather the data to train and test your model [11].
+The first step in any sentiment analysis project is to collect a suitable dataset. This can be done by scraping data from social media platforms, online reviews, or any other relevant sources.The first step for any supervised machine learning project is to gather the data to train and test your model.
 
 Key considerations during this phase include:
 
@@ -48,11 +48,11 @@ Key considerations during this phase include:
 - Ensuring data accessibility: Confirm that you have the necessary permissions to access the data.
 - Volume and freshness: Determine the appropriate amount of data needed and its update frequency
 
-2- Data Cleaning
+## 2- Data Cleaning
 
-Once the data is collected, it needs to be cleaned by removing unnecessary characters, punctuation marks, and stopwords. Stop-words are words that do not carry much meaning and can be safely ignored. When it comes to low-level text processing problems… it is advisable to remove all punctuations and special characters ( including emojis…) for several significant reasons, which are Dimensionality issues, Computational Efficiency, Noise Reduction, and Generalization you can state other issues as well…
+Once the data is collected, it needs to be cleaned by **removing unnecessary characters, punctuation marks, and stopwords. Stop-words** are words that do not carry much meaning and can be safely ignored. When it comes to low-level text processing problems… it is advisable to remove all punctuations and special characters ( including emojis…) for several significant reasons, which are Dimensionality issues, Computational Efficiency, Noise Reduction, and Generalization you can state other issues as well…
 
-Dimensionality Reduction: Keeping every punctuation mark and special character as a separate feature can significantly increase the dimensionality of the data, making it computationally expensive and potentially leading to overfitting. By removing them, you reduce the dimensionality of the feature space.
+**Dimensionality Reduction:** Keeping every punctuation mark and special character as a separate feature can significantly increase the dimensionality of the data, making it computationally expensive and potentially leading to overfitting. By removing them, you reduce the dimensionality of the feature space.
 
 Computational Efficiency: Some NLP algorithms and models, especially those based on neural networks, are computationally more efficient when trained on preprocessed text. Removing punctuations and special characters can help speed up the training and inference processes.
 
@@ -329,6 +329,7 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
