@@ -1,12 +1,14 @@
-Introduction
+# Introduction
+
 Data preparation is a critical stage in the data analysis process, ensuring that raw data is transformed into a clean and structured format suitable for analysis. Here are the essential steps involved in effective data preparation:
 
-Sections
-What is text-processing
-Main Steps involved in Data Preparation for Sentiment Analysis
-Detail discussion on steps involved in Data Preparation for Sentiment Analysis
+# Sections
+- What is text-processing
+- Main Steps involved in Data Preparation for Sentiment Analysis
+- Detail discussion on steps involved in Data Preparation for Sentiment Analysis
 
-Section 1- What is text-processing
+# Section 1- What is text-processing
+
 Def: Text pre-processing is the process of transforming unstructured text to structured text to prepare it for analysis.
 
 Why Text Preprocessing: When you pre-process text before feeding it to algorithms, you increase the accuracy and efficiency of said algorithms by removing noise and other inconsistencies in the text that can make it hard for the computer to understand. Making the text easier to understand also helps to reduce the time and resources required for the computer to pre-process data. These words need to then be encoded as integers, or floating-point values, for use as inputs in machine learning algorithms. This process is called feature extraction (or vectorizations).
@@ -318,3 +320,4 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
