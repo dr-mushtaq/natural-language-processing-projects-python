@@ -25,6 +25,9 @@ Scikit-learn’s CountVectorizer is used to convert a collection of text documen
 
 Take a look at the pictures below depicting two scenarios of an office space — one is untidy and the other is clean and organized [11].
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%202%20Sentiment%20Analysis%20(Text%20Classification)/32.jpg"></a>
+</p>
 
 You are searching for a document in this office space. In which scenario are you more likely to find the document easily? Of course, in the less cluttered one because each item is kept in its proper place. The data cleaning exercise is quite similar. If the data is arranged in a structured format then it becomes easier to find the right information[11].
 
@@ -328,6 +331,7 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
