@@ -35,7 +35,7 @@ The preprocessing of the text data is an essential step as it makes the raw text
 
 In one of the later stages, we will be extracting numeric features from our Twitter text data. This feature space is created using all the unique words present in the entire data. So, if we preprocess our data well, then we would be able to get a better quality feature space[11].
 
-Section 1- Main Steps involved in Data Preparation for Sentiment Analysis
+# Section 1- Main Steps involved in Data Preparation for Sentiment Analysis
 In this section, we will discuss the steps involved in preparing the data for sentiment analysis using logistic regression.
 
 1- Data Collection:
@@ -331,6 +331,7 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
