@@ -11,7 +11,10 @@ Data preparation is a critical stage in the data analysis process, ensuring that
 
 Def: Text pre-processing is the process of transforming unstructured text to structured text to prepare it for analysis.
 
-Why Text Preprocessing: When you pre-process text before feeding it to algorithms, you increase the accuracy and efficiency of said algorithms by removing noise and other inconsistencies in the text that can make it hard for the computer to understand. Making the text easier to understand also helps to reduce the time and resources required for the computer to pre-process data. These words need to then be encoded as integers, or floating-point values, for use as inputs in machine learning algorithms. This process is called feature extraction (or vectorizations).
+# Section 2- Why Text Preprocessing
+
+-When you pre-process text before feeding it to algorithms, you increase the accuracy and efficiency of said algorithms by removing noise and other inconsistencies in the text that can make it hard for the computer to understand. 
+-Making the text easier to understand also helps to reduce the time and resources required for the computer to pre-process data. These words need to then be encoded as integers, or floating-point values, for use as inputs in machine learning algorithms. This process is called feature extraction (or vectorizations).
 
 Scikit-learn’s CountVectorizer is used to convert a collection of text documents to a vector of term/token counts. It also enables the ​pre-processing of text data prior to generating the vector representation. This functionality makes it a highly flexible feature representation module for text.
 
@@ -320,4 +323,5 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
