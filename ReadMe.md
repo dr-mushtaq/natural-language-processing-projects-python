@@ -386,6 +386,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
  |**🌐5-Computing Cost 1**| [**1**](https://drive.google.com/file/d/1374smTKorvrgi7wHM-cYex1VJrrAevOw/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10481&forceview=1)| intermediate|
 |**🌐6-Computing Cost 2**| [**1**](https://drive.google.com/file/d/1P8E-N6KfD0sHzcaR7Fwqq1FbDjHEoLpQ/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10482&forceview=1)| intermediate|
 |**🌐7-One Shot Learning**| [**1**](https://drive.google.com/file/d/18Aod88FRulKYLfG-uwKS-xmMtrLwETas/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10482&forceview=1)| intermediate|
+|**🌐8-Training_Testing**| [**1**](https://drive.google.com/file/d/1pX7mPcdiuOBu8Zr13bBLJTFYo013iBiT/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10488)| intermediate|
  </details>
 
  <details> 
@@ -626,6 +627,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
