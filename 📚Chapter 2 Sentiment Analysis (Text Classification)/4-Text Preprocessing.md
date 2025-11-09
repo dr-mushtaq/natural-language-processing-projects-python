@@ -138,9 +138,9 @@ Why bother with tokenization? Because it can help us with some simple text proce
 
 The two main types of tokenization are word and sentence tokenization.
 
-1- Word tokenization is the most common kind of tokenization. Here, each token is a word, meaning the algorithm breaks down the entire text into individual words. breaks text down into individual words.
+1- **Word tokenization** is the most common kind of tokenization. Here, each token is a word, meaning the algorithm breaks down the entire text into individual words. breaks text down into individual words.
 
-2- sentence tokenization: On the other hand, sentence tokenization breaks down text into sentences instead of words. It is a less common type of tokenisation only used in few Natural Language Processing (NLP) tasks.
+2- **sentence tokenization:** On the other hand, sentence tokenization breaks down text into sentences instead of words. It is a less common type of tokenisation only used in few Natural Language Processing (NLP) tasks.
 
 import spacy
 text = """
@@ -340,6 +340,7 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
