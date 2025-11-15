@@ -392,7 +392,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
  <details> 
 <summary> <h2>📕🔵Level 3: Advanced:Course 04 -NLP with Attention Models</h2> </summary>
   
- ### Week 1-[**📚Chapter1:Autocorrect and Mininum Edit Distance**]()
+ ### Week 1-[**📚Chapter1:Neural Machine Translation**]()
 
  | Topic Name/Tutorial | Video | Code |
  |---|---|---|
@@ -627,6 +627,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
