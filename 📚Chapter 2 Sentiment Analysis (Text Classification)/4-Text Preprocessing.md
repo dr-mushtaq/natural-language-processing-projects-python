@@ -142,6 +142,7 @@ The two main types of tokenization are word and sentence tokenization.
 
 2- **sentence tokenization:** On the other hand, sentence tokenization breaks down text into sentences instead of words. It is a less common type of tokenisation only used in few Natural Language Processing (NLP) tasks.
 
+<pre>
 import spacy
 text = """
 ... Dave watched as the forest burned up on the hill,
@@ -162,16 +163,19 @@ token_list
 , up, the, last, of, the, pets, ., ", Where, could, she, be, ?, ", he, wondered,
 , as, he, continued, to, wait, for, Marta, to, appear, with, the, pets, .,
 ]
+
+</pre>
+
 In this code, you set up some example text to tokenize, load spaCy’s English model, and then tokenize the text by passing it into the nlp constructor. This model includes a default processing pipeline that you can customize[13]
 
-Tokenization algorithms
-whitespace tokenization,
+# Tokenization algorithms
 
-Regular expression tokenization
+- whitespace tokenization,
+- Regular expression tokenization
+- statistical tokenization
 
-statistical tokenization
+# 3- NormaliZation
 
-3- Normalisation
 In normalization, your text is converted to standard form. An example of this is converting all text to lowercase, removing numbers, or removing punctuations. Normalization helps to make the text more consistent. There are a couple of different normalization techniques, but I’ll give you an explanation of some of the most commonly employed normalisation techniques below.
 
 Case normalization
@@ -340,6 +344,7 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
