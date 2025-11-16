@@ -207,11 +207,17 @@ These are the most common words which do not add much value to the meaning of th
 <img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%202%20Sentiment%20Analysis%20(Text%20Classification)/80b3b54c-efca-4e01-b838-4adb119443bb_587x375.jpg"></a>
 </p>
 
-
+<pre>
 from nltk.corpus import stopwords 
 from nltk.tokenize import word_tokenize  stopwords = set(stopwords.words('english'))
+</pre>
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%202%20Sentiment%20Analysis%20(Text%20Classification)/2062e64d-6d4d-4afe-9187-97fac59bf95b_700x216.jpg"></a>
+</p>
 
 Let’s take a look at how you can do this. Let’s process this tweet. First, I remove all the words that don’t add significant meaning to the tweets, aka stop words and punctuation marks. In practice, you would have to compare your tweet against two lists. One with stop words in English and another with punctuation. These lists are usually much larger, but for the purpose of this example, they will do just fine. Every word from the tweet that also appears on the list of stop words should be eliminated. So you’d have to eliminate the word and, the word are, the word a, and the word at. The tweet without stop words looks like this.
+
 
 
 Note that the overall meaning of the sentence could be inferred without any effort. Now, let’s eliminate every punctuation mark. In this example, there are only exclamation points. The tweet without stop words and punctuation looks like this.
@@ -354,6 +360,7 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
