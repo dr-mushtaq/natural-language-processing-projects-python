@@ -174,7 +174,7 @@ In this code, you set up some example text to tokenize, load spaCy’s English m
 - Regular expression tokenization
 - statistical tokenization
 
-# 3- NormaliZation
+# 3- Normalization
 
 In normalization, your text is converted to standard form. An example of this is converting all text to lowercase, removing numbers, or removing punctuations. Normalization helps to make the text more consistent. There are a couple of different normalization techniques, but I’ll give you an explanation of some of the most commonly employed normalisation techniques below.
 
@@ -203,6 +203,9 @@ with
 
 These are the most common words which do not add much value to the meaning of the document.[1]
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%202%20Sentiment%20Analysis%20(Text%20Classification)/80b3b54c-efca-4e01-b838-4adb119443bb_587x375.jpg"></a>
+</p>
 
 
 from nltk.corpus import stopwords 
@@ -351,6 +354,7 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
