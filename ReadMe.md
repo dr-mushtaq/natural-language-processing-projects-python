@@ -394,9 +394,9 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
   
  ### Week 1-[**📚Chapter1:Neural Machine Translation**]()
 
- | Topic Name/Tutorial | Video | Code |
- |---|---|---|
- |[**🌐1-Overview**](https://medium.com/@Coursesteach/natural-language-processing-part-33-transforming-word-vectors-37491a721ac7)| [**1**](https://drive.google.com/file/d/1n_AX9UaW-8T97jucHEr0Ge9sGJjTyhEG/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+ | Topic Name/Tutorial | Video | Code |Note|
+ |---|---|---|---|
+ |**🌐1-Seq2seq**| [**1**](https://drive.google.com/file/d/1ZziMM0QGNzWZFAjvYgYMjDXI7fp8q1wG/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10491&forceview=1)|
 
   ### Week 1-[**📚Chapter1:Attention & Transformers**]()
 - Attention mechanism basics
@@ -627,6 +627,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
