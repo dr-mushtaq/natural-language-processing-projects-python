@@ -178,22 +178,29 @@ In this code, you set up some example text to tokenize, load spaCy’s English m
 
 In normalization, your text is converted to standard form. An example of this is converting all text to lowercase, removing numbers, or removing punctuations. Normalization helps to make the text more consistent. There are a couple of different normalization techniques, but I’ll give you an explanation of some of the most commonly employed normalisation techniques below.
 
-Case normalization
+## Case normalization
 
 This technique converts all the letters in your text to a single case, either uppercase or lowercase. Case normalisation ensures that your data is stored in a consistent format and makes it easier to work with the data. An example would be looking for all the instances of a word and searching for it in your text. Without case normalisation, the result of searching for the word ‘Boy’ would be different from the result of searching for ‘boy’.
 
-4- Stop words
+## Stop words
 Stop word is used to filter some words which are repeat often and not giving information about the text. In Spacy, there is a built-in list of some stop words.One of the important preprocessing steps in NLP is to remove stop words from text. Stop words are basically connector words such as ‘to’, ‘with’, ‘is’, etc. which provide minimal context. spaCy allows easy identification of stop words with an attribute of the ‘doc’ object called ‘is_stop’. We iterate over all the tokens and apply the ‘is_stop’ method [2].Stop words, such as “the,” “and,” “is,” and “an,” are common words that appear frequently in a language. These terms are frequently irrelevant to the analysis and can be removed to reduce the noise in the data. The NLTK library includes a list of English stop words for this purpose.
-
+<pre>
 for token in doc:
  if token.is_stop == True:
   print(token)
+
+</pre>
+
 output:
 
+<pre>
 is 
 a 
 to 
 with 
+
+</pre>
+
 These are the most common words which do not add much value to the meaning of the document.[1]
 
 
@@ -344,6 +351,7 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
