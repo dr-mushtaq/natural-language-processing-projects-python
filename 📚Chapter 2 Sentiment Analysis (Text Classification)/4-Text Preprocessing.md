@@ -245,6 +245,7 @@ Lemmatization can be done using a variety of tools and techniques. Some popular 
 
 Lemmatization is a similar process to stemming, but it reduces words to their base form by using a dictionary or knowledge of the language. This can result in more accurate base forms than stemming [6].
 
+<pre>
 for token in doc:
  print(token.lemma_)
 output: 
@@ -260,11 +261,12 @@ machine
 learning 
 with 
 python
+  </pre>
 Another text preprocessing technique using which we reduce the words down to their root forms.[1]
 
 
 Code
-
+<pre>
 from nltk.stem import WordNetLemmatizer
 tokenized = ["booking", "studying", "jumping"]
 lemmatizer = WordNetLemmatizer()
@@ -272,7 +274,7 @@ lemmatized = [lemmatizer.lemmatize(token) for token in tokenized]
 
 Output —
 ['book','study','jump]
-
+</pre>
 
 A basic example demonstrating how a lemmatizer works
 
@@ -368,6 +370,7 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
