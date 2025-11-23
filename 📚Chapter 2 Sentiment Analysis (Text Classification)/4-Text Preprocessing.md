@@ -264,7 +264,9 @@ python
   </pre>
 Another text preprocessing technique using which we reduce the words down to their root forms.[1]
 
-
+<p align="center">
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%202%20Sentiment%20Analysis%20(Text%20Classification)/e4891e81-bdb0-40dc-8837-821a47d7a631_321x168.jpg"></a>
+</p>
 Code
 <pre>
 from nltk.stem import WordNetLemmatizer
@@ -370,6 +372,7 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
