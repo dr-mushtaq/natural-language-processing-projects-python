@@ -224,6 +224,9 @@ Let’s take a look at how you can do this. Let’s process this tweet. First, I
 
 Note that the overall meaning of the sentence could be inferred without any effort. Now, let’s eliminate every punctuation mark. In this example, there are only exclamation points. The tweet without stop words and punctuation looks like this.
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%202%20Sentiment%20Analysis%20(Text%20Classification)/a97af959-0dde-4b44-882c-d71112da819b_700x228.jpg"></a>
+</p>
 
 However, note that in some contexts you won’t have to eliminate punctuation. So you should think carefully about whether punctuation adds important information to your specific NLP task or not. Tweets and other types of texts often have handles and URLs, but these don’t add any value for the task of sentiment analysis. Let’s eliminate these two handles and this URL. At the end of this process, the resulting tweets contains all the important information related to its sentiment.
 
@@ -362,6 +365,7 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
