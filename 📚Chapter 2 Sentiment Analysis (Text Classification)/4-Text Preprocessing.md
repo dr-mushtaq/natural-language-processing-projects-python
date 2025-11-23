@@ -235,7 +235,8 @@ However, note that in some contexts you won’t have to eliminate punctuation. S
 </p>
 Tuning the GREAT AI model is clearly a positive tweet and a sufficiently good model should be able to classify it.
 
-5-Lemmatization
+## 5-Lemmatization
+
 Lemmatization is better than stemming and informative to find beyond the word to its stem also determine part of speech around a word. That’s why spacy has lemmatization, not stemming. So we will do lemmatization with spacy.Lemmatization is another important preprocessing step for NLP pipelines. It helps to remove different versions of a single word to reduce redundancy of same-meaning words as it converts the words to their root lemmas. For example, it will convert ‘is’ -> ‘be’, ‘eating’ -> ‘eat’, and ‘N.Y.’ -> ‘n.y.’. With spaCy, the words can be easily converted to their lemmas using a ‘.lemma_’ attribute of the ‘doc’ object.[2]. We iterate over all the tokens and apply the ‘.lemma_’ method.[2].Lemmatization is the process of reducing a word to its base or root form, called a lemma. Stemming is a similar process, but it often results in words that are not actual words.
 
 For example, the words “walked”, “walking”, and “walk” would all be lemmatized to the word “walk”. This is because they all have the same lemma, which is the dictionary form of the word.
@@ -367,6 +368,7 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
