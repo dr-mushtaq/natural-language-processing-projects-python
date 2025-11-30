@@ -375,13 +375,13 @@ Documents with same words/vocabulary will have similar representation. So if two
 
 [4-Natural Language Processing (NLP) with Python — Tutorial( Unread)](https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
 
-5-Python for Natural Language Processing: A Beginner’s Guide
+[5-Python for Natural Language Processing: A Beginner’s Guide](https://pub.towardsai.net/python-for-natural-language-processing-a-beginners-guide-b7167879f468)
 
-6-Every Beginner NLP Engineer must know these Techniques (Unread)
+[6-Every Beginner NLP Engineer must know these Techniques (Unread)](https://ankushmulkar.medium.com/every-beginner-nlp-engineer-must-know-these-techniques-678605dc6026)
 
-7-A Guide to Text Preprocessing Techniques in NLP
+[7-A Guide to Text Preprocessing Techniques in NLP](https://morioh.com/p/2f6585735fe4)
 
-8- Natural Language Processing with Classification and Vector Spaces
+[8- Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp/home/week/1)
 
 9–6-How to Convert Text Into Vectors
 
@@ -394,6 +394,7 @@ Documents with same words/vocabulary will have similar representation. So if two
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
