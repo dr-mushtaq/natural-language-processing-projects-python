@@ -303,12 +303,18 @@ Stemming normalizes the word by truncating the word to its stem word. For exampl
 Stemming is the process of reducing words to their base or stem form, by removing any prefixes or suffixes. This is a common technique for reducing the dimensionality of the data, as it groups similar words together.
 
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%202%20Sentiment%20Analysis%20(Text%20Classification)/STEM.jpg"></a>
+</p>
 
+<pre>
 from nltk.stem import PorterStemmer
 tokenized = ["booking", "studying", "jumping"]
 stemmer = PorterStemmer()
 s = [stemmer.stem(token) for token in tokenized]
 ['book','studi','jump]
+  </pre>
+  
 Now that the tweet from the example has only the necessary information, I will perform stemming for every word.
 
 Stemming in NLP is simply transforming any word to its base stem, which you could define as the set of characters that are used to construct the word and its derivatives. Let’s take the first
@@ -384,6 +390,7 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
