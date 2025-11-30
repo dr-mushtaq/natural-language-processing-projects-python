@@ -321,21 +321,24 @@ Stemming in NLP is simply transforming any word to its base stem, which you coul
 word from the example. Its stem is tun, because adding the letter e, it forms the word tune. Adding the suffix ed, forms the word tuned, and adding the suffix ing, it forms the word tuning. After you perform
 stemming on your corpus, the word tune, tuned, and tuning will be reduced to the stem tun. So your vocabulary would be significantly reduced when you perform this process for every word in the corpus.
 
-
+<p align="center">
+<img src=""></a>
+</p>
 
 To reduce your vocabulary even further without losing valuable information, you’d have to lowercase every one of your words. So the word GREAT, Great and great would be treated as the same exact word. This is the final preprocess tweet as a list of words. Now that you’re familiar with stemming and stop words, you know the basics of texts processing.
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%202%20Sentiment%20Analysis%20(Text%20Classification)/44444444.webp"></a>
+</p>
 
+## Types of stemmer
 
-Types of stemmer
-
-Porter Stemmer
-
-Snowball Stemmer
+- Porter Stemmer
+- Snowball Stemmer
 
 Porter stemmer was developed in 1980. It is used for the reduction of a word to its stem or root word.one thing is noticed that the porter stemmer is not giving many good results. So, that’s why the Snowball stemmer is used for a more improved method.
 
-6- Bag of Words
+# 6- Bag of Words
 Def: it is a commonly used model that allows you to count all words in a piece of text. Basically, it creates an occurrence matrix for the sentence or document, disregarding grammar and word order. These word frequencies or occurrences are then used as features for training a classifier.
 
 Def: Bag of Words is a text-processing methodology that extracts features from textual data. It uses a pre-defined dictionary of words to measure the presence of known words in your data and doesn’t consider the order of word appearance.
@@ -363,13 +366,14 @@ We have a fixed length encoding for any sequence of arbitrary length.
 
 Documents with same words/vocabulary will have similar representation. So if two documents have a similar vocabulary, they’ll be closer to each other in the vector space and vice versa.
 
-Source
-1-Day 2: 30 Days of Natural Language Processing Series with Projects
+# Source
+[1-Day 2: 30 Days of Natural Language Processing Series with Projects]()
 
-2-Getting Started with spaCy for NLP
-3-Fully Explained Regular Expression with Python (Unread)
+[2-Getting Started with spaCy for NLP]()
 
-4-Natural Language Processing (NLP) with Python — Tutorial( Unread)
+[3-Fully Explained Regular Expression with Python (Unread)]()
+
+[4-Natural Language Processing (NLP) with Python — Tutorial( Unread)]()
 
 5-Python for Natural Language Processing: A Beginner’s Guide
 
@@ -390,6 +394,7 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
