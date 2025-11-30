@@ -290,8 +290,12 @@ Output —
 
 In the following example, we are taking the PoS tag as “verb,” and when we apply the lemmatization rules, it gives us dictionary words instead of truncating the original word:[4]
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%202%20Sentiment%20Analysis%20(Text%20Classification)/KLJLKK.png"></a>
+</p>
 
-5-Stemming
+## 5-Stemming
+
 What is stemming: Stemming is a process in which words are reduced to their root meaning.It’s a technique to get to the root form of a word by removing the prefix and suffix of a word.[1].We use Stemming to normalize words. In English and many other languages, a single word can take multiple forms depending upon the context used. For instance, the verb “study” can take many forms like “studies,” “studying,” “studied,” and others, depending on its context. When we tokenize words, an interpreter considers these input words as different words even though their underlying meaning is the same. Moreover, as we know that NLP is about analyzing the meaning of content, to resolve this problem, we use stemming [4].
 
 Stemming normalizes the word by truncating the word to its stem word. For example, the words “studies,” “studied,” “studying” will be reduced to “studi,” making all these word forms to refer to only one token. Notice that stemming may not give us a dictionary, grammatical word for a particular set of words [4].In Natural Language Processing (NLP), “steaming” refers to the process of reducing a word to its base or root form. This is often done to group together different forms of a word so they can be analyzed together as a single item [6].
@@ -380,6 +384,7 @@ Source
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
