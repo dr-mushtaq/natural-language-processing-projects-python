@@ -367,13 +367,13 @@ We have a fixed length encoding for any sequence of arbitrary length.
 Documents with same words/vocabulary will have similar representation. So if two documents have a similar vocabulary, they’ll be closer to each other in the vector space and vice versa.
 
 # Source
-[1-Day 2: 30 Days of Natural Language Processing Series with Projects]()
+[1-Day 2: 30 Days of Natural Language Processing Series with Projects](https://medium.com/coders-mojo/day-2-30-days-of-natural-language-processing-series-with-projects-d44adf23346a)
 
 [2-Getting Started with spaCy for NLP]()
 
-[3-Fully Explained Regular Expression with Python (Unread)]()
+[3-Fully Explained Regular Expression with Python (Unread)](https://levelup.gitconnected.com/fully-explained-regular-expression-with-python-5c66456a8bdb)
 
-[4-Natural Language Processing (NLP) with Python — Tutorial( Unread)]()
+[4-Natural Language Processing (NLP) with Python — Tutorial( Unread)](https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
 
 5-Python for Natural Language Processing: A Beginner’s Guide
 
@@ -394,6 +394,7 @@ Documents with same words/vocabulary will have similar representation. So if two
 13-Use Sentiment Analysis With Python to Classify Movie Reviews
 
 14- How to Create a Custom Tokenizer for Non-English Languages with Hugging Face Transformers(unread)
+
 
 
 
