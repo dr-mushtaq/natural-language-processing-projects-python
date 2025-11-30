@@ -400,6 +400,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
  |---|---|---|---|
  |**🌐1-Seq2seq**| [**1**](https://drive.google.com/file/d/1ZziMM0QGNzWZFAjvYgYMjDXI7fp8q1wG/view?usp=sharing)[-2](https://www.youtube.com/watch?v=kEJgU4fqJ5c&list=PLLC7bmONapvBCYUkFuU653Dxvr-yD7n6V)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10491&forceview=1)|
   |**🌐2-Seq2seq Model with Attention**| [**1**](https://drive.google.com/file/d/1R-1OLSZ6oTLfm-NRqQQJdt9Rii3bGcIu/view?usp=sharing)[-2](https://www.youtube.com/watch?v=kEJgU4fqJ5c&list=PLLC7bmONapvBCYUkFuU653Dxvr-yD7n6V)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10492&forceview=1)|
+  |**🌐3-Queries Keys Values and Attention**| [**1**](https://drive.google.com/file/d/1rDtyWGn5OQjnQL5uIP9BBlmgejwm6URc/view?usp=sharing)[-2](https://www.youtube.com/watch?v=kEJgU4fqJ5c&list=PLLC7bmONapvBCYUkFuU653Dxvr-yD7n6V)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10496)|
 
   ### Week 1-[**📚Chapter1:Attention & Transformers**]()
 - Attention mechanism basics
@@ -632,6 +633,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
