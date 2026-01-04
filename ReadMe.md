@@ -405,6 +405,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
    |**🌐5-Teacher Forcing**| [**1**](https://drive.google.com/file/d/1zhgWMGzv2V3-tGHo0NixMqmL-R-BhzoM/view?usp=sharing)[-2](https://www.youtube.com/watch?v=1EvdI_VQHgo&list=PLLC7bmONapvBCYUkFuU653Dxvr-yD7n6V&index=4)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10502&forceview=1)|
    |**🌐6-NMT model with Attention**| [**1**](https://drive.google.com/file/d/1CG5I-ZTgdClsm76pCNugqOZXq1VCG-WR/view?usp=sharing)[-2](https://www.youtube.com/watch?v=1EvdI_VQHgo&list=PLLC7bmONapvBCYUkFuU653Dxvr-yD7n6V&index=4)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10503&forceview=1)|
   |**🌐7-BLEU Score**| [**1**](https://drive.google.com/file/d/1D7tRf0jFEdKv-8LTQ8B_q9jvFZ_238Mb/view?usp=sharing)[-2](https://www.youtube.com/watch?v=B8-oTOZsRrM&list=PLLC7bmONapvBCYUkFuU653Dxvr-yD7n6V&index=8)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10505)|
+   |**🌐8-ROUGE-N Score**| [**1**](https://drive.google.com/file/d/1rIbgjxJSxkkJibrdFWQxwbG2K5v1QIsU/view?usp=sharing)[-2](https://www.youtube.com/watch?v=B8-oTOZsRrM&list=PLLC7bmONapvBCYUkFuU653Dxvr-yD7n6V&index=8)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10506&forceview=1)|
   
 
   ### Week 1-[**📚Chapter1:Attention & Transformers**]()
@@ -639,6 +640,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
