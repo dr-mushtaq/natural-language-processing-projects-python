@@ -233,9 +233,9 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 [ **🌐9-Lab:2_Manipulating word embeddings**](https://github.com/hussain0048/Natural-language-processing/blob/main/Manipulating_word_embeddings.ipynb)
  
   ## Week 4 - [**📚Chapter 4:Machine Translation and Document Search**]()
-  | Topic Name/Tutorial | Video | Code |
- |---|---|---|
- |[**🌐1-Transforming word vectors**](https://medium.com/@Coursesteach/natural-language-processing-part-33-transforming-word-vectors-37491a721ac7)| [**1**](https://drive.google.com/file/d/1bAP_tN6F23RBnlGv_WFWTdJ7sur9s1b-/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+  | Topic Name/Tutorial | Video | Code |Extra Resourcs|
+ |---|---|---|---|
+ |[**🌐1-Transforming word vectors**](https://medium.com/@Coursesteach/natural-language-processing-part-33-transforming-word-vectors-37491a721ac7)| [**1**](https://drive.google.com/file/d/1bAP_tN6F23RBnlGv_WFWTdJ7sur9s1b-/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[1](https://github.com/robPTY/tinyLM)|
 |[**🌐2-Lab1 Rotation matrices R2**]()|--|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab_Rotation_matrices_in_R2.ipynb)|
 |[**🌐3-K-nearest neighbors**](https://medium.com/@Coursesteach/natural-language-processing-part-34-k-nearest-neighbors-03d4c44cc8b5)| [**1**](https://drive.google.com/file/d/1lIl19NUa-2zSzqYWNkkmsbUCAOuJ0Xs6/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
 |[**🌐4-Hash tables and hash functions**](https://medium.com/@Coursesteach/natural-language-processing-part-35-hash-tables-and-hash-functions-d8221321e63e)| [**1**](https://drive.google.com/file/d/1GQpWFbhzvruYZx1PLmKfj4o0OJ04roQv/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
@@ -641,6 +641,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
