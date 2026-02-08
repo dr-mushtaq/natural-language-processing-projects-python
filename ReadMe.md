@@ -412,7 +412,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
    |**🌐10-Beam Search**| [**1**](https://drive.google.com/file/d/10IxRdGPB4WC1sNnuJz3naBkPt18Qgnc5/view?usp=sharing)[-2](https://www.youtube.com/watch?v=ripk26l-Sww)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10512)|
    |**🌐11-Minimum Bayes Risk**| [**1**](https://drive.google.com/file/d/1k7vZdeHVhT9AgyJrwrMWMifvBzTFp6XM/view?usp=sharing)[-2](https://www.youtube.com/watch?v=fcQRbCj-p00&list=PLLC7bmONapvBCYUkFuU653Dxvr-yD7n6V&index=11)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10519&forceview=1)|
 
-    ### Week 2-[**📚Chapter1:Text Summarization **]()
+    ### Week 2-[**📚Chapter2:Text Summarization**]()
 
  | Topic Name/Tutorial | Video | Code |Note|Extra Resources|
  |---|---|---|---|---|
@@ -420,9 +420,12 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
   |**🌐2-Transformers overview**| [**1**](https://drive.google.com/file/d/1ZziMM0QGNzWZFAjvYgYMjDXI7fp8q1wG/view?usp=sharing)[-2](https://www.youtube.com/watch?v=kEJgU4fqJ5c&list=PLLC7bmONapvBCYUkFuU653Dxvr-yD7n6V)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10491&forceview=1)|[1](https://arxiv.org/pdf/1409.0473)[-2](https://arxiv.org/pdf/1606.03126)[-3](https://arxiv.org/pdf/1503.08895)|
    |**🌐3-Transformer Applications**| [**1**](https://drive.google.com/file/d/1ZziMM0QGNzWZFAjvYgYMjDXI7fp8q1wG/view?usp=sharing)[-2](https://www.youtube.com/watch?v=kEJgU4fqJ5c&list=PLLC7bmONapvBCYUkFuU653Dxvr-yD7n6V)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10491&forceview=1)|[1](https://arxiv.org/pdf/1409.0473)[-2](https://arxiv.org/pdf/1606.03126)[-3](https://arxiv.org/pdf/1503.08895)|
    |**🌐4-Scaled and Dot-Product Attention**| [**1**](https://drive.google.com/file/d/1ZziMM0QGNzWZFAjvYgYMjDXI7fp8q1wG/view?usp=sharing)[-2](https://www.youtube.com/watch?v=kEJgU4fqJ5c&list=PLLC7bmONapvBCYUkFuU653Dxvr-yD7n6V)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10491&forceview=1)|[1](https://arxiv.org/pdf/1409.0473)[-2](https://arxiv.org/pdf/1606.03126)[-3](https://arxiv.org/pdf/1503.08895)|
+   |**🌐5-Masked Self Attention**| [**1**](https://drive.google.com/file/d/1ZziMM0QGNzWZFAjvYgYMjDXI7fp8q1wG/view?usp=sharing)[-2](https://www.youtube.com/watch?v=kEJgU4fqJ5c&list=PLLC7bmONapvBCYUkFuU653Dxvr-yD7n6V)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10491&forceview=1)|[1](https://arxiv.org/pdf/1409.0473)[-2](https://arxiv.org/pdf/1606.03126)[-3](https://arxiv.org/pdf/1503.08895)|
+   |**🌐5-Multi-head Attention**| [**1**](https://drive.google.com/file/d/1ZziMM0QGNzWZFAjvYgYMjDXI7fp8q1wG/view?usp=sharing)[-2](https://www.youtube.com/watch?v=kEJgU4fqJ5c&list=PLLC7bmONapvBCYUkFuU653Dxvr-yD7n6V)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10491&forceview=1)|[1](https://arxiv.org/pdf/1409.0473)[-2](https://arxiv.org/pdf/1606.03126)[-3](https://arxiv.org/pdf/1503.08895)|
+   |**🌐6-Attention**| [**1**](https://drive.google.com/file/d/1ZziMM0QGNzWZFAjvYgYMjDXI7fp8q1wG/view?usp=sharing)[-2](https://www.youtube.com/watch?v=kEJgU4fqJ5c&list=PLLC7bmONapvBCYUkFuU653Dxvr-yD7n6V)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10491&forceview=1)|[1](https://arxiv.org/pdf/1409.0473)[-2](https://arxiv.org/pdf/1606.03126)[-3](https://arxiv.org/pdf/1503.08895)|
  
 
-  ### Week 3-[**📚Chapter1:Question Answering**]()
+  ### Week 3-[**📚Chapter3:Question Answering**]()
 
  | Topic Name/Tutorial | Video | Code |Note|Extra Resources|
  |---|---|---|---|---|
@@ -661,6 +664,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
