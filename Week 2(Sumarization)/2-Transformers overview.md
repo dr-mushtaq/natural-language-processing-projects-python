@@ -144,6 +144,21 @@ In summary, RNNs have some problems that come from their sequential structure. W
 by using transformers. Transformers are a great alternative to RNNs that help overcome these problems in NLP and in many fields that process sequential data. You now can see why everyone
 is talking about transformers, they are indeed very useful. In the next video, I'll talk about some of the applications of transformers.
 
+## Why Transformers Scale So Well
+
+Transformers are:
+
+- Easy to parallelize
+- Efficient on GPUs
+- Better at long-range dependencies
+- More stable during training
+
+That’s why modern large language models are transformer-based.
+But understanding the architecture conceptually is one thing.
+
+Let’s ground this with a simple NLP example in Python.
+
+
 
 
 
