@@ -5,6 +5,16 @@
 <img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/image-1.png"></a>
 </p>
 
+# Transformers in NLP: A Practical Overview (Without the Hype)
+
+There’s been a lot of noise around transformers. And honestly, some of it is deserved.
+
+Since their introduction in 2017, transformer models have become the foundation of modern natural language processing (NLP). Models like BERT, T5, and GPT are all built on this architecture.
+
+But what actually makes transformers different?
+
+Let’s break it down in plain language. Then we’ll connect it to a simple Python example so you can ground the ideas in code.
+
 
 There has been a lot of
 hype with the transformers. In this video, I'll give you
@@ -75,4 +85,5 @@ to RNNs that help overcome these problems in NLP and in many fields
 that process sequential data. You now can see why everyone
 is talking about transformers, they are indeed very useful. In the next video, I'll talk about some
 of the applications of transformers.
+
 
