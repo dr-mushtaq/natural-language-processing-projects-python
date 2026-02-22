@@ -16,20 +16,11 @@ But what actually makes transformers different?
 Let’s break it down in plain language. Then we’ll connect it to a simple Python example so you can ground the ideas in code.
 
 
-There has been a lot of
-hype with the transformers. In this video, I'll give you
-an overview of the transformers model. The transformer model was introduced
-in 2017 by researchers at Google, including Lukasz Kaiser,
-who helped us develop this course. Since then, the transformer architecture
-has become the standard for large language models, including BERT, T5,
-and GPT-3, which you'll learn about later. The transformers revolutionized the field
-of natural language processing. I suggest that you read
-the first transformer paper, Attention is all you need. It's the basis for all the models
-presented in the rest of this course. You'll see how each part of
-the transformer model works in detail. But first, I want to give you a brief
-overview of this architecture. Now, don't worry if some of
-its components aren't clear, I'll go more in depth on
-the following lectures. The Transformer model uses
+There has been a lot of hype with the transformers. In this blog, I'll give you an overview of the transformers model. The transformer model was introduced in 2017 by researchers at Google, including Lukasz Kaiser, who helped us develop this course. Since then, the transformer architecture has become the standard for large language models, including BERT, T5, and GPT-3, which you'll learn about later. The transformers revolutionized the field of natural language processing. I suggest that you read the first transformer paper, Attention is all you need. It's the basis for all the models presented in the rest of this course. You'll see how each part of the transformer model works in detail. But first, I want to give you a brief
+overview of this architecture. Now, don't worry if some of its components aren't clear, I'll go more in depth on the following lectures.
+
+
+The Transformer model uses
 scale dot-product attention, which you saw in the first
 week of this course. The first form of attention is very
 efficient in terms of computation and memory due to it consisting of just
@@ -85,5 +76,6 @@ to RNNs that help overcome these problems in NLP and in many fields
 that process sequential data. You now can see why everyone
 is talking about transformers, they are indeed very useful. In the next video, I'll talk about some
 of the applications of transformers.
+
 
 
