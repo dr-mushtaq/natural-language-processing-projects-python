@@ -599,6 +599,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 |[**✅ 21-Prompt Engineering Guide**](https://www.promptingguide.ai/)|AI-Tutorials/Implementations and Notebooks.| Pending|
 |[**✅ 22-Agents Towards Production**](https://github.com/NirDiamant/agents-towards-production)|Agents Towards Production is your go‑to resource for building production‑ready GenAI agents that scale from prototype to enterprise.| Pending|
 |[**✅ 23-AI-ML-Roadmap-from-scratch**](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch)|Agents Towards Production is your go‑to resource for building production‑ready GenAI agents that scale from prototype to enterprise.| Pending|
+|[**✅ 24-coursera-nlp-specialization-Slides**](https://github.com/johnmoses/coursera-nlp-specialization/tree/main)|pdf sldies.| Pending|
 
 
 
@@ -678,6 +679,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
