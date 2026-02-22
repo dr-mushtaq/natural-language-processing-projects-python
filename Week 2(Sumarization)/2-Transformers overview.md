@@ -120,8 +120,11 @@ In the transformer model, you will use the multi-head attention layer. This laye
 </p>
 
 The transformer encoder starts with a multi-head attention module that performed self attention on the input sequence. That is, each word in the input attends to every other word in the input. This is followed by a residual connection and normalization, a feed forward layer, and another residual connection and normalization. This entire block is one encoder layer and
-is repeated N number of times. Thanks to self attention layer, the encoder will give you a contextual representation of each one of your inputs. The decoder is constructed similarly
-to the encoder with multi-headed attention modules, residual connections, and normalization. The first attention module is masked such that each position attends only to previous positions. It blocks leftward flowing information. The second attention module takes the encoder output and allows the decoder to attend to all items. This whole decoder layer is also repeated some number of times, one after another. Transformers also incorporates a positional encoding stage which encodes each input's position in the sequence. This is necessary because transformers don't use recurrent neural networks, but the word order is relevant for any language. Positional encoding can be learned or fixed, just as with word embeddings. For instance, let's suppose you want to translate from the French phrase. Over here you have [FOREIGN], and then you want to capture
+is repeated N number of times. Thanks to self attention layer, the encoder will give you a contextual representation of each one of your inputs. 
+
+
+
+The decoder is constructed similarly to the encoder with multi-headed attention modules, residual connections, and normalization. The first attention module is masked such that each position attends only to previous positions. It blocks leftward flowing information. The second attention module takes the encoder output and allows the decoder to attend to all items. This whole decoder layer is also repeated some number of times, one after another. Transformers also incorporates a positional encoding stage which encodes each input's position in the sequence. This is necessary because transformers don't use recurrent neural networks, but the word order is relevant for any language. Positional encoding can be learned or fixed, just as with word embeddings. For instance, let's suppose you want to translate from the French phrase. Over here you have [FOREIGN], and then you want to capture
 the sequential information. The transformers uses a positional
 encoding to retain the position of the input sequence. The positional encoding has values that
 are added to the embeddings so that for every input word you have information
@@ -148,6 +151,7 @@ to RNNs that help overcome these problems in NLP and in many fields
 that process sequential data. You now can see why everyone
 is talking about transformers, they are indeed very useful. In the next video, I'll talk about some
 of the applications of transformers.
+
 
 
 
