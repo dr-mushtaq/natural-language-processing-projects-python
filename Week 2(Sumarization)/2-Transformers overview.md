@@ -128,13 +128,16 @@ is repeated N number of times. Thanks to self attention layer, the encoder will 
 
 The decoder is constructed similarly to the encoder with multi-headed attention modules, residual connections, and normalization. The first attention module is masked such that each position attends only to previous positions. It blocks leftward flowing information. The second attention module takes the encoder output and allows the decoder to attend to all items. This whole decoder layer is also repeated some number of times, one after another. 
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/Week%202(Sumarization)/pic6.png"></a>
+</p>
+Transformers also incorporates a positional encoding stage which encodes each input's position in the sequence. This is necessary because transformers don't use recurrent neural networks, but the word order is relevant for any language. Positional encoding can be learned or fixed, just as with word embeddings. For instance, let's suppose you want to translate from the French phrase. Over here you have [FOREIGN], and then you want to capture the sequential information. The transformers uses a positional encoding to retain the position of the input sequence. The positional encoding has values that are added to the embeddings so that for every input word you have information about its order and position. In this case, a positional encoding vector for each word, [FOREIGN].
 
-Transformers also incorporates a positional encoding stage which encodes each input's position in the sequence. This is necessary because transformers don't use recurrent neural networks, but the word order is relevant for any language. Positional encoding can be learned or fixed, just as with word embeddings. For instance, let's suppose you want to translate from the French phrase. Over here you have [FOREIGN], and then you want to capture
-the sequential information. The transformers uses a positional
-encoding to retain the position of the input sequence. The positional encoding has values that
-are added to the embeddings so that for every input word you have information
-about its order and position. In this case, a positional encoding
-vector for each word, [FOREIGN]. Putting these parts together,
+<p align="center">
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/Week%202(Sumarization)/pic7.png"></a>
+</p>
+
+Putting these parts together,
 here's the full model architecture. Briefly on the left,
 the input sentence is first embedded and the positional encodings are applied. This goes to the encoder, which consists of multiple layers
 of multi-head attention modules. On the right is the decoder,
@@ -156,6 +159,7 @@ to RNNs that help overcome these problems in NLP and in many fields
 that process sequential data. You now can see why everyone
 is talking about transformers, they are indeed very useful. In the next video, I'll talk about some
 of the applications of transformers.
+
 
 
 
