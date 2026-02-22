@@ -137,28 +137,13 @@ Transformers also incorporates a positional encoding stage which encodes each in
 <img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/Week%202(Sumarization)/pic7.png"></a>
 </p>
 
-Putting these parts together,
-here's the full model architecture. Briefly on the left,
-the input sentence is first embedded and the positional encodings are applied. This goes to the encoder, which consists of multiple layers
-of multi-head attention modules. On the right is the decoder,
-which takes the output sentence, shifts it over one step to the right,
-and the outputs from the encoder. The decoder output is turned
-into output probabilities using a linear layer with a softmax activation. This architecture is easy to
-parallelize compared to RNN models, and as such, can be trained much more
-efficiently on multiple GPUs. It can also scale up to learn multiple
-tasks on larger and larger datasets. I went through this quickly but
-don't worry, I'll go in-depth on each
-part in later videos. In summary, RNNs have some problems that
-come from their sequential structure. With RNNs, it is hard to fully exploit
-the advantages of parallel computing. And for long sequences, important
-information might get lost within the network and
-vanishing gradient problems arise. But fortunately, recent research
-has found ways to solve for the shortcomings of RNNs
-by using transformers. Transformers are a great alternative
-to RNNs that help overcome these problems in NLP and in many fields
-that process sequential data. You now can see why everyone
-is talking about transformers, they are indeed very useful. In the next video, I'll talk about some
-of the applications of transformers.
+Putting these parts together, here's the full model architecture. Briefly on the left, the input sentence is first embedded and the positional encodings are applied. This goes to the encoder, which consists of multiple layers of multi-head attention modules. On the right is the decoder, which takes the output sentence, shifts it over one step to the right,
+and the outputs from the encoder. The decoder output is turned into output probabilities using a linear layer with a softmax activation. This architecture is easy to parallelize compared to RNN models, and as such, can be trained much more efficiently on multiple GPUs. It can also scale up to learn multiple tasks on larger and larger datasets. I went through this quickly but don't worry, I'll go in-depth on each part in later videos. 
+
+In summary, RNNs have some problems that come from their sequential structure. With RNNs, it is hard to fully exploit the advantages of parallel computing. And for long sequences, important information might get lost within the network and vanishing gradient problems arise. But fortunately, recent research has found ways to solve for the shortcomings of RNNs
+by using transformers. Transformers are a great alternative to RNNs that help overcome these problems in NLP and in many fields that process sequential data. You now can see why everyone
+is talking about transformers, they are indeed very useful. In the next video, I'll talk about some of the applications of transformers.
+
 
 
 
