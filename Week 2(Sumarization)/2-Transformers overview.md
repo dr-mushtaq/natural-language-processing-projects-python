@@ -38,6 +38,10 @@ Self-attention allows each word in a sentence to “look at” every other word.
 
 So instead of understanding words in isolation, the model builds contextual meaning.
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/Week%202(Sumarization)/pic2.png"></a>
+</p>
+
 For example:
 
 “The bank approved the loan.”
@@ -154,6 +158,7 @@ to RNNs that help overcome these problems in NLP and in many fields
 that process sequential data. You now can see why everyone
 is talking about transformers, they are indeed very useful. In the next video, I'll talk about some
 of the applications of transformers.
+
 
 
 
