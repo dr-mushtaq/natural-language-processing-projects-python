@@ -72,33 +72,30 @@ This makes representations richer and more expressive.
 
 The original transformer architecture has two main parts:
 
-Encoder
+### Encoder
 
-Multi-head self-attention
+- Multi-head self-attention
 
-Residual connections
+- Residual connections
 
-Layer normalization
+- Layer normalization
 
-Feed-forward network
+- Feed-forward network
 
-Repeated multiple times
+- Repeated multiple times
 
 The encoder creates contextual embeddings for each input token.
 
-Decoder
+### Decoder
 
-Masked self-attention (can’t see future tokens)
-
-Encoder-decoder attention
-
-Feed-forward layers
-
-Repeated multiple times
-
+- Masked self-attention (can’t see future tokens)
+- Encoder-decoder attention
+- Feed-forward layers
+- Repeated multiple times
+- 
 The decoder generates output step-by-step (for example, in machine translation).
 
-$$ 4. Positional Encoding
+##  4. Positional Encoding
 
 Transformers don’t use recurrence. So they don’t automatically understand word order.
 
@@ -117,6 +114,10 @@ comparable model architectures.
 </p>
 
 In the transformer model, you will use the multi-head attention layer. This layer runs in parallel and it has a number of scale dot-product attention mechanisms and multiple linear transformations of the input queries, keys, and values. In this layer, the linear transformations are learnable parameters. 
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/Week%202(Sumarization)/pic4.png"></a>
+</p>
 
 The transformer encoder starts with a multi-head attention module that performed self attention on the input sequence. That is, each word in the input attends to every other word in the input. This is followed by a residual connection and normalization, a feed forward layer, and another residual connection and normalization. This entire block is one encoder layer and
 is repeated N number of times. Thanks to self attention layer,
@@ -158,6 +159,7 @@ to RNNs that help overcome these problems in NLP and in many fields
 that process sequential data. You now can see why everyone
 is talking about transformers, they are indeed very useful. In the next video, I'll talk about some
 of the applications of transformers.
+
 
 
 
