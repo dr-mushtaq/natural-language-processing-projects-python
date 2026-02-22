@@ -13,6 +13,14 @@ But what actually makes transformers different?
 
 Let’s break it down in plain language. Then we’ll connect it to a simple Python example so you can ground the ideas in code.
 
+# The Origin of Transformers
+
+The Transformer architecture was introduced in the 2017 paper “Attention Is All You Need” by researchers at Google.
+
+That paper changed NLP research. Instead of relying on recurrent neural networks (RNNs), the authors proposed a model built entirely around attention mechanisms.
+
+And that shift solved some long-standing problems.
+
 <p align="center">
 <img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/Week%202(Sumarization)/Pic1.png"></a>
 </p>
@@ -77,6 +85,7 @@ to RNNs that help overcome these problems in NLP and in many fields
 that process sequential data. You now can see why everyone
 is talking about transformers, they are indeed very useful. In the next video, I'll talk about some
 of the applications of transformers.
+
 
 
 
