@@ -1,3 +1,11 @@
+1-[Transformers in NLP Explained: Architecture, Attention, and Why They Replaced RNNs](https://chatgpt.com/c/699a8271-4abc-8323-85df-f817da2a175e)
+
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/image-1.png"></a>
+</p>
+
+
 There has been a lot of
 hype with the transformers. In this video, I'll give you
 an overview of the transformers model. The transformer model was introduced
@@ -67,3 +75,4 @@ to RNNs that help overcome these problems in NLP and in many fields
 that process sequential data. You now can see why everyone
 is talking about transformers, they are indeed very useful. In the next video, I'll talk about some
 of the applications of transformers.
+
