@@ -110,10 +110,9 @@ Without positional encoding, word order would be lost — which would break lang
 
 
 The Transformer model uses scale dot-product attention, The first form of attention is very efficient in terms of computation and memory due to it consisting of just matrix multiplication operations. This mechanism is the core of the model and it allows the transformer to grow larger and more complex while being faster and using less memory than other
-comparable model architectures. In the transformer model, you will use the multi-head attention layer. This layer runs in parallel and it has a number of scale dot-product
-attention mechanisms and multiple linear transformations of the input queries, keys, and values. In this layer, the linear transformations are learnable parameters.
+comparable model architectures. 
 
-The transformer encoder starts
+In the transformer model, you will use the multi-head attention layer. This layer runs in parallel and it has a number of scale dot-product attention mechanisms and multiple linear transformations of the input queries, keys, and values. In this layer, the linear transformations are learnable parameters. The transformer encoder starts
 with a multi-head attention module that performed self attention
 on the input sequence. That is, each word in the input attends
 to every other word in the input. This is followed by a residual
@@ -158,6 +157,7 @@ to RNNs that help overcome these problems in NLP and in many fields
 that process sequential data. You now can see why everyone
 is talking about transformers, they are indeed very useful. In the next video, I'll talk about some
 of the applications of transformers.
+
 
 
 
