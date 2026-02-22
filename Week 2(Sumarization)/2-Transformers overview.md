@@ -112,12 +112,13 @@ Without positional encoding, word order would be lost — which would break lang
 The Transformer model uses scale dot-product attention, The first form of attention is very efficient in terms of computation and memory due to it consisting of just matrix multiplication operations. This mechanism is the core of the model and it allows the transformer to grow larger and more complex while being faster and using less memory than other
 comparable model architectures. 
 
-In the transformer model, you will use the multi-head attention layer. This layer runs in parallel and it has a number of scale dot-product attention mechanisms and multiple linear transformations of the input queries, keys, and values. In this layer, the linear transformations are learnable parameters. The transformer encoder starts
-with a multi-head attention module that performed self attention
-on the input sequence. That is, each word in the input attends
-to every other word in the input. This is followed by a residual
-connection and normalization, a feed forward layer, and another
-residual connection and normalization. This entire block is one encoder layer and
+<p align="center">
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/Week%202(Sumarization)/pic3.png"></a>
+</p>
+
+In the transformer model, you will use the multi-head attention layer. This layer runs in parallel and it has a number of scale dot-product attention mechanisms and multiple linear transformations of the input queries, keys, and values. In this layer, the linear transformations are learnable parameters. 
+
+The transformer encoder starts with a multi-head attention module that performed self attention on the input sequence. That is, each word in the input attends to every other word in the input. This is followed by a residual connection and normalization, a feed forward layer, and another residual connection and normalization. This entire block is one encoder layer and
 is repeated N number of times. Thanks to self attention layer,
 the encoder will give you a contextual representation
 of each one of your inputs. The decoder is constructed similarly
@@ -157,6 +158,7 @@ to RNNs that help overcome these problems in NLP and in many fields
 that process sequential data. You now can see why everyone
 is talking about transformers, they are indeed very useful. In the next video, I'll talk about some
 of the applications of transformers.
+
 
 
 
