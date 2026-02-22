@@ -28,19 +28,88 @@ And that shift solved some long-standing problems.
 There has been a lot of hype with the transformers. In this blog, I'll give you an overview of the transformers model. The transformer model was introduced in 2017 by researchers at Google, including Lukasz Kaiser, who helped us develop this course. Since then, the transformer architecture has become the standard for large language models, including BERT, T5, and GPT-3, which you'll learn about later. The transformers revolutionized the field of natural language processing. I suggest that you read the first transformer paper, Attention is all you need. It's the basis for all the models presented in the rest of this course. You'll see how each part of the transformer model works in detail. But first, I want to give you a brief
 overview of this architecture. Now, don't worry if some of its components aren't clear, I'll go more in depth on the following lectures.
 
+# Core Components of the Transformer Architecture
 
-The Transformer model uses
-scale dot-product attention, which you saw in the first
-week of this course. The first form of attention is very
-efficient in terms of computation and memory due to it consisting of just
-matrix multiplication operations. This mechanism is
-the core of the model and it allows the transformer to grow larger
-and more complex while being faster and using less memory than other
-comparable model architectures. In the transformer model, you will
-use the multi-head attention layer. This layer runs in parallel and it has a number of scale dot-product
-attention mechanisms and multiple linear transformations of
-the input queries, keys, and values. In this layer, the linear transformations
-are learnable parameters. The transformer encoder starts
+Let’s walk through the main building blocks of transformer models.
+
+## 1. Self-Attention (Scaled Dot-Product Attention)
+
+Self-attention allows each word in a sentence to “look at” every other word.
+
+So instead of understanding words in isolation, the model builds contextual meaning.
+
+For example:
+
+“The bank approved the loan.”
+
+The word “bank” can mean different things. Self-attention helps the model use surrounding words like “loan” to understand the correct meaning.
+
+And technically, it works using matrix multiplications — which makes it efficient and GPU-friendly.
+
+## 2. Multi-Head Attention
+
+Instead of computing attention once, transformers compute it multiple times in parallel.
+
+Each “head” focuses on different relationships in the sentence.
+
+Some heads might learn:
+
+Grammar structure
+
+Subject-object relationships
+
+Long-distance dependencies
+
+Then the results are combined.
+
+This makes representations richer and more expressive.
+
+## 3. Encoder and Decoder Structure
+
+The original transformer architecture has two main parts:
+
+Encoder
+
+Multi-head self-attention
+
+Residual connections
+
+Layer normalization
+
+Feed-forward network
+
+Repeated multiple times
+
+The encoder creates contextual embeddings for each input token.
+
+Decoder
+
+Masked self-attention (can’t see future tokens)
+
+Encoder-decoder attention
+
+Feed-forward layers
+
+Repeated multiple times
+
+The decoder generates output step-by-step (for example, in machine translation).
+
+$$ 4. Positional Encoding
+
+Transformers don’t use recurrence. So they don’t automatically understand word order.
+
+To fix that, they add positional encoding to embeddings.
+
+This gives each token information about its position in the sequence.
+
+Without positional encoding, word order would be lost — which would break language understanding.
+
+
+The Transformer model uses scale dot-product attention, The first form of attention is very efficient in terms of computation and memory due to it consisting of just matrix multiplication operations. This mechanism is the core of the model and it allows the transformer to grow larger and more complex while being faster and using less memory than other
+comparable model architectures. In the transformer model, you will use the multi-head attention layer. This layer runs in parallel and it has a number of scale dot-product
+attention mechanisms and multiple linear transformations of the input queries, keys, and values. In this layer, the linear transformations are learnable parameters.
+
+The transformer encoder starts
 with a multi-head attention module that performed self attention
 on the input sequence. That is, each word in the input attends
 to every other word in the input. This is followed by a residual
@@ -85,6 +154,7 @@ to RNNs that help overcome these problems in NLP and in many fields
 that process sequential data. You now can see why everyone
 is talking about transformers, they are indeed very useful. In the next video, I'll talk about some
 of the applications of transformers.
+
 
 
 
