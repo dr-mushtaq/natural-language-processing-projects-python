@@ -7,13 +7,13 @@ Track your progress while learning Natural Language Processing.
 # Phase 1 — Foundations
 
 ## Python Basics
-- [ ] Install Python environment (Anaconda / venv)
-- [ ] Learn Python basics (variables, loops, functions)
-- [ ] Learn Python data structures (lists, dicts, tuples, sets)
-- [ ] File handling and JSON processing
-- [ ] Learn NumPy
-- [ ] Learn Pandas
-- [ ] Learn data visualization (Matplotlib / Seaborn)
+- [x] Install Python environment (Anaconda / venv)
+- [x] Learn Python basics (variables, loops, functions)
+- [x] Learn Python data structures (lists, dicts, tuples, sets)
+- [x] File handling and JSON processing
+- [x] Learn NumPy
+- [x] Learn Pandas
+- [x] Learn data visualization (Matplotlib / Seaborn)
 
 ### Resources
 - Python Tutorial → https://docs.python.org/3/tutorial/
@@ -284,3 +284,4 @@ https://docs.streamlit.io/
 ---
 
 ⭐ Goal: Complete all checkboxes and build **8–10 NLP projects** to become job-ready for **NLP / LLM Engineer roles**.
+
