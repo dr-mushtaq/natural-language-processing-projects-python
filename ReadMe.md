@@ -10,6 +10,8 @@ Welcome to the Natural Language Processing (NLP) Course, an open-source initiati
 
   Also please subscribe to my [NLP with Attention Modelsl!](https://www.youtube.com/playlist?list=PLLC7bmONapvBCYUkFuU653Dxvr-yD7n6V)
 
+  📬 Complete Road Map [**NLP**](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/NLP%20Road%20Map%202.md)
+
  ## If you found this helpful, Please Start it to help other discover these tutorials ⭐
 
  <div>
@@ -679,6 +681,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 
