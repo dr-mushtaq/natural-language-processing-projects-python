@@ -1,6 +1,6 @@
-# 🧠 NLP Learning Roadmap (GitHub Checklist)
+# 🧠 NLP Learning Roadmap (GitHub Checklist + Resources)
 
-Track your progress through Natural Language Processing.
+Track your progress while learning Natural Language Processing.
 
 ---
 
@@ -15,12 +15,28 @@ Track your progress through Natural Language Processing.
 - [ ] Learn Pandas
 - [ ] Learn data visualization (Matplotlib / Seaborn)
 
+### Resources
+- Python Tutorial → https://docs.python.org/3/tutorial/
+- NumPy → https://numpy.org/doc/
+- Pandas → https://pandas.pydata.org/docs/
+
+---
+
 ## Math for NLP
 - [ ] Vectors and matrices
 - [ ] Matrix multiplication
 - [ ] Probability basics
 - [ ] Bayes theorem
 - [ ] Gradient descent concept
+
+### Resources
+- Linear Algebra (3Blue1Brown)  
+https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+
+- Khan Academy Linear Algebra  
+https://www.khanacademy.org/math/linear-algebra
+
+---
 
 ## Machine Learning Basics
 - [ ] Supervised learning
@@ -32,9 +48,12 @@ Track your progress through Natural Language Processing.
 - [ ] Naive Bayes
 - [ ] Decision Trees
 
-## Projects
-- [ ] Build a spam email classifier
-- [ ] Build a simple sentiment analysis model
+### Resources
+- Machine Learning Course (Andrew Ng)  
+https://www.coursera.org/learn/machine-learning
+
+- Kaggle Intro to Machine Learning  
+https://www.kaggle.com/learn/intro-to-machine-learning
 
 ---
 
@@ -49,6 +68,15 @@ Track your progress through Natural Language Processing.
 - [ ] Text normalization
 - [ ] Regular expressions
 
+### Resources
+- NLTK Documentation  
+https://www.nltk.org/
+
+- SpaCy Documentation  
+https://spacy.io/usage
+
+---
+
 ## NLP Libraries
 - [ ] Install NLTK
 - [ ] Install SpaCy
@@ -56,21 +84,21 @@ Track your progress through Natural Language Processing.
 - [ ] Perform POS tagging
 - [ ] Perform Named Entity Recognition
 
+### Tutorials
+- NLP with SpaCy  
+https://course.spacy.io/
+
+---
+
 ## Feature Engineering
 - [ ] Bag of Words
 - [ ] N-grams
 - [ ] TF-IDF
 - [ ] Document term matrix
 
-## Models for Text
-- [ ] Naive Bayes text classifier
-- [ ] Logistic regression classifier
-- [ ] Support Vector Machine
-
-## Projects
-- [ ] Twitter sentiment analyzer
-- [ ] News category classifier
-- [ ] Fake news detection
+### Resources
+- Scikit-learn NLP tutorial  
+https://scikit-learn.org/stable/tutorial/text_analytics/
 
 ---
 
@@ -88,15 +116,12 @@ Track your progress through Natural Language Processing.
 - [ ] GloVe embeddings
 - [ ] FastText embeddings
 
-## Concepts
-- [ ] Cosine similarity
-- [ ] Word analogy tasks
-- [ ] Word clustering
+### Resources
+- Gensim Word2Vec Tutorial  
+https://radimrehurek.com/gensim/
 
-## Projects
-- [ ] Word similarity search tool
-- [ ] Document clustering using embeddings
-- [ ] Semantic search system
+- Word2Vec Paper  
+https://arxiv.org/abs/1301.3781
 
 ---
 
@@ -108,25 +133,34 @@ Track your progress through Natural Language Processing.
 - [ ] Backpropagation
 - [ ] Loss functions
 
+### Resources
+- Deep Learning Specialization  
+https://www.coursera.org/specializations/deep-learning
+
+---
+
 ## Deep Learning Frameworks
 - [ ] Install PyTorch
 - [ ] Learn TensorFlow / Keras
 - [ ] Build neural networks with PyTorch
+
+### Resources
+- PyTorch Tutorials  
+https://pytorch.org/tutorials/
+
+- TensorFlow Tutorials  
+https://www.tensorflow.org/tutorials
+
+---
 
 ## Sequence Models
 - [ ] Recurrent Neural Networks (RNN)
 - [ ] Long Short Term Memory (LSTM)
 - [ ] Gated Recurrent Units (GRU)
 
-## Applications
-- [ ] Text generation
-- [ ] Named entity recognition
-- [ ] Machine translation
-
-## Projects
-- [ ] LSTM sentiment classifier
-- [ ] Language generation model
-- [ ] Seq2Seq chatbot
+### Resources
+- Stanford NLP Course (CS224N)  
+https://web.stanford.edu/class/cs224n/
 
 ---
 
@@ -138,28 +172,29 @@ Track your progress through Natural Language Processing.
 - [ ] Multi-head attention
 - [ ] Positional encoding
 
+### Resources
+- Illustrated Transformer  
+https://jalammar.github.io/illustrated-transformer/
+
+- Attention Is All You Need Paper  
+https://arxiv.org/abs/1706.03762
+
+---
+
 ## Transformer Models
 - [ ] BERT
 - [ ] GPT
 - [ ] RoBERTa
 - [ ] T5
 
-## Hugging Face Ecosystem
-- [ ] Install Transformers
-- [ ] Load pretrained models
-- [ ] Fine-tune models
-- [ ] Use Hugging Face datasets
+### Resources
+- Hugging Face Transformers Documentation  
+https://huggingface.co/docs/transformers
 
-## NLP Tasks
-- [ ] Text classification
-- [ ] Named entity recognition
-- [ ] Question answering
-- [ ] Text summarization
+- Hugging Face Course  
+https://huggingface.co/course
 
-## Projects
-- [ ] BERT sentiment classifier
-- [ ] QA system using transformers
-- [ ] Automatic text summarizer
+The Hugging Face course teaches NLP and LLM development using libraries such as Transformers, Datasets, and Tokenizers and is completely free. :contentReference[oaicite:0]{index=0}
 
 ---
 
@@ -172,26 +207,35 @@ Track your progress through Natural Language Processing.
 - [ ] Few-shot prompting
 - [ ] Chain-of-thought prompting
 
+### Resources
+- DeepLearning.AI LLM Course  
+https://learn.deeplearning.ai/
+
+---
+
 ## Tools
 - [ ] Hugging Face models
 - [ ] LangChain
 - [ ] LlamaIndex
 - [ ] Vector databases
 
+### Resources
+- LangChain Docs  
+https://python.langchain.com/
+
+- LlamaIndex Docs  
+https://docs.llamaindex.ai/
+
+---
+
 ## Vector Databases
 - [ ] FAISS
 - [ ] Pinecone
 - [ ] Weaviate
 
-## Advanced Techniques
-- [ ] Retrieval Augmented Generation (RAG)
-- [ ] Embedding search
-- [ ] Context injection
-
-## Projects
-- [ ] Document Q&A chatbot
-- [ ] AI research assistant
-- [ ] Resume analyzer
+### Resources
+- FAISS GitHub  
+https://github.com/facebookresearch/faiss
 
 ---
 
@@ -208,47 +252,34 @@ Track your progress through Natural Language Processing.
 - [ ] Perplexity
 - [ ] Accuracy / F1 score
 
+### Resources
+- Hugging Face Evaluation  
+https://huggingface.co/docs/evaluate
+
+---
+
 ## Deployment
 - [ ] FastAPI
 - [ ] Streamlit
 - [ ] Docker
 - [ ] Cloud deployment
 
-## Final Projects
-- [ ] AI customer support chatbot
-- [ ] AI legal document analyzer
-- [ ] Meeting transcript summarizer
-- [ ] NLP search engine
+### Resources
+- FastAPI Docs  
+https://fastapi.tiangolo.com/
+
+- Streamlit Docs  
+https://docs.streamlit.io/
 
 ---
 
-# Tools Every NLP Engineer Should Know
+# Final Projects
 
-## Programming
-- [ ] Python
-- [ ] Git
-- [ ] Jupyter Notebook
-
-## NLP Libraries
-- [ ] NLTK
-- [ ] SpaCy
-- [ ] Gensim
-- [ ] Hugging Face Transformers
-
-## Machine Learning
-- [ ] Scikit-learn
-- [ ] PyTorch
-- [ ] TensorFlow
-
-## LLM Frameworks
-- [ ] LangChain
-- [ ] LlamaIndex
-- [ ] FAISS
-
-## Deployment
-- [ ] FastAPI
-- [ ] Streamlit
-- [ ] Docker
+- [ ] AI chatbot
+- [ ] Document Q&A system
+- [ ] Meeting summarizer
+- [ ] NLP search engine
+- [ ] Resume analyzer
 
 ---
 
