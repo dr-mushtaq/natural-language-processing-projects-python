@@ -489,9 +489,9 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
   
  ### Week 1-[**📚Chapter1:Introduction**]()
 
- | Topic Name/Tutorial | Video | Code |Note|
- |---|---|---|---|
- |**🌐1-LLMs Like ChatGPT, Explained Visually – How Do They Really Work?**| [**1**](https://youtu.be/NLOBYtfdxuM?si=Nr-FfElA3SSQA2or)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+ | Topic Name/Tutorial | Video | Code |Note|Extra Resources
+ |---|---|---|---|---
+ |**🌐1-LLMs Like ChatGPT, Explained Visually – How Do They Really Work?**| [**1**](https://youtu.be/NLOBYtfdxuM?si=Nr-FfElA3SSQA2or)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|[1](https://amanxai.com/2026/03/22/key-llm-terms-explained-simply/?fbclid=IwY2xjawQs3BVleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe2RjUUgMFqSAf-82_Ys1OvutWtx1i9Yivf7sj24rovktMyo2pL9YkqJl9BtY_aem_lh8tTpbJ8o4mUorbye8a_Q)|
  |**🌐2-LLM Training Starts Here: Dataset Preparation & Tokenization Explained!**| [**1**](https://youtu.be/bNjVxUDZQfM?si=zEbS8EDDtzYK_uVd)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
  |**🌐3-What Are Word Embeddings?**| [**1**](https://youtu.be/hVM8qGRTaOA?si=W57t170sR0rHuO6w)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
  |**🌐-4-How Attention Mechanism Works in Transformer Architecture**| [**1**](https://youtu.be/KMHkbXzHn7s?si=3LXRNm9AilOwDlnA)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
