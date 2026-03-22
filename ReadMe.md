@@ -481,6 +481,21 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 </details>
 
 <details> 
+<summary> <h2>📕🟡 Intermediate:Course 04 Understanding Large Language Model</h2> </summary>
+
+🎯 Course Description
+
+This course dives deep into sequence modeling techniques for Natural Language Processing (NLP), covering foundational to state-of-the-art architectures like RNNs, GRUs, LSTMs, and Transformer models. Learners will explore language modeling, machine translation, text summarization, named entity recognition, and more. The course emphasizes both theoretical understanding and practical implementation through coding assignments, mini-projects, and real-world datasets.
+  
+ ### Week 1-[**📚Chapter1:Recurrent Neural Networks for Language modeling**]()
+
+ | Topic Name/Tutorial | Video | Code |Note|
+ |---|---|---|---|
+ |**🌐1-Course 3 Introduction**| [**1**](https://drive.google.com/file/d/1wp90yB137CPzX1NLcob47eGI5uPq_a1S/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+
+</details>
+
+<details> 
 <summary> <h2>📕Level 4: Expert (Research & Applications)</h2> </summary>
 
 - Large Language Models (LLMs): GPT-4, LLaMA, Claude, Mistral
