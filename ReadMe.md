@@ -487,11 +487,17 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 
 This course dives deep into sequence modeling techniques for Natural Language Processing (NLP), covering foundational to state-of-the-art architectures like RNNs, GRUs, LSTMs, and Transformer models. Learners will explore language modeling, machine translation, text summarization, named entity recognition, and more. The course emphasizes both theoretical understanding and practical implementation through coding assignments, mini-projects, and real-world datasets.
   
- ### Week 1-[**📚Chapter1:Recurrent Neural Networks for Language modeling**]()
+ ### Week 1-[**📚Chapter1:Introduction**]()
 
  | Topic Name/Tutorial | Video | Code |Note|
  |---|---|---|---|
- |**🌐1-Course 3 Introduction**| [**1**](https://drive.google.com/file/d/1wp90yB137CPzX1NLcob47eGI5uPq_a1S/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+ |**🌐1-LLMs Like ChatGPT, Explained Visually – How Do They Really Work?**| [**1**](https://youtu.be/NLOBYtfdxuM?si=Nr-FfElA3SSQA2or)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+ |**🌐2-LLM Training Starts Here: Dataset Preparation & Tokenization Explained!**| [**1**](https://youtu.be/bNjVxUDZQfM?si=zEbS8EDDtzYK_uVd)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+ |**🌐3-What Are Word Embeddings?**| [**1**](https://youtu.be/hVM8qGRTaOA?si=W57t170sR0rHuO6w)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+ |**🌐4-How Attention Mechanism Works in Transformer Architecture**| [**1**](https://youtu.be/KMHkbXzHn7s?si=3LXRNm9AilOwDlnA)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue. |**🌐4-How Attention Mechanism Works in Transformer Architecture**| [**1**](https://youtu.be/KMHkbXzHn7s?si=3LXRNm9AilOwDlnA)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+ |**🌐-H5ow Attention Mechanism Works in Transformer Architecture**| [**1**](https://youtu.be/KMHkbXzHn7s?si=3LXRNm9AilOwDlnA)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+   |**🌐4-How Attention Mechanism Works in Transformer Architecture**| [**1**](https://youtu.be/KMHkbXzHn7s?si=3LXRNm9AilOwDlnA)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+    |**🌐4-How Attention Mechanism Works in Transformer Architecture**| [**1**](https://youtu.be/KMHkbXzHn7s?si=3LXRNm9AilOwDlnA)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
 
 </details>
 
