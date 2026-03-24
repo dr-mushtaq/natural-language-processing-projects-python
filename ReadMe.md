@@ -486,6 +486,10 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 🎯 Course Description
 
 This course dives deep into sequence modeling techniques for Natural Language Processing (NLP), covering foundational to state-of-the-art architectures like RNNs, GRUs, LSTMs, and Transformer models. Learners will explore language modeling, machine translation, text summarization, named entity recognition, and more. The course emphasizes both theoretical understanding and practical implementation through coding assignments, mini-projects, and real-world datasets.
+
+#### YouTube Channels
+- **[Large Language Models by Serrano.Academy](https://www.youtube.com/playlist?list=PLs8w1Cdi-zva4fwKkl9EK13siFvL9Wewf)** - FREE
+- **[Understanding Large Language Model by Under The Hood](https://www.youtube.com/playlist?list=PLUfbC589u-FSwnqsvTHXVcgmLg8UnbIy3)** - FREE
   
  ### Week 1-[**📚Chapter1:Introduction**]()
 
