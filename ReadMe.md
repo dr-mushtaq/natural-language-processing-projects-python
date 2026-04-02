@@ -490,6 +490,9 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 #### YouTube Channels
 - **[Large Language Models by Serrano.Academy](https://www.youtube.com/playlist?list=PLs8w1Cdi-zva4fwKkl9EK13siFvL9Wewf)** - FREE
 - **[Understanding Large Language Model by Under The Hood](https://www.youtube.com/playlist?list=PLUfbC589u-FSwnqsvTHXVcgmLg8UnbIy3)** - FREE
+
+#### Course
+- **[CME 295 - Transformers & Large Language Models](https://cme295.stanford.edu/syllabus/)** - FREE
   
  ### Week 1-[**📚Chapter1:Introduction**]()
 
