@@ -363,8 +363,6 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
  |**🌐Projects-Movie Review Sentiment Classifier with Gradio**| [**1**](https://drive.google.com/file/d/1rCmTngVoZLN8Gy55clZ05cGHjb2p8joZ/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
  |[**🌐Assignment:Deep N-Grams **](https://medium.com/@Coursesteach/natural-language-processing-part-51-the-viterbi-algorithm-cd5a00149e9b)|--|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/C2_W2_Assignment_(1).ipynb)|
 
-
-
  ### Week 2-[**📚Chapter2:LSTMS and Named Entity Recognition**]()
 
  This module takes you through the journey of sequence models and NER step by step. You’ll start with RNNs and the vanishing gradient problem, then see how LSTMs overcome this limitation and explore their architecture with input, forget, and output gates. From there, you’ll shift to Named Entity Recognition (NER) — first understanding what it is, then learning about data preprocessing for training, and finally discovering how to evaluate models by computing accuracy with masking and prediction.
@@ -569,6 +567,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 |[**✅ 29-LLM Agents MOOC**](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc)|Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates| Pending|
 |[**✅ 30-Stanford CS236: Deep Generative Models I 2023 I Stefano Ermon**](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)|Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates| Pending|
 |[**✅ 31-Large Language Models with Semantic Search**](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/?utm_campaign=cohere-launch&utm_medium=video&utm_source=youtube&utm_content=teaser)|Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates| Pending|
+|[**✅ 32-Natural Language Processing (NLP) with BERT by Udemy**](https://www.udemy.com/course/natural-language-processing-with-bert/?im_ref=zU9VMAStxxycRnFTVA2iK3QzUku1g73400000w0&sharedid=&irpid=6778825&utm_medium=affiliate&utm_source=impact&utm_audience=mx&utm_tactic=%22Content%22%2C%22India%22&utm_content=3193860&utm_campaign=6778825&irgwc=1&afsrc=1)|Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates| Pending|
 
 
 ## 👁️ Chapter2: - **Important Website**
