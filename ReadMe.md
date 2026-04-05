@@ -497,6 +497,8 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 #### Github
 - **[llm-course](https://github.com/mlabonne/llm-course/tree/main)** - FREE
 - **[Hands-On Large Language Models](https://github.com/handsOnLLM/Hands-On-Large-Language-Models)** - FREE
+- **[Prompt Engineering Guide](https://github.com/dair-ai/prompt-engineering-guide)** - FREE
+- **[Advanced RAG Techniques](https://github.com/NirDiamant/rag_techniques)** - FREE
 - **[7 Best LLM Engineering Repos](https://systemsbyakshay.substack.com/p/7-best-llm-engineering-repos)** - FREE
   
  ### Week 1-[**📚Chapter1:Introduction**]()
