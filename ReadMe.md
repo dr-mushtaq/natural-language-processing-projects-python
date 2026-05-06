@@ -472,6 +472,8 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 
 <details> 
 <summary> <h2> 📕🔵Level 3: Advanced:Course 05 -Building Chatbots in Python </h2> </summary>
+#### YouTube Channels
+- **[Chat Bot With PyTorch](https://www.youtube.com/playlist?list=PLqnslRFeH2UrFW4AUgn-eY37qOAWQpJyg)** - FREE
  
 ## Week - [**Building Chatbots in Python**]()
   - [**Building Chatbots in Python**](https://github.com/hussain0048/Natural-language-processing/blob/main/Chatbot_using_python.ipynb)
