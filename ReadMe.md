@@ -1,17 +1,18 @@
 ## **Natural Language Processing with Python👋🛒**
 <p align="center">
   <a href="https://app.commanddash.io/agent?github=https://github.com/hussain0048/Natural-language-processing">
-    <img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA" alt="AI Code Gen Badge">
+    <img 
+      src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA" 
+      alt="AI Code Gen"
+    />
   </a>
 </p>
 
 <p align="center">
   <img 
-    src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/imresizer-Media%20(1).jpg?raw=true" 
-    alt="NLP Project Banner"
-    width="800"
-  />
-</p>
+    src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/imresizer-Media%20(1).jpg?raw=true"
+    alt="Natural Language Processing"
+    width="100%"
 
 Welcome to the Natural Language Processing (NLP) Course, an open-source initiative to learn, implement, and master NLP concepts using Python. Whether you're a student, researcher, or AI enthusiast, this repository provides a structured, hands-on approach to mastering NLP from fundamentals to advanced topics Learn Natural Language Processing (NLP) with Python — from text preprocessing and sentiment analysis to deep learning with transformers like BERT and GPT..
 
