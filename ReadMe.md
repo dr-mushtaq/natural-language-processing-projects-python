@@ -1,20 +1,5 @@
 ## **Natural Language Processing with Python👋🛒**
-<p align="center">
-  <a href="https://app.commanddash.io/agent?github=https://github.com/hussain0048/Natural-language-processing">
-    <img 
-      src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA" 
-      alt="AI Code Gen"
-    />
-  </a>
-</p>
 
-<p align="center">
-  <img 
-    src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/imresizer-Media%20(1).jpg?raw=true"
-    alt="Natural Language Processing Banner"
-    width="850"
-  />
-</p>
 Welcome to the Natural Language Processing (NLP) Course, an open-source initiative to learn, implement, and master NLP concepts using Python. Whether you're a student, researcher, or AI enthusiast, this repository provides a structured, hands-on approach to mastering NLP from fundamentals to advanced topics Learn Natural Language Processing (NLP) with Python — from text preprocessing and sentiment analysis to deep learning with transformers like BERT and GPT..
 
  Also please subscribe to my [NLP Conceptsl!](https://www.youtube.com/watch?v=midvfUnD5rs&list=PLLC7bmONapvCQkEVF6PISl1x4Pp1JU4FW)
@@ -29,28 +14,6 @@ Welcome to the Natural Language Processing (NLP) Course, an open-source initiati
 <h2>💖 Sponsors</h2>
 
 <p>We extend our heartfelt thanks to our incredible sponsors for their generous support and commitment to our mission. Their contributions make it possible for us to continue developing open-source educational content, AI learning tools, and community-driven projects.</p>
-
-<h3>Current Sponsor</h3>
-<hr />
-<div align="center">
-  <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank">
-    <picture>
-      <!-- Dark mode -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dr-mushtaq/Python-Notes/blob/master/Image/LOGO-InnoviTechs.png" />
-      <!-- Light mode (fallback) -->
-      <a href="https://innovitechs.com/" target="_blank">
-      <img src="https://github.com/dr-mushtaq/Python-Notes/blob/master/Image/LOGO-InnoviTechs.png"
-           width="400px"
-           alt="Wispr Flow Logo"
-           title="Wispr Flow" />
-      </a>
-    </picture>
-  </a>
-
-  <h3>InnoviTechs IT Services – Driving Digital Transformation and Business Growth</h3>
-  <p><em>Our mission is to lead the future of technology innovation by transforming visionary ideas into scalable digital experiences. With creativity, passion, and a commitment to excellence, we deliver tailored technology and workforce solutions that address your unique business challenges with resilience and adaptability.</em></p>
-
-</div>
 
 **Your support helps us:**
 
@@ -450,7 +413,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
   |**🌐5-BERT Objective**| [**1**](https://drive.google.com/file/d/1taqz2o_dm9l9NE5uTF5WzI9ihlE_plCj/view?usp=sharing)[-2](https://youtu.be/4g4TbVm8PJI?si=I6d4KdSGQBIbGz3p)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10560&forceview=1)|---|
  |**🌐6-Fine tuning BERT**| [**1**](https://drive.google.com/file/d/1JRB7DPpo-7dvjrisP1jDcPugXU3qOFjw/view?usp=sharing)[-2](https://youtu.be/VCrIdRw92GM?si=Or0PXfHPJ5lCWeAY)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10567&forceview=1)|[1](https://youtu.be/4QHg8Ix8WWQ?si=40a-1D4oPtEOLGln)[-2](https://towardsdatascience.com/fine-tuning-bert-for-text-classification-a01f89b179fc/)[-3](https://www.analyticsvidhya.com/blog/2020/07/transfer-learning-for-nlp-fine-tuning-bert-for-text-classification/)|
  |**🌐7-Transformer: T5**| [**1**](https://drive.google.com/file/d/18s3GB1fVsEx_WYkbbs2cQSMvrdCVR3Od/view?usp=sharing)[-2](https://youtu.be/w07mO0IsQZA?si=PnvGbdUpxC_YsYRK)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10571&forceview=1)|---|
-  |**🌐8-Multi-Task Training Strategy**| [**1**](https://drive.google.com/file/d/1ZziMM0QGNzWZFAjvYgYMjDXI7fp8q1wG/view?usp=sharing)[-2](https://www.youtube.com/watch?v=kEJgU4fqJ5c&list=PLLC7bmONapvBCYUkFuU653Dxvr-yD7n6V)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10491&forceview=1)|[1](https://arxiv.org/pdf/1409.0473)[-2](https://arxiv.org/pdf/1606.03126)[-3](https://arxiv.org/pdf/1503.08895)|
+  |**🌐8-Multi-Task Training Strategy**| [**1**](https://drive.google.com/file/d/1Lh3XSP60q15kYittuk1sJLVd2ZKbKTvk/view?usp=sharing)[-2](https://www.youtube.com/watch?v=kEJgU4fqJ5c&list=PLLC7bmONapvBCYUkFuU653Dxvr-yD7n6V)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10578&forceview=1)|---|
    |**🌐9-GLUE Benchmark**| [**1**](https://drive.google.com/file/d/1ZziMM0QGNzWZFAjvYgYMjDXI7fp8q1wG/view?usp=sharing)[-2](https://www.youtube.com/watch?v=kEJgU4fqJ5c&list=PLLC7bmONapvBCYUkFuU653Dxvr-yD7n6V)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10491&forceview=1)|[1](https://arxiv.org/pdf/1409.0473)[-2](https://arxiv.org/pdf/1606.03126)[-3](https://arxiv.org/pdf/1503.08895)|
    |**🌐10-Welcome to Hugging Face**| [**1**](https://drive.google.com/file/d/1ZziMM0QGNzWZFAjvYgYMjDXI7fp8q1wG/view?usp=sharing)[-2](https://www.youtube.com/watch?v=kEJgU4fqJ5c&list=PLLC7bmONapvBCYUkFuU653Dxvr-yD7n6V)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10491&forceview=1)|[1](https://arxiv.org/pdf/1409.0473)[-2](https://arxiv.org/pdf/1606.03126)[-3](https://arxiv.org/pdf/1503.08895)|
    |**🌐11-Hugging Face I**| [**1**](https://drive.google.com/file/d/1ZziMM0QGNzWZFAjvYgYMjDXI7fp8q1wG/view?usp=sharing)[-2](https://www.youtube.com/watch?v=kEJgU4fqJ5c&list=PLLC7bmONapvBCYUkFuU653Dxvr-yD7n6V)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10491&forceview=1)|[1](https://arxiv.org/pdf/1409.0473)[-2](https://arxiv.org/pdf/1606.03126)[-3](https://arxiv.org/pdf/1503.08895)|
