@@ -483,6 +483,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[Prompt Engineering Guide](https://github.com/dair-ai/prompt-engineering-guide)** - FREE
 - **[Advanced RAG Techniques](https://github.com/NirDiamant/rag_techniques)** - FREE
 - **[7 Best LLM Engineering Repos](https://systemsbyakshay.substack.com/p/7-best-llm-engineering-repos)** - FREE
+- **[8 llms-from-scratch](https://github.com/analyticalrohit/llms-from-scratch)** - FREE
   
  ### Week 1-[**📚Chapter1:Introduction**]()
 
