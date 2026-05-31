@@ -15,12 +15,6 @@ Welcome to the Natural Language Processing (NLP) Course, an open-source initiati
 
 <p>We extend our heartfelt thanks to our incredible sponsors for their generous support and commitment to our mission. Their contributions make it possible for us to continue developing open-source educational content, AI learning tools, and community-driven projects.</p>
 
-**Your support helps us:**
-
-- Create free tutorials, guides, and datasets for learners worldwide 🌍
-- Maintain research repositories and AI projects 📚
-- Host workshops, webinars, and community learning events 💬
-- Encourage students and educators to explore Data Science, Machine Learning, and Deep Learning 🚀
 ---
 
 ### 🙌 Become a Sponsor
@@ -43,26 +37,6 @@ You can support this project by becoming a sponsor on **[GitHub Sponsors](https:
 </p>
 
 ---
-
-
- ## 📚 Table of Contents
-
-- [🎯 Why Join This Course?](#-why-join-this-course)
-- [💡 How to Participate?](#-how-to-participate)
-- [🌍 Join Our Community](#-join-our-community)
-- [📬 Stay Updated with Weekly NLP Lessons!](#-stay-updated-with-weekly-nlp-lessons)
-- [🚀 Let's Build NLP Together!](#-lets-build-nlp-together)
-- [📌 Course Modules & Resources](#-course-modules--resources)
-  - [📕 Course 01 – Classification and Vector Spaces](#course-01--classification-and-vector-spaces)
-  - [📕 Course 02 – NLP with Probabilistic Models](#course-02--natural-language-processing-with-probabilistic-models)
-  - [📕 Course 03 – NLP with Sequence Models](#course-03--natural-language-processing-with-sequence-models)
-  - [📕 Course 04 – NLP with Attention Models](#course-04--natural-language-processing-with-attention-models)
-  - [📕 Course 05 – Building Chatbots in Python](#course-05--building-chatbots-in-python)
-- [📕 NLP Resources (Courses, Books, Tools)](#-natural-language-processing-resources)
-- [💻 Workflow](#workflow)
-- [⚙️ Things to Note](#️-things-to-note)
-- [🔍 Explore more](#-explore-more)
-- [✨ Top Contributors](#-top-contributors
 
 ## **🎯 Why Join This Course?**
  
@@ -105,7 +79,6 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 
 1- Focuses on probabilistic techniques including n-gram models, Naive Bayes, and Hidden Markov Models.
 
-
 🔗 [**NLP with Sequence Model**](https://coursesteach.com/enrol/index.php?id=256)
 
 1. Explores advanced topics such as RNNs, LSTMs, GRUs, and their application in language modeling and machine translation.
@@ -127,22 +100,6 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 ## **🚀 Let's Build NLP Together!**
 
 Join us in creating, sharing, and implementing NLP solutions. Your contributions will help advance open-source AI education globally. 💡🤖
-
-🔗 Start Learning NLP Now!
-
-📬 Newsletter CTA Markdown Snippet
-
-## 📬 Stay Updated with Weekly NLP Lessons!
-
-Never miss a tutorial! Get weekly insights, updates, and bonus content straight to your inbox.  
-**Join hundreds of NLP learners on Substack.**
-
-👉 [**Subscribe to Our NLP Newsletter**](https://substack.com/@coursesteach) ✨
-
-💡 Optional Badge (to make it pop)
-
-[![Subscribe on Substack](https://img.shields.io/badge/Subscribe-Substack-orange?style=for-the-badge&logo=substack)](https://substack.com/@coursesteach)
-
 
 ## **🧭 Suggested Learning Path (Basic → Advanced → Expert)**
 
