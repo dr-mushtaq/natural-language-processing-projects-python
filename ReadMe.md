@@ -435,6 +435,8 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[Natural Language Processing (NLP) with PyTorch](https://www.dataquest.io/blog/natural-language-processing-nlp-with-pytorch/)** - FREE
 #### Road Map 
 - **[Best LLMs cheatsheet](https://substack.com/@analyticalrohit/note/c-271591664?r=f2squ)** - FREE
+- **[Road map with CHATGPT](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9A%20LLM/Road%20Map%20and%20resoruces.md)** - FREE
+
 
 
 #### Github
