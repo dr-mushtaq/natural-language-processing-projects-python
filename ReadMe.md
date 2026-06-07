@@ -472,6 +472,17 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
  |**🌐5-What is Temperature in LLM**| [**1**](https://youtu.be/jnikMver_CE?si=cBSI2gyL8EROQLvY)[-2](https://drive.google.com/file/d/1tsRhFM7nQja1DEsB6Ssjjl8QUCFoukUv/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
  |**🌐6-Pretraining Large Language Models: Everything You Need to Know!**| [**1**](https://youtu.be/FtFZ-vBA-eA?si=WTD1wy1SoYoTO62b)[-2](https://drive.google.com/file/d/1xbNlL_V0qabGofTZBufksWFSvkrwy9qX/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
  |**🌐7-KV Cache Demystified: Speeding Up Large Language Models**| [**1**](https://youtu.be/RGC-azaTXsI?si=Oyk61iGCbBlk32Bq)[-2](https://drive.google.com/file/d/1mG2WSJOEAV456xL3chRvFY66lRcPBCm-/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+  |**🌐1-Fine-tuning (Task-specific, Multi-task, Instruction-based**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
+  |**🌐1-Parameter Efficient Fine-Tuning (PEFT, LoRA)**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
+  |**🌐1-Preference Tuning (RLHF, DPO, IPO)**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
+  |**🌐1-Scaling and Optimization (Quantization, Distillation, Pruning)**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
+  ### Week 3-[**📚Chapter4:Applications**]()
+ | Topic Name/Tutorial | Video | Code |Note|Extra Resources|
+ |---|---|---|---|---|
+ |**🌐1-LLM-as-a-Judge (Evaluation and Benchmarking)**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
+ |**🌐1- RAG (Retrieval-Augmented Generation)**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
+ |**🌐1- Agents (ReAct, PAL)**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
+ |**🌐1- Reasoning Models (Chain-of-Thought, Scaling Laws)**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
 
 </details>
 
