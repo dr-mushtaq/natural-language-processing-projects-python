@@ -447,7 +447,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
   
  ### Week 1-[**📚Chapter1:Introduction**]()
 
- | Topic Name/Tutorial | Video | Code |Note|Extra Resources
+ | Topic Name/Tutorial | Video | Code |Note|Extra Resources|
  |---|---|---|---|---|
  |**🌐1-LLMs Like ChatGPT, Explained Visually – How Do They Really Work?**| [**1**](https://youtu.be/NLOBYtfdxuM?si=Nr-FfElA3SSQA2or)[-2](https://drive.google.com/file/d/161dmkHUGja4BjVCA-a7SZJA9h5UKlPE3/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|[1](https://amanxai.com/2026/03/22/key-llm-terms-explained-simply/?fbclid=IwY2xjawQs3BVleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe2RjUUgMFqSAf-82_Ys1OvutWtx1i9Yivf7sj24rovktMyo2pL9YkqJl9BtY_aem_lh8tTpbJ8o4mUorbye8a_Q)[-2](https://www.youtube.com/watch?v=LPZh9BOjkQs)[-3](https://drive.google.com/file/d/1iJPFenzCilg27VWngPsXtsf3KcUki7WP/view?usp=sharing)|
  |**🌐1-Gen AI**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
@@ -457,7 +457,9 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
  |**🌐1-Parallel Processing**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
 
  ### Week 2-[**📚Chapter2:Transformers Architecture and Variants**]()
-  |---|---|---|---|---|
+ 
+ | Topic Name/Tutorial | Video | Code |Note|Extra Resources|
+ |---|---|---|---|---|
 
   |**🌐1-BERT (Encoder-only models)**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
   |**🌐1-GPT (Decoder-only models)**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
