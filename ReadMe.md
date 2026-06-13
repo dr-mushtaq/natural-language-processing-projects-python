@@ -137,9 +137,9 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
    
    
   ### Week 2-**📚Chapter3:Sentiment Analysis using Naive Bayes**
-  | Topic Name/Tutorial | Video | Code |
-|---|---|---|
-| [**✅1-Probability and Bayes’ Rule**](https://mushtaqmsit.substack.com/p/how-naive-bayes-and-bayes-rule-power) | [**1**](https://drive.google.com/file/d/1plPqQBOJrMGMrUqQFEs8M4uD6pxKXDnp/view)[-2](https://youtu.be/NSp-99rCrtg?si=m0UyiODnSkdalCJk) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+  | Topic Name/Tutorial | Video | Code |Extra Resoruces|
+|---|---|---|---|
+| [**✅1-Probability and Bayes’ Rule**](https://mushtaqmsit.substack.com/p/how-naive-bayes-and-bayes-rule-power) | [**1**](https://drive.google.com/file/d/1plPqQBOJrMGMrUqQFEs8M4uD6pxKXDnp/view)[-2](https://youtu.be/NSp-99rCrtg?si=m0UyiODnSkdalCJk) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[1](https://youtu.be/HZGCoVF3YvM?si=3XTspUJLDtijKoot)|
 |[**✅2-Bayes’ Rule**](https://mushtaqmsit.substack.com/p/understanding-conditional-probabilities)|[**1**](https://drive.google.com/file/d/19Nk0eUGhedfZAxwF_6xTvgl6KgedF5sl/view)[-2](https://youtu.be/uOw3qStzrkY?si=nHDdfWlm3QN-w6Lc)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
 |[**✅3-Naïve Bayes Introduction**](https://mushtaqmsit.substack.com/p/understanding-naive-bayes-for-sentiment)|[**1**](https://drive.google.com/file/d/1RaCR90h7aBf9dJZP1iscaAV6dWclexgc/view)[-2](https://youtu.be/EiAucYcbMWY)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_Naive_Bayes.ipynb)|
 |[**✅4-Laplacian Smoothing**](https://mushtaqmsit.substack.com/p/how-laplacian-smoothing-solves-zero)|[**1**](https://drive.google.com/file/d/137FsONo3kU-KTUvO8IvLN-Fnm34oduqM/view)[-2](https://youtu.be/_8Bhpr5vkbA?si=xN_-cjU5EcXAueQI)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
