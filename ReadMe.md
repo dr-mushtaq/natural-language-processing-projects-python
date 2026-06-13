@@ -437,6 +437,8 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 #### Road Map 
 - **[Best LLMs cheatsheet](https://substack.com/@analyticalrohit/note/c-271591664?r=f2squ)** - FREE
 - **[Road map with CHATGPT](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9A%20LLM/Road%20Map%20and%20resoruces.md)** - FREE
+- **[Large Language Models (LLM) Roadmap]([https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9A%20LLM/Road%20Map%20and%20resoruces.md](https://github.com/bishwaghimire/ai-learning-roadmaps/blob/main/roadmaps/llm-roadmap.md#core-concepts))** - FREE
+
 
 
 
