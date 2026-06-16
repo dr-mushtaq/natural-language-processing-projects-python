@@ -430,6 +430,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[CME 295 - Transformers & Large Language Models](https://cme295.stanford.edu/syllabus/)** - FREE
 - **[LLM Course Face hug](https://huggingface.co/learn/llm-course/chapter3/4)** - FREE
 - **[Hugging Face LLM Cours](https://huggingface.co/learn/llm-course/chapter1/3)** - FREE
+- **[Introduction to Large Language Models by Google](https://developers.google.com/machine-learning/crash-course/llm)** - FREE
 
 #### Tutorial 
 - **[Natural Language Processing (NLP) with PyTorch](https://www.dataquest.io/blog/natural-language-processing-nlp-with-pytorch/)** - FREE
@@ -466,7 +467,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
   |**🌐1-GloVe**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
   |**🌐1-FastText**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
  |**🌐3-What Are Word Embeddings?**| [**1**](https://youtu.be/hVM8qGRTaOA?si=W57t170sR0rHuO6w)[-2](https://drive.google.com/file/d/1RYwh5O6AV2-r0WCWGTWeDpm2Wrf5eyKh/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
- |**🌐1-Parallel Processing**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
+ |**🌐1-Parallel Processing**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|[]()|
 
  ### Week 2-[**📚Chapter2:Transformers Architecture and Variants**]()
  
