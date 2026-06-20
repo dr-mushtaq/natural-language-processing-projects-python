@@ -328,6 +328,9 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 
  <details> 
 <summary> <h2>📕🔵Level 3: Advanced:Course 04 -NLP with Attention Models</h2> </summary>
+
+#### Online Course
+- **[Advance NLP](https://www.youtube.com/playlist?list=PL1v8zpldgH3pQwRz1FORZdChMaNZaR3pu)** - FREE
   
  ### Week 1-[**📚Chapter1:Neural Machine Translation**]()
 
