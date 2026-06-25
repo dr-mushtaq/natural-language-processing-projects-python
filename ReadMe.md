@@ -428,12 +428,14 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[CampusX](https://www.youtube.com/@campusx-official)** - FRE
 #### Books
 - **[Speech and Language Processing by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)** - FREE
+- **[Foundational Large Language models & text generation](https://web.stanford.edu/~jurafsky/slp3/)** - FREE
+
 
 #### Course
 - **[CME 295 - Transformers & Large Language Models](https://cme295.stanford.edu/syllabus/)** - FREE
 - **[LLM Course Face hug](https://huggingface.co/learn/llm-course/chapter3/4)** - FREE
 - **[Hugging Face LLM Cours](https://huggingface.co/learn/llm-course/chapter1/3)** - FREE
-- **[Introduction to Large Language Models by Google](https://developers.google.com/machine-learning/crash-course/llm)** - FREE
+- **[Introduction to Large Language Models by Google](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9A%20Books/Foundational%20Large%20Language%20models%20%26%20text%20generation.pdf)** - FREE
 
 #### Tutorial 
 - **[Natural Language Processing (NLP) with PyTorch](https://www.dataquest.io/blog/natural-language-processing-nlp-with-pytorch/)** - FREE
