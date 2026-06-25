@@ -435,6 +435,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[CME 295 - Transformers & Large Language Models](https://cme295.stanford.edu/syllabus/)** - FREE
 - **[LLM Course Face hug](https://huggingface.co/learn/llm-course/chapter3/4)** - FREE
 - **[Hugging Face LLM Cours](https://huggingface.co/learn/llm-course/chapter1/3)** - FREE
+- **[ CME295: Large Language Models (LLMs) by Standford](https://www.youtube.com/playlist?list=PLoROMvodv4rObv1FMizXqumgVVdzX4_05)** - FREE
 - **[Introduction to Large Language Models by Google](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9A%20Books/Foundational%20Large%20Language%20models%20%26%20text%20generation.pdf)** - FREE
 
 #### Tutorial 
