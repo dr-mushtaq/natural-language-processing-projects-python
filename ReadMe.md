@@ -438,6 +438,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[CS336: Language Modeling from Scratch](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)** - FREE
 - **[ CME295: Large Language Models (LLMs) by Standford](https://www.youtube.com/playlist?list=PLoROMvodv4rObv1FMizXqumgVVdzX4_05)** - FREE
 - **[Introduction to Large Language Models by Google](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9A%20Books/Foundational%20Large%20Language%20models%20%26%20text%20generation.pdf)** - FREE
+- **[NLP with Transformer by hugging face](https://huggingface.co/learn/llm-course/chapter1/1)** - FREE
 
 #### Tutorial 
 - **[Natural Language Processing (NLP) with PyTorch](https://www.dataquest.io/blog/natural-language-processing-nlp-with-pytorch/)** - FREE
