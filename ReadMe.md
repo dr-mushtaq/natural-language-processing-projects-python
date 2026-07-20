@@ -425,7 +425,8 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 #### YouTube Channels
 - **[Large Language Models by Serrano.Academy](https://www.youtube.com/playlist?list=PLs8w1Cdi-zva4fwKkl9EK13siFvL9Wewf)** - FREE
 - **[Understanding Large Language Model by Under The Hood](https://www.youtube.com/playlist?list=PLUfbC589u-FSwnqsvTHXVcgmLg8UnbIy3)** - FREE
-- **[CampusX](https://www.youtube.com/@campusx-official)** - FRE
+- **[CampusX](https://www.youtube.com/@campusx-official)** - FREE
+- **[Language AI & NLP by Jay Alammar](https://www.youtube.com/playlist?list=PLTx9yCaDlo1UlgZiSgEjq86Zvbo2yC87d)** - FREE
 #### Books
 - **[Speech and Language Processing by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)** - FREE
 - **[Foundational Large Language models & text generation](https://web.stanford.edu/~jurafsky/slp3/)** - FREE
