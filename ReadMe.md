@@ -85,22 +85,6 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 
 💡 These courses are part of a structured NLP curriculum offered by Coursesteach, designed by Couresteach team, and emphasize practical implementation using Python and deep learning libraries.
 
-## **🌍 Join Our Community**
-
-🔗 [**YouTube Channe**l](https://www.youtube.com/@coursesteach-mv5si/videos)
-
-🔗 [**SubStack Blogs**](https://substack.com/@coursesteach)
-
-🔗 [**Facebook**](https://www.facebook.com/CourseTeach)
-
-🔗 [**LinkedIn**](https://www.linkedin.com/company/90909828/admin/page-posts/published/)
-
-📬 Need Help? Connect with us on [**WhatsApp**](https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg)
-
-## **🚀 Let's Build NLP Together!**
-
-Join us in creating, sharing, and implementing NLP solutions. Your contributions will help advance open-source AI education globally. 💡🤖
-
 ## **🧭 Suggested Learning Path (Basic → Advanced → Expert)**
 
 <details> 
@@ -723,8 +707,23 @@ Understanding all the tools, frameworks, architectures, and ecosystems around NL
 | **2023** | 🤯 **GPT-4** | Advanced reasoning, multimodal | Better reasoning, multimodal support | Closed-source, expensive API | (API only, no HF checkpoint) | OpenAI |
 | **2023/24** | 🦙 **LLaMA** | Open-source large-scale LLM | Efficient, open-source alternative to GPT | Needs fine-tuning for many tasks | `meta-llama/Llama-2-7b-hf` | Meta AI (Hugo Touvron et al.) |
 
-
 </details>
+
+## **🌍 Join Our Community**
+
+🔗 [**YouTube Channe**l](https://www.youtube.com/@coursesteach-mv5si/videos)
+
+🔗 [**SubStack Blogs**](https://substack.com/@coursesteach)
+
+🔗 [**Facebook**](https://www.facebook.com/CourseTeach)
+
+🔗 [**LinkedIn**](https://www.linkedin.com/company/90909828/admin/page-posts/published/)
+
+📬 Need Help? Connect with us on [**WhatsApp**](https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg)
+
+## **🚀 Let's Build NLP Together!**
+
+Join us in creating, sharing, and implementing NLP solutions. Your contributions will help advance open-source AI education globally. 💡🤖
 
 ## 💻 [Workflow](https://www.youtube.com/watch?v=LuWAw-RBPys):
 
