@@ -488,6 +488,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
  | Topic Name/Tutorial | Video | Code |Note|Extra Resources|
  |---|---|---|---|---|
  |**🌐1-BERT (Encoder-only models)**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
+ |***✅-Queries, Keys, and Values**|[1](https://youtu.be/GubJ71dCQBk?si=EC6zvQ_qaClQFGvm) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
  |**🌐1-GPT (Decoder-only models)**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
  |**🌐1-T5 and BART (Encoder-Decoder models)**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
  |**🌐1-Multi Head Attention**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
