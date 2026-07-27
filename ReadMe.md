@@ -349,6 +349,9 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 
   ### Week 3-[**📚Chapter3:Question Answering**]()
 
+  #### Github
+- **[HuggingFace-CheatSheet](https://github.com/Abonia1/HuggingFace-CheatSheet)** - FREE
+
  | Topic Name/Tutorial | Video | Code |Note|Extra Resources|
  |---|---|---|---|---|
  |**🌐1-Transfer Learning in NLP**| [**1**](https://drive.google.com/file/d/17u5Xdat7ZPG0H4l9s0XG9AzamFgtZ9wv/view?usp=sharing)[-2](https://youtu.be/bkVDcgrdMbs?si=GV9FhkA_rojr_ij7)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10491&forceview=1)|[1](https://arxiv.org/pdf/1409.0473)[-2](https://arxiv.org/pdf/1606.03126)[-3](https://arxiv.org/pdf/1503.08895)[-4](https://www.dataquest.io/blog/natural-language-processing-nlp-with-pytorch/)||
@@ -362,7 +365,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
    |**🌐10-Welcome to Hugging Face**| [**1**](https://drive.google.com/file/d/1Lb1KbUMy1m-rBApgCHsFAsqPx1lGGNV7/view?usp=sharing)[-2](https://youtu.be/UuTVU71C3sI?si=tlh2PLBs_iJhhEEz)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10587&forceview=1)|---|
    |**🌐11-Hugging Face I**| [**1**](https://drive.google.com/file/d/1-_kcZxlAn2aDF5953Jg4PNUuCnBWXq1c/view?usp=sharing)[-2](https://youtu.be/3O2D39KXTJ0?si=JIXtc_NDPxjs7yX9)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10491&forceview=1)|---|
    |**🌐12-Hugging Face I1**| [**11**](https://drive.google.com/file/d/1aZrpdlzcdcqQ-NCiS3T1-xbmO0n5IKqO/view?usp=sharing)[-2](https://youtu.be/4OLvehLaLp0?si=qJ1qEXqtk8B3Yqm4)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10595&forceview=1)|---|
-   |**🌐13-Hugging Face I11**| [**1**](https://drive.google.com/file/d/1vogPeEyCQaCt6UGLJoJ6BVNP-nP-RpQA/view?usp=sharing)[-2](https://www.youtube.com/watch?v=kEJgU4fqJ5c&list=PLLC7bmONapvBCYUkFuU653Dxvr-yD7n6V)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10596&forceview=1)|---|
+   |**🌐13-Hugging Face I11**| [**1**](https://drive.google.com/file/d/1vogPeEyCQaCt6UGLJoJ6BVNP-nP-RpQA/view?usp=sharing)[-2](https://www.youtube.com/watch?v=kEJgU4fqJ5c&list=PLLC7bmONapvBCYUkFuU653Dxvr-yD7n6V)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10596&forceview=1)|[1](https://github.com/Abonia1/HuggingFace-CheatSheet)|
     
 
   ### Week 1-[**📚Chapter1:Attention & Transformers**]()
@@ -631,6 +634,8 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 | Title/link| Description | Code |
 |---|---|---|
 |[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
+|[**🌐2-HuggingFace-CheatSheet**](https://github.com/Abonia1/HuggingFace-CheatSheet)|It is Videos and github|---|
+
 
 ## 👁️ Chapter3: - **Research Papers**
 | Title/link| Description | Code |
