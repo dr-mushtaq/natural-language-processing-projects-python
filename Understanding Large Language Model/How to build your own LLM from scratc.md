@@ -63,3 +63,8 @@ The LLM is ready for real-world applications.
 𝗗𝗮𝘁𝗮 → 𝗣𝗿𝗲-𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴 → 𝗙𝗶𝗻𝗲-𝗧𝘂𝗻𝗶𝗻𝗴 → 𝗔𝗹𝗶𝗴𝗻𝗺𝗲𝗻𝘁 → 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁
 
 That's the basic journey from raw data to a production-ready LLM.
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/Understanding%20Large%20Language%20Model/How%20to%20build%20LLM.gif"></a>
+</p>
+
