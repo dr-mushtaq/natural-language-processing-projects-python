@@ -658,6 +658,8 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 |---|---|---|
 |[**🌐1-Comprehensive Study Resources**](https://github.com/Rishabh-creator601/Books/tree/master)|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.|---|
 |[**🌐2-books**](https://github.com/shivamms/books/tree/master)|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.|---|
+|[**🌐3-bookshelf**](https://github.com/zhang-jian/bookshelf/tree/master)|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.|---|
+
 
 ## 👁️ Chapter5: - **Github Repository**
 | Title/link| Description | Status |
