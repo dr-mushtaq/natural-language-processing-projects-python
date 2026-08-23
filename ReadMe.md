@@ -480,6 +480,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
  | Topic Name/Tutorial | Video | Code |Category|Extra Resources|
  |---|---|---|---|---|
  |**🌐1-Common Crawl**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|Data Collection|---|
+  |**✅1-Architectures and Computational Requirements for Pretraining LLMs**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|Data Collection|---|
  |**🌐1-FineWeb**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|Data Collection|---|
  |**🌐1-RedPajama**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|Data Collection|---|
  |**🌐1-OpenWebText**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|Data Collection|---|
