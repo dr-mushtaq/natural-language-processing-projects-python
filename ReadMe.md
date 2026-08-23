@@ -22,33 +22,6 @@ Welcome to the Natural Language Processing (NLP) Course, an open-source initiati
 You can support this project by becoming a sponsor on **[GitHub Sponsors](https://github.com/sponsors/dr-mushtaq)** or via **bank transfer** — please contact me at 📧 [mushtaqmsit@gmail.com](mailto:mushtaqmsit@gmail.com).
 
 
- ## 🚀 Get Involved  
-
-<p align="center">
-  <a href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/discussions">
-    <img src="https://img.shields.io/badge/💬_Join-Discussions-blue?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/YOUR-USERNAME/YOUR-REPO/issues">
-    <img src="https://img.shields.io/badge/🚀_Contribute-green?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/YOUR-USERNAME/YOUR-REPO">
-    <img src="https://img.shields.io/badge/⭐️_Star-yellow?style=for-the-badge" />
-  </a>
-</p>
-
----
-
-## **🎯 Why Join This Course?**
- 
-1.  📖 Comprehensive Learning: Covers all major NLP topics, from basics to cutting-edge deep learning techniques.
-
-2. 🛠 Practical Implementation: Each topic includes hands-on coding exercises, Jupyter notebooks, and real-world projects.
-
-3. 🤝 Collaborative Learning: ork with students and researchers worldwide through GitHub discussions, issue tracking, and dedicated forums..
-
-4. 🔥 AI-Powered Course: Stay ahead with industry-relevant techniques like transformers, BERT, GPT, and more. Convert this for computer vision so that it attract contributor
-
-
 ## **💡 How to Participate?**
 
 🚀 Fork & Star this repository
