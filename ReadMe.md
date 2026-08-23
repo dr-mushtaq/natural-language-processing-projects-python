@@ -731,10 +731,6 @@ Understanding all the tools, frameworks, architectures, and ecosystems around NL
 
 🔗 [**YouTube Channe**l](https://www.youtube.com/@coursesteach-mv5si/videos)
 
-🔗 [**SubStack Blogs**](https://substack.com/@coursesteach)
-
-🔗 [**Facebook**](https://www.facebook.com/CourseTeach)
-
 🔗 [**LinkedIn**](https://www.linkedin.com/company/90909828/admin/page-posts/published/)
 
 📬 Need Help? Connect with us on [**WhatsApp**](https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg)
