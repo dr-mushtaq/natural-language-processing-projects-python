@@ -395,6 +395,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 
 #### Course
 - **[CME 295 - Transformers & Large Language Models](https://cme295.stanford.edu/syllabus/)** - FREE
+- **[Introduction to large language models](https://www.youtube.com/playlist?list=PLZ2ps__7DhBbaMNZoyW2Hizl8DG6ikkjo)** - FREE
 - **[LLM Course Face hug](https://huggingface.co/learn/llm-course/chapter3/4)** - FREE
 - **[Hugging Face LLM Cours](https://huggingface.co/learn/llm-course/chapter1/3)** - FREE
 - **[CS336: Language Modeling from Scratch](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)** - FREE
