@@ -407,6 +407,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)** - FREE
 - **[Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)** - FREE
 - **[MIT 6.S191 Introduction to Deep Learning](https://introtodeeplearning.com/)** - FREE
+- **[Large Language Models and Chatbots](https://www.youtube.com/playlist?list=PLOspHqNVtKAAsiohuZj1Bt4XpA3_bkS3c)** - FREE
 
 #### Tutorial 
 - **[Natural Language Processing (NLP) with PyTorch](https://www.dataquest.io/blog/natural-language-processing-nlp-with-pytorch/)** - FREE
@@ -429,6 +430,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[7 Best LLM Engineering Repos](https://systemsbyakshay.substack.com/p/7-best-llm-engineering-repos)** - FREE
 - **[8 llms-from-scratch](https://github.com/analyticalrohit/llms-from-scratch)** - FREE
 - **[8 LLM-Open-University-From-Begineer-to-Advanced](https://github.com/youssefHosni/LLM-Open-University-From-Begineer-to-Advanced)** - FREE
+- **[Artificial-Intelligence-Courses by KAUST Academy](https://github.com/KAUST-Academy/Artificial-Intelligence-Courses/tree/main)** - FREE
   
  ### Week 1-[**📚Chapter1:Introduction**]()
 
