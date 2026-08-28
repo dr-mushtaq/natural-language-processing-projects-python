@@ -388,6 +388,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[CampusX](https://www.youtube.com/@campusx-official)** - FREE
 - **[Language AI & NLP by Jay Alammar](https://www.youtube.com/playlist?list=PLTx9yCaDlo1UlgZiSgEjq86Zvbo2yC87d)** - FREE
 - **[MyTechNotes](https://www.youtube.com/@mytechnotes86)** - FREE
+- **[AI Models Explained](https://www.youtube.com/playlist?list=PLOspHqNVtKAC-FUNMq8qjYVw6_semZHw0)** - FREE
 #### Books
 - **[Speech and Language Processing by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)** - FREE
 - **[Foundational Large Language models & text generation](https://web.stanford.edu/~jurafsky/slp3/)** - FREE
