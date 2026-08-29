@@ -392,6 +392,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 #### Books
 - **[Speech and Language Processing by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)** - FREE
 - **[Foundational Large Language models & text generation](https://web.stanford.edu/~jurafsky/slp3/)** - FREE
+- **[Understanding Deep Learning](https://udlbook.github.io/udlbook/)** - FREE
 
 
 #### Course
@@ -417,6 +418,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[Best LLMs cheatsheet](https://substack.com/@analyticalrohit/note/c-271591664?r=f2squ)** - FREE
 - **[Road map with CHATGPT](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9A%20LLM/Road%20Map%20and%20resoruces.md)** - FREE
 - **[Large Language Models (LLM) Roadmap⭐](https://github.com/bishwaghimire/ai-learning-roadmaps)** - FREE
+- **[Build From scratch google sheet⭐](https://docs.google.com/document/d/1uSf-pSwMmwFWN3Ys0UXwpeFeKKESnMkNrKBwHUUrDJ0/edit?tab=t.0)** - FREE
 - **[Complete Large Language Model (LLM) Learning Roadmap](https://www.lets-code.co.in/articles/llmsroadmap/)** - FREE
 - **[The 30-Day Roadmap I’d Follow to Learn LLMs and AI Agents](https://amanxai.com/2026/08/11/the-30-day-roadmap-id-follow-to-learn-llms-and-ai-agents/?fbclid=IwY2xjawTnfnlwZG9mAWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR7sLPgMuRxaJMikLtfi9V2nAWqD_fXzhakKYLqhVcwfERCRoys9SP6iYsanGA_aem_NZs0BNW3TLcmwh9bY7BWfg)** - FREE
 - **[Learning LLMs in 2026](https://amanxai.com/2026/08/25/if-i-were-learning-llms-in-2026-id-start-with-these-concepts/?fbclid=IwY2xjawT5_lBwZG9mAWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR7CGVyjP8CcVx8hDcMhT83bZugHWqKxTBaqRzGWFRk2xAMT5Dk28fNRV5BvJQ_aem_SQoUu63JwDfCyvUp6IiwHQ)** - FREE
