@@ -488,6 +488,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
  |**🌐1-DeepSeek**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
  |**🌐1-Qwen**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
  |**🌐1-Gemma**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
+  |**✅1-Pre-training large language models**|[1](https://drive.google.com/file/d/1N0MkdihOwhxENog3cChTH6l3Zz5B2hNw/view?usp=drive_link)[-2](https://youtu.be/zN1yGzOBnpg?si=vzgwR4WZsz8T2trR)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|[1]
 
   ### Week 3-[**📚Chapter3:Large Language Models and Training**]()
  | Topic Name/Tutorial | Video | Code |Category|Extra Resources|
