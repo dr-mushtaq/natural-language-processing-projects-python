@@ -437,6 +437,8 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[8 llms-from-scratch](https://github.com/analyticalrohit/llms-from-scratch)** - FREE
 - **[8 LLM-Open-University-From-Begineer-to-Advanced](https://github.com/youssefHosni/LLM-Open-University-From-Begineer-to-Advanced)** - FREE
 - **[Artificial-Intelligence-Courses by KAUST Academy](https://github.com/KAUST-Academy/Artificial-Intelligence-Courses/tree/main)** - FREE
+- **[How to Train Your GPT](https://github.com/raiyanyahya/how-to-train-your-gpt/tree/master)** - FREE
+  
   
  ### Week 1-[**📚Chapter1:Introduction**]()
 
