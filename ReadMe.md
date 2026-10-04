@@ -534,6 +534,15 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
  |**🌐1-Parameter Efficient Fine-Tuning (PEFT, LoRA)**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
   |**🌐1-Preference Tuning (RLHF, DPO, IPO)**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
   |**🌐1-Scaling and Optimization (Quantization, Distillation, Pruning)**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|---|
+
+  ### Week 4-[**📚 LLM tuning**]()
+ | Topic Name/Tutorial | Video | Code|Extra Resources|
+ |---|---|---|---|
+ |**🌐1- Preference tuning**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|
+ |**🌐2- RLHF overview**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|
+ |**🌐3-Reward modeling**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|
+ |**🌐4-RL approaches (PPO and variants)**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|
+ |**🌐5-DPO**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|
  
   ### Week 3-[**📚Chapter4:Alignment**]()
  | Topic Name/Tutorial | Video | Code |Note|Extra Resources|
