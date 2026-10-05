@@ -423,6 +423,8 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[The 30-Day Roadmap I’d Follow to Learn LLMs and AI Agents](https://amanxai.com/2026/08/11/the-30-day-roadmap-id-follow-to-learn-llms-and-ai-agents/?fbclid=IwY2xjawTnfnlwZG9mAWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR7sLPgMuRxaJMikLtfi9V2nAWqD_fXzhakKYLqhVcwfERCRoys9SP6iYsanGA_aem_NZs0BNW3TLcmwh9bY7BWfg)** - FREE
 - **[Learning LLMs in 2026](https://amanxai.com/2026/08/25/if-i-were-learning-llms-in-2026-id-start-with-these-concepts/?fbclid=IwY2xjawT5_lBwZG9mAWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR7CGVyjP8CcVx8hDcMhT83bZugHWqKxTBaqRzGWFRk2xAMT5Dk28fNRV5BvJQ_aem_SQoUu63JwDfCyvUp6IiwHQ)** - FREE
 - **[Dan's AI Notes](https://dankornas.substack.com/archive?sort=new)** - FREE
+- **[Zero to AI](https://zero-to-ai.dev/10-specializations)** - FREE
+  
 
 #### Code
 - **[Build LLM on Google Colab from scratch](https://github.com/HayatoHongo/EveryonesLLM)** - FREE
@@ -438,7 +440,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[8 LLM-Open-University-From-Begineer-to-Advanced](https://github.com/youssefHosni/LLM-Open-University-From-Begineer-to-Advanced)** - FREE
 - **[Artificial-Intelligence-Courses by KAUST Academy](https://github.com/KAUST-Academy/Artificial-Intelligence-Courses/tree/main)** - FREE
 - **[How to Train Your GPT](https://github.com/raiyanyahya/how-to-train-your-gpt/tree/master)** - FREE
-  
+- **[Zero to AI](https://github.com/PavanMudigonda/zero-to-ai)** - FREE
   
  ### Week 1-[**📚Chapter1:Introduction**]()
 
