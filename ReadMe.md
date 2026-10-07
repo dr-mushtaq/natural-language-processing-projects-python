@@ -541,6 +541,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
  | Topic Name/Tutorial | Video | Code|Extra Resources|
  |---|---|---|---|
  |**🌐1- Preference tuning**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|
+ |**✅1-Instruction Fine-Tuning**| [1](https://drive.google.com/file/d/1VCd3_SmbPCtV_8H00zAYgX0uUDsS0Du6/view?usp=sharing)[-2](https://youtu.be/gXhUYlbTImc?si=meI7YU8RhHq-cD6p) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10541)|[1](https://substack.com/home/post/p-190176274)|
  |**🌐2- RLHF overview**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|
  |**🌐3-Reward modeling**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|
  |**🌐4-RL approaches (PPO and variants)**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|
