@@ -393,7 +393,8 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[Speech and Language Processing by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)** - FREE
 - **[Foundational Large Language models & text generation](https://web.stanford.edu/~jurafsky/slp3/)** - FREE
 - **[Understanding Deep Learning](https://udlbook.github.io/udlbook/)** - FREE
-
+#### Website 
+- **[Learn LLM-Visluized](https://learn-llm-kappa.vercel.app/)** - FREE
 
 #### Course
 - **[CME 295 - Transformers & Large Language Models](https://cme295.stanford.edu/syllabus/)** - FREE
