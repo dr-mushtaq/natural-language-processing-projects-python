@@ -410,6 +410,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)** - FREE
 - **[MIT 6.S191 Introduction to Deep Learning](https://introtodeeplearning.com/)** - FREE
 - **[Large Language Models and Chatbots](https://www.youtube.com/playlist?list=PLOspHqNVtKAAsiohuZj1Bt4XpA3_bkS3c)** - FREE
+-  **[Top Free Courses on Large Language Models](https://www.kdnuggets.com/2023/03/top-free-courses-large-language-models.html)** - FREE
 
 #### Tutorial 
 - **[Natural Language Processing (NLP) with PyTorch](https://www.dataquest.io/blog/natural-language-processing-nlp-with-pytorch/)** - FREE
