@@ -444,6 +444,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[Artificial-Intelligence-Courses by KAUST Academy](https://github.com/KAUST-Academy/Artificial-Intelligence-Courses/tree/main)** - FREE
 - **[How to Train Your GPT](https://github.com/raiyanyahya/how-to-train-your-gpt/tree/master)** - FREE
 - **[Zero to AI](https://github.com/PavanMudigonda/zero-to-ai)** - FREE
+- **[Finituning-Large-Language-Models](https://github.com/AngelFelipeMP/Finituning-Large-Language-Models)** - FREE
   
  ### Week 1-[**📚Chapter1:Introduction**]()
 
@@ -545,7 +546,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
  |---|---|---|---|
  |**🌐1- Preference tuning**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|
  |**✅1- Why finetune**|[1](https://drive.google.com/file/d/1z3MDX-KiqSFyAOSP6NeiCIc38s9QFkYv/view?usp=sharing)[-2](https://youtu.be/VF66r9b47UY?si=RTBjupTIQzZOZNDe)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/Understanding%20Large%20Language%20Model/01_Why_finetuning_lab_student.ipynb)|---|
- |**✅1-Where finetuning fits in**|[1](https://drive.google.com/file/d/18m8RKFd5jnDcilTqBfxw1W9iu3j0A2c7/view?usp=sharing)[-2](https://youtu.be/v9FBHNGbkA0?si=tI94PJ9RrU3qNWd6)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/Understanding%20Large%20Language%20Model/01_Why_finetuning_lab_student.ipynb)|---|
+ |**✅1-Where finetuning fits in**|[1](https://drive.google.com/file/d/18m8RKFd5jnDcilTqBfxw1W9iu3j0A2c7/view?usp=sharing)[-2](https://youtu.be/v9FBHNGbkA0?si=tI94PJ9RrU3qNWd6)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/Understanding%20Large%20Language%20Model/02_Where_finetuning_fits_in_lab_student.ipynb)|---|
  |**✅2-Instruction Fine-Tuning**| [1](https://drive.google.com/file/d/1VCd3_SmbPCtV_8H00zAYgX0uUDsS0Du6/view?usp=sharing)[-2](https://youtu.be/gXhUYlbTImc?si=meI7YU8RhHq-cD6p) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10541)|[1](https://substack.com/home/post/p-190176274)|
  |**✅3-Fine-tuning on a single task**| [1](https://youtu.be/8CY3vsCtK3c?si=mUyiCO-V1iID5wPj)[-2](https://drive.google.com/file/d/1AR0vswBTkqmHIwWfZ2d9Ws-KmP9R4U0R/view?usp=sharing) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10656)|---|
  |**🌐2- RLHF overview**| |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|---|
