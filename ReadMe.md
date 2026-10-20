@@ -431,6 +431,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 
 #### Code
 - **[Build LLM on Google Colab from scratch](https://github.com/HayatoHongo/EveryonesLLM)** - FREE
+- **[Build a Large Language Model (From Scratch)](https://www.youtube.com/playlist?list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11)**-Free
 
 
 #### Github
