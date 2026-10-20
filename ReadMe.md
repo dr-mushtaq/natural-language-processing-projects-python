@@ -432,6 +432,10 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 #### Code
 - **[Build LLM on Google Colab from scratch](https://github.com/HayatoHongo/EveryonesLLM)** - FREE
 - **[Build a Large Language Model (From Scratch)](https://www.youtube.com/playlist?list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11)**-Free
+- **[Hugging Face Fine-tuning Tutorial](https://huggingface.co/docs/transformers/main/en/training)**-Free
+- **[Practical implementation of LoRA and parameter-efficient fine-tuning.](https://huggingface.co/docs/peft/index)**-Free
+- **[Hugging Face TRL: SFTTrainer](https://huggingface.co/docs/trl/sft_trainer)**-Free
+
 
 
 #### Github
