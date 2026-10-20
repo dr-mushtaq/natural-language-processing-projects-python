@@ -435,6 +435,8 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[Hugging Face Fine-tuning Tutorial](https://huggingface.co/docs/transformers/main/en/training)**-Free
 - **[Practical implementation of LoRA and parameter-efficient fine-tuning.](https://huggingface.co/docs/peft/index)**-Free
 - **[Hugging Face TRL: SFTTrainer](https://huggingface.co/docs/trl/sft_trainer)**-Free
+- **[Unsloth Fine-tuning Docs](https://unsloth.ai/docs/get-started/fine-tuning-llms-guide)**-Free
+- **[Axolotl Docs](https://docs.axolotl.ai/)**-Free
 
 
 
