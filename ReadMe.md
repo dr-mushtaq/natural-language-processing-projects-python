@@ -437,6 +437,9 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[Hugging Face TRL: SFTTrainer](https://huggingface.co/docs/trl/sft_trainer)**-Free
 - **[Unsloth Fine-tuning Docs](https://unsloth.ai/docs/get-started/fine-tuning-llms-guide)**-Free
 - **[Axolotl Docs](https://docs.axolotl.ai/)**-Free
+- **[LLaMA Factory](https://github.com/hiyouga/LlamaFactory)**-Free
+- **[Maxime Labonne: LLM Course](https://github.com/mlabonne/llm-course)**-Free
+- **[Brev Fine-Tuning Notebooks](https://github.com/brevdev/launchables)**-Free
 
 
 
