@@ -657,6 +657,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 |[**✅ 31-Large Language Models with Semantic Search**](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/?utm_campaign=cohere-launch&utm_medium=video&utm_source=youtube&utm_content=teaser)|Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates| Pending|
 |[**✅ 32-Natural Language Processing (NLP) with BERT**](https://www.udemy.com/course/natural-language-processing-with-bert/?im_ref=zU9VMAStxxycRnFTVA2iK3QzUku1g73400000w0&sharedid=&irpid=6778825&utm_medium=affiliate&utm_source=impact&utm_audience=mx&utm_tactic=%22Content%22%2C%22India%22&utm_content=3193860&utm_campaign=6778825&irgwc=1&afsrc=1)|Movies reviews Semantic analysis using BERT| Pending|
 |[**✅ 33-Computer Science courses with video lectures**](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md)|Movies reviews Semantic analysis using BERT| Pending|
+|[**✅ 34-Kaggle Learn**]([https://github.com/Developer-Y/cs-video-courses/blob/master/README.md](https://www.kaggle.com/learn))|Movies reviews Semantic analysis using BERT| Pending|
 
 
 ## 👁️ Chapter2: - **Important Website**
