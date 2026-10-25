@@ -176,10 +176,7 @@ Classification: Accuracy, precision, recall, and F1-score.
 Structured outputs: Schema validity and field-level correctness.
 Question answering: Answer correctness, relevance, and faithfulness.
 Generation: Human review, task-specific checks, and appropriate text similarity metrics.
-Discover more
-Store Big Data
-Machine Learning
-Learn Engineering
+
 Additionally, test whether the model has lost general capabilities or acquired incorrect patterns from the training data.
 
 The Takeaway
