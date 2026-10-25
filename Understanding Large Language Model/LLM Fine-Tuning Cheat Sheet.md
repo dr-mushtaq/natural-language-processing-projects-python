@@ -163,6 +163,7 @@ This example demonstrates the core workflow. For actual experiments, use a suffi
 
 ## 5. Understand the hyperparameters that matter
 
+
 ![](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/Understanding%20Large%20Language%20Model/hyperparameters_table.webp)
 
 Begin with conservative settings, monitor training and validation loss, and adjust only one or two parameters at a time. Higher LoRA ranks increase adaptation capacity but also raise the number of trainable parameters and memory requirements.
