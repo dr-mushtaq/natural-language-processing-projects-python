@@ -25,3 +25,6 @@ Machine Learning
 For example, if you require an assistant to answer questions about recently updated company policies, RAG is typically a better starting point than fine-tuning. If you need consistent structured outputs across many examples, fine-tuning may be appropriate.
 
 These approaches can be combined. Fine-tune a model for a specific task, then use RAG to supply up-to-date information
+
+# References
+![](https://amanxai.com/2026/10/25/llm-fine-tuning-cheat-sheet/?fbclid=IwY2xjawVK7FJleHRuA2FlbQIxMQBwZG9mAXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR58HbiicWLKpIKegxKMl0h6IysBMYd2pZUk18spaHiCB5xUFVpWgaY4InbGNA_aem_exmMvDg4RR5LLRuUUIbG-w)
