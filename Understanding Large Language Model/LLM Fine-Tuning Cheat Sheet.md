@@ -27,5 +27,26 @@ The effectiveness of fine-tuning depends largely on the quality of your examples
 
 For supervised fine-tuning (SFT), prepare examples containing an instruction and a desirable response. Depending on the task, you might use question-answer pairs, conversational messages, or prompt-completion records.
 
+```python
+
+from datasets import Dataset
+
+examples = [
+    {
+        "text": "### Instruction:\nExplain overfitting.\n"
+                "### Response:\nOverfitting occurs when a model "
+                "fits training data too closely and generalizes poorly."
+    },
+    {
+        "text": "### Instruction:\nDefine precision.\n"
+                "### Response:\nPrecision is the fraction of "
+                "positive predictions that are correct."
+    }
+]
+
+dataset = Dataset.from_list(examples)
+
+```python
+
 # References
 [1](https://amanxai.com/2026/10/25/llm-fine-tuning-cheat-sheet/?fbclid=IwY2xjawVK7FJleHRuA2FlbQIxMQBwZG9mAXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR58HbiicWLKpIKegxKMl0h6IysBMYd2pZUk18spaHiCB5xUFVpWgaY4InbGNA_aem_exmMvDg4RR5LLRuUUIbG-w)
