@@ -621,7 +621,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 <summary> <h2>📕 Natural-Language Processing Resources </h2> </summary>
 
 ## 👁️ Chapter1: - **Free Courses**
-| Title/link| Description | Reading Status |Knlowdgef Level|FeedBack|
+| Title/link| Description | Reading Status |Exra Resoruces|FeedBack|
 |---|---|---|---|---|
 |[**✅ 1-Natural Language Processing Specialization**](https://www.coursera.org/specializations/natural-language-processing)|by Eddy Shyu,Cousera,Goog| InProgress|Beginer|Good|
 |[**✅ 2-Applied Language Technology**](https://applied-language-technology.mooc.fi/html/index.html)|It is free course and it contain notes and video| Pending|
@@ -637,7 +637,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 |[**✅ 12-Smol Agents: Build & Deploy by Hugging Face**](https://huggingface.co/learn/agents-course/en/unit0/introduction)|Study AI agents in theory, design, and practical application| Pending|
 |[**✅ 13-Advanced Large Language Model Agents by**](https://rdi.berkeley.edu/adv-llm-agents/sp25)|Learn advanced topics like complex reasoning and planning for LLM agents. by Xinyun Chen| Pending|
 |[**✅ 14-AI Agents for Beginners - A Course by Miscroft**](https://github.com/microsoft/ai-agents-for-beginners)|Lessons teaching everything you need to know to start building AI Agents| Pending|
-|[**✅ 14-CS336: Language Modeling from Scratch**](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)|Stanford's CS336 2025 (Language Modeling from Scratch) is now available on YouTube| Pending|
+|[**✅ 14-CS336: Language Modeling from Scratch**](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)|Stanford's CS336 2025 (Language Modeling from Scratch) is now available on YouTube|[1](https://cs336.stanford.edu/)|
 |[**✅ 15-Week 6: Chatbots and Dialogue Agents**](https://www.youtube.com/playlist?list=PLaZQkZp6WhWzLZt7k3zTl6ClAdLuyP8v)|Stanford's CS336 2025 (Language Modeling from Scratch) is now available on YouTube| Pending|
 |[**✅ 16-10 Best Large Language Models Courses and Training (LLMs)- 2025**](https://www.mltut.com/best-large-language-models-courses/)|Stanford's CS336 2025 (Language Modeling from Scratch) is now available on YouTube| Pending|
 |[**✅ 17-Free LLM Course o Hugace**](https://huggingface.co/learn/llm-course/chapter1/2?fw=pt)|Stanford's CS336 2025 (Language Modeling from Scratch) is now available on YouTube| Pending|
