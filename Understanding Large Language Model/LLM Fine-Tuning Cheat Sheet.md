@@ -14,17 +14,18 @@ Full fine-tuning is flexible but requires optimizer states, gradients, and model
 
 For most users working with a single GPU, LoRA or QLoRA is the most practical starting point.
 
-2. When should you fine-tune instead of prompting or using RAG?
+## 2. When should you fine-tune instead of prompting or using RAG?
 Select the technique that best addresses your specific problem.
 
-LLM Fine-tuning cheat sheet
-Discover more
-Learn AI Tools
-Store Big Data
-Machine Learning
+![](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/Understanding%20Large%20Language%20Model/technique_comparison_table.webp)
 For example, if you require an assistant to answer questions about recently updated company policies, RAG is typically a better starting point than fine-tuning. If you need consistent structured outputs across many examples, fine-tuning may be appropriate.
 
 These approaches can be combined. Fine-tune a model for a specific task, then use RAG to supply up-to-date information
 
+## 3. Prepare your dataset before training
+The effectiveness of fine-tuning depends largely on the quality of your examples.
+
+For supervised fine-tuning (SFT), prepare examples containing an instruction and a desirable response. Depending on the task, you might use question-answer pairs, conversational messages, or prompt-completion records.
+
 # References
-![](https://amanxai.com/2026/10/25/llm-fine-tuning-cheat-sheet/?fbclid=IwY2xjawVK7FJleHRuA2FlbQIxMQBwZG9mAXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR58HbiicWLKpIKegxKMl0h6IysBMYd2pZUk18spaHiCB5xUFVpWgaY4InbGNA_aem_exmMvDg4RR5LLRuUUIbG-w)
+[1](https://amanxai.com/2026/10/25/llm-fine-tuning-cheat-sheet/?fbclid=IwY2xjawVK7FJleHRuA2FlbQIxMQBwZG9mAXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR58HbiicWLKpIKegxKMl0h6IysBMYd2pZUk18spaHiCB5xUFVpWgaY4InbGNA_aem_exmMvDg4RR5LLRuUUIbG-w)
