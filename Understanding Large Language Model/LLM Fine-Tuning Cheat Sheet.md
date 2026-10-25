@@ -48,5 +48,144 @@ dataset = Dataset.from_list(examples)
 
 ```python
 
+Before training, remove duplicates, correct inaccurate answers, standardize formatting, and check for sensitive information. Divide your data into training, validation, and test sets, ensuring that near-duplicate examples do not appear in multiple splits.
+
+For conversational datasets, use the chat template expected by the model. Hugging Face TRL supports standard text, prompt-completion, and conversational formats.
+
+. Fine-tune an LLM with LoRA using Hugging Face
+Use Hugging Face Transformers, PEFT, and TRL to conduct a small fine-tuning experiment with open-source tools.
+
+Install the dependencies:
+
+pip install torch transformers datasets peft trl accelerate
+Discover more
+Find Study Aids
+Get Class Supplies
+Learn AI Tools
+The following example uses a small instruction-tuned model and LoRA. It serves as a starting point for experimentation and does not guarantee compatibility with all hardware.
+
+from transformers import AutoModelForCausalLM, AutoTokenizer
+from peft import LoraConfig
+from trl import SFTTrainer, SFTConfig
+from datasets import Dataset
+
+model_id = "Qwen/Qwen2.5-0.5B-Instruct"
+
+tokenizer = AutoTokenizer.from_pretrained(model_id)
+model = AutoModelForCausalLM.from_pretrained(model_id)
+
+dataset = Dataset.from_list([
+{"text": "### Instruction:\nExplain RAG.\n"
+"### Response:\nRAG retrieves relevant external "
+"information and supplies it to an LLM."},
+{"text": "### Instruction:\nExplain LoRA.\n"
+"### Response:\nLoRA adapts a model by training "
+"small low-rank matrices while freezing base weights."}
+])
+
+config = LoraConfig(
+r=8,
+lora_alpha=16,
+lora_dropout=0.05,
+task_type="CAUSAL_LM"
+)
+
+training_args = SFTConfig(
+output_dir="./lora-output",
+num_train_epochs=2,
+per_device_train_batch_size=1,
+gradient_accumulation_steps=4,
+learning_rate=2e-4,
+logging_steps=5,
+report_to="none"
+)
+
+trainer = SFTTrainer(
+model=model,
+args=training_args,
+train_dataset=dataset,
+peft_config=config,
+processing_class=tokenizer
+)
+
+trainer.train()
+trainer.save_model("./lora-adapter")
+from transformers import AutoModelForCausalLM, AutoTokenizer
+from peft import LoraConfig
+from trl import SFTTrainer, SFTConfig
+from datasets import Dataset
+
+model_id = "Qwen/Qwen2.5-0.5B-Instruct"
+
+tokenizer = AutoTokenizer.from_pretrained(model_id)
+model = AutoModelForCausalLM.from_pretrained(model_id)
+
+dataset = Dataset.from_list([
+    {"text": "### Instruction:\nExplain RAG.\n"
+             "### Response:\nRAG retrieves relevant external "
+             "information and supplies it to an LLM."},
+    {"text": "### Instruction:\nExplain LoRA.\n"
+             "### Response:\nLoRA adapts a model by training "
+             "small low-rank matrices while freezing base weights."}
+])
+
+config = LoraConfig(
+    r=8,
+    lora_alpha=16,
+    lora_dropout=0.05,
+    task_type="CAUSAL_LM"
+)
+
+training_args = SFTConfig(
+    output_dir="./lora-output",
+    num_train_epochs=2,
+    per_device_train_batch_size=1,
+    gradient_accumulation_steps=4,
+    learning_rate=2e-4,
+    logging_steps=5,
+    report_to="none"
+)
+
+trainer = SFTTrainer(
+    model=model,
+    args=training_args,
+    train_dataset=dataset,
+    peft_config=config,
+    processing_class=tokenizer
+)
+
+trainer.train()
+trainer.save_model("./lora-adapter")
+This example demonstrates the core workflow. For actual experiments, use a sufficiently large, high-quality dataset and ensure the formatting matches the model’s training requirements. PEFT allows you to save and share the trained adapter without saving a full copy of the base model.
+
+Preparing for AI/ML Interviews?
+As you learn fine-tuning, ensure you can explain why you would choose LoRA or QLoRA, how you would evaluate a model, and the trade-offs involved in your decisions. I recommend Cracking Your First AI/ML Interview as a resource for preparing for your first AI/ML role.
+
+5. Understand the hyperparameters that matter
+hyperparameters
+Begin with conservative settings, monitor training and validation loss, and adjust only one or two parameters at a time. Higher LoRA ranks increase adaptation capacity but also raise the number of trainable parameters and memory requirements.
+
+6. Evaluate the fine-tuned model
+Do not evaluate a fine-tuned model solely based on its training loss.
+
+Evaluate the fine-tuned model against the original model using the same held-out test cases. Select metrics that reflect the specific task:
+
+Classification: Accuracy, precision, recall, and F1-score.
+Structured outputs: Schema validity and field-level correctness.
+Question answering: Answer correctness, relevance, and faithfulness.
+Generation: Human review, task-specific checks, and appropriate text similarity metrics.
+Discover more
+Store Big Data
+Machine Learning
+Learn Engineering
+Additionally, test whether the model has lost general capabilities or acquired incorrect patterns from the training data.
+
+The Takeaway
+I recommend starting with prompting, establishing a reliable evaluation baseline, and then testing RAG or fine-tuning based on the application’s requirements.
+
+Use LoRA for an accessible initial experiment, consider QLoRA when memory is a primary constraint, and pursue full fine-tuning only when its benefits outweigh the increased resource requirements.
+
+The objective is not to fine-tune every model, but to identify the most suitable adaptation method, measure its impact on your application, and reliably reproduce results.
+
 # References
-[1](https://amanxai.com/2026/10/25/llm-fine-tuning-cheat-sheet/?fbclid=IwY2xjawVK7FJleHRuA2FlbQIxMQBwZG9mAXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR58HbiicWLKpIKegxKMl0h6IysBMYd2pZUk18spaHiCB5xUFVpWgaY4InbGNA_aem_exmMvDg4RR5LLRuUUIbG-w)
+[1](https://amanxai.com/2026/10/25/llm-fine-tuning-cheat-sheet/ fbclid=IwY2xjawVK7FJleHRuA2FlbQIxMQBwZG9mAXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR58HbiicWLKpIKegxKMl0h6IysBMYd2pZUk18spaHiCB5xUFVpWgaY4InbGNA_aem_exmMvDg4RR5LLRuUUIbG-w)
