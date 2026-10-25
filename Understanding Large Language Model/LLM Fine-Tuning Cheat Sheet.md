@@ -52,18 +52,17 @@ Before training, remove duplicates, correct inaccurate answers, standardize form
 
 For conversational datasets, use the chat template expected by the model. Hugging Face TRL supports standard text, prompt-completion, and conversational formats.
 
-. Fine-tune an LLM with LoRA using Hugging Face
+##  Fine-tune an LLM with LoRA using Hugging Face
 Use Hugging Face Transformers, PEFT, and TRL to conduct a small fine-tuning experiment with open-source tools.
 
 Install the dependencies:
+```python
 
 pip install torch transformers datasets peft trl accelerate
-Discover more
-Find Study Aids
-Get Class Supplies
-Learn AI Tools
-The following example uses a small instruction-tuned model and LoRA. It serves as a starting point for experimentation and does not guarantee compatibility with all hardware.
+```python
 
+The following example uses a small instruction-tuned model and LoRA. It serves as a starting point for experimentation and does not guarantee compatibility with all hardware.
+```python
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from peft import LoraConfig
 from trl import SFTTrainer, SFTConfig
@@ -156,6 +155,9 @@ trainer = SFTTrainer(
 
 trainer.train()
 trainer.save_model("./lora-adapter")
+
+```python
+
 This example demonstrates the core workflow. For actual experiments, use a sufficiently large, high-quality dataset and ensure the formatting matches the model’s training requirements. PEFT allows you to save and share the trained adapter without saving a full copy of the base model.
 
 Preparing for AI/ML Interviews?
