@@ -160,7 +160,7 @@ trainer.save_model("./lora-adapter")
 This example demonstrates the core workflow. For actual experiments, use a sufficiently large, high-quality dataset and ensure the formatting matches the model’s training requirements. PEFT allows you to save and share the trained adapter without saving a full copy of the base model.
 
 
-## 5. Understand the hyperparameters that matter
+# 5. Understand the hyperparameters that matter
 
 
 ![](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/Understanding%20Large%20Language%20Model/hyperparameters_table.webp)
@@ -168,6 +168,7 @@ This example demonstrates the core workflow. For actual experiments, use a suffi
 Begin with conservative settings, monitor training and validation loss, and adjust only one or two parameters at a time. Higher LoRA ranks increase adaptation capacity but also raise the number of trainable parameters and memory requirements.
 
 ## 6. Evaluate the fine-tuned model
+
 Do not evaluate a fine-tuned model solely based on its training loss.
 
 Evaluate the fine-tuned model against the original model using the same held-out test cases. Select metrics that reflect the specific task:
@@ -179,7 +180,7 @@ Generation: Human review, task-specific checks, and appropriate text similarity 
 
 Additionally, test whether the model has lost general capabilities or acquired incorrect patterns from the training data.
 
-The Takeaway
+## The Takeaway
 I recommend starting with prompting, establishing a reliable evaluation baseline, and then testing RAG or fine-tuning based on the application’s requirements.
 
 Use LoRA for an accessible initial experiment, consider QLoRA when memory is a primary constraint, and pursue full fine-tuning only when its benefits outweigh the increased resource requirements.
