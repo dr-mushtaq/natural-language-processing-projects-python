@@ -160,7 +160,7 @@ trainer.save_model("./lora-adapter")
 This example demonstrates the core workflow. For actual experiments, use a sufficiently large, high-quality dataset and ensure the formatting matches the model’s training requirements. PEFT allows you to save and share the trained adapter without saving a full copy of the base model.
 
 
-# 5. Understand the hyperparameters that matter
+##  5 Understand the hyperparameters that matter
 
 
 ![](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/Understanding%20Large%20Language%20Model/hyperparameters_table.webp)
