@@ -2,8 +2,8 @@ Fine-tuning an LLM enables models to follow specific formats, perform specialize
 
 All topics can be explored using open-source tools and locally available models. No paid APIs or platforms are required.
 
-LLM Fine-Tuning Cheat Sheet
-1. Fine-tuning methods compared
+# LLM Fine-Tuning Cheat Sheet
+## 1. Fine-tuning methods compared
 
 Memory requirements vary based on model size, sequence length, batch size, precision, optimizer, and hardware. The following are relative comparisons, not fixed hardware guarantees.
 
