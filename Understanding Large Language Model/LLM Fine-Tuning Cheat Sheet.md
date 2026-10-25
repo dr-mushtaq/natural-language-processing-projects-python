@@ -10,6 +10,8 @@ Memory requirements vary based on model size, sequence length, batch size, preci
 Fine-tuning methods compared
 Full fine-tuning is flexible but requires optimizer states, gradients, and model weights to fit within your compute budget. LoRA freezes the base model and trains additional low-rank matrices. QLoRA combines quantization with LoRA to further reduce memory requirements.
 
+![](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/Understanding%20Large%20Language%20Model/finetuning_methods_table.webp)
+
 For most users working with a single GPU, LoRA or QLoRA is the most practical starting point.
 
 2. When should you fine-tune instead of prompting or using RAG?
