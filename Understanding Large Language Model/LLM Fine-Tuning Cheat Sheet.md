@@ -16,7 +16,6 @@ For most users working with a single GPU, LoRA or QLoRA is the most practical st
 
 ## 2. When should you fine-tune instead of prompting or using RAG?
 Select the technique that best addresses your specific problem.
-
 ![](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/Understanding%20Large%20Language%20Model/technique_comparison_table.webp)
 For example, if you require an assistant to answer questions about recently updated company policies, RAG is typically a better starting point than fine-tuning. If you need consistent structured outputs across many examples, fine-tuning may be appropriate.
 
