@@ -413,6 +413,9 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 -  **[Top Free Courses on Large Language Models](https://www.kdnuggets.com/2023/03/top-free-courses-large-language-models.html)** - FREE
 -  **[LLM Optimization & Evaluation Specialization](https://www.coursera.org/organizations/pakistan/specializations/llm-optimization-evaluation)** - FREE
 -  **[Generative AI for NLP with PyTorch Specialization](https://www.coursera.org/specializations/generative-ai-for-nlp-with-pytorch?irclickid=QYkUq2VTvxyZTNuSKWR-2VepUkr373QWGQ0TTk0&irgwc=1&afsrc=1&utm_medium=partners&utm_source=impact&utm_campaign=3401872&utm_content=b2c&utm_campaignid=thecleverprogrammer&utm_term=14726_CR_1164545_#courses)** - FREE
+- **[Generative AI Engineering and Fine-Tuning Transformers](https://www.coursera.org/learn/generative-ai-engineering-and-fine-tuning-transformers?irclickid=QYkUq2VTvxyZTNuSKWR-2VepUkr37yXWGQ0TTk0&irgwc=1&afsrc=1&utm_medium=partners&utm_source=impact&utm_campaign=3401872&utm_content=b2c&utm_campaignid=thecleverprogrammer&utm_term=14726_CR_1164545_)** - FREE
+- **[Hugging Face PEFT documentation](https://huggingface.co/docs/peft/index)** - FREE
+- **[Hugging Face TRL documentation](https://huggingface.co/docs/trl/index)** - FREE
 
 #### Tutorial 
 - **[Natural Language Processing (NLP) with PyTorch](https://www.dataquest.io/blog/natural-language-processing-nlp-with-pytorch/)** - FREE
