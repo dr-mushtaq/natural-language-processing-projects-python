@@ -412,6 +412,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[Large Language Models and Chatbots](https://www.youtube.com/playlist?list=PLOspHqNVtKAAsiohuZj1Bt4XpA3_bkS3c)** - FREE
 -  **[Top Free Courses on Large Language Models](https://www.kdnuggets.com/2023/03/top-free-courses-large-language-models.html)** - FREE
 -  **[LLM Optimization & Evaluation Specialization](https://www.coursera.org/organizations/pakistan/specializations/llm-optimization-evaluation)** - FREE
+-  **[Generative AI for NLP with PyTorch Specialization](https://www.coursera.org/specializations/generative-ai-for-nlp-with-pytorch?irclickid=QYkUq2VTvxyZTNuSKWR-2VepUkr373QWGQ0TTk0&irgwc=1&afsrc=1&utm_medium=partners&utm_source=impact&utm_campaign=3401872&utm_content=b2c&utm_campaignid=thecleverprogrammer&utm_term=14726_CR_1164545_#courses)** - FREE
 
 #### Tutorial 
 - **[Natural Language Processing (NLP) with PyTorch](https://www.dataquest.io/blog/natural-language-processing-nlp-with-pytorch/)** - FREE
