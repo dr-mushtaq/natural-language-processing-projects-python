@@ -430,6 +430,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[LLM Fine-Tuning Cheat Sheet](https://amanxai.com/2026/10/25/llm-fine-tuning-cheat-sheet/?fbclid=IwY2xjawVK7FJleHRuA2FlbQIxMQBwZG9mAXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR58HbiicWLKpIKegxKMl0h6IysBMYd2pZUk18spaHiCB5xUFVpWgaY4InbGNA_aem_exmMvDg4RR5LLRuUUIbG-w)** - FREE
 - **[LLM Fine-Tuning Cheat Sheet](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/Understanding%20Large%20Language%20Model/LLM%20Fine-Tuning%20Cheat%20Sheet.md)** - FREE
 - **[LLM Fine-Tuning Cheat Sheet](https://amanxai.com/2026/10/25/llm-fine-tuning-cheat-sheet/?fbclid=IwY2xjawVLzVpleHRuA2FlbQIxMQBwZG9mAWJyaWQRMTRnVVBWVjRnelhwNDQ1b29zcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeR-5O-vWIJzK9JOes0Ln_csQ6BHPG2O32Z_-aSikp3J0Oa_NNbHjZkXtIj7U_aem_Uz5CwQHJCft2jo0yAbt4mg)** - FREE
+- **[Small Language Model Engineering Roadmap for 2027](https://amanxai.com/2026/11/02/small-language-model-engineering-roadmap-for-2027/?fbclid=IwY2xjawVVOgJleHRuA2FlbQIxMQBwZG9mAXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR-zLam67LH9NknQLJrY3NwtYho4JC9CtkthGI0vFTyKjnhx6R9yyh5g7QzD0g_aem_Dn52KWgE2AhePHalys5uaA)** - FREE
   
 
 #### Code
