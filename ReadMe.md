@@ -420,10 +420,15 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[Hugging Face PEFT documentation](https://huggingface.co/docs/peft/index)** - FREE
 - **[Hugging Face TRL documentation](https://huggingface.co/docs/trl/index)** - FREE
 
-#### Tutorial 
+#### Tutorial and  Videos
 - **[Natural Language Processing (NLP) with PyTorch](https://www.dataquest.io/blog/natural-language-processing-nlp-with-pytorch/)** - FREE
 - **[ChatGPT Prompt Engineering for Developers](https://www.youtube.com/watch?v=tRvcAdqsJWo)** - FREE
 - **[cikit-LLM vs. Traditional Text Classifiers](https://machinelearningmastery.com/scikit-llm-vs-traditional-text-classifiers-when-should-you-use-an-llm/?fbclid=IwY2xjawSUZ-hleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeEOFatpayHn62tbByt1E1BBC-1YYRS4RP6DiN0OULBHSm-BwfatvPp8dOuZk_aem_5QTvYFGqmTOB7iStfrjURg)** - FREE
+- - **[cikit-LLM vs. Traditional Text Classifiers](https://machinelearningmastery.com/scikit-llm-vs-traditional-text-classifiers-when-should-you-use-an-llm/?fbclid=IwY2xjawSUZ-hleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeEOFatpayHn62tbByt1E1BBC-1YYRS4RP6DiN0OULBHSm-BwfatvPp8dOuZk_aem_5QTvYFGqmTOB7iStfrjURg)** - FREE
+- **[Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)** - FREE
+- **[Stanford CME295 Transformers & LLMs | Autumn 2026 | Lecture 3 - LLM training](https://youtu.be/S3bCDcJhz4s?si=p9qNfNDL1JDFzaTA)** - FREE
+- **[Reinforcement Learning with LLMs](https://www.youtube.com/watch?v=3Vaj0Oka_t4)** - FREE
+- **[Biology of a Large Language Model](https://youtu.be/vRQs7qfIDaU?si=ykPX7eZTW1BFYXI_)** - FREE
 #### Road Map 
 - **[Best LLMs cheatsheet](https://substack.com/@analyticalrohit/note/c-271591664?r=f2squ)** - FREE
 - **[Road map with CHATGPT](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9A%20LLM/Road%20Map%20and%20resoruces.md)** - FREE
