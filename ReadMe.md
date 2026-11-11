@@ -386,7 +386,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 
 #### YouTube Channels
 - **[Large Language Models by Serrano.Academy](https://www.youtube.com/playlist?list=PLs8w1Cdi-zva4fwKkl9EK13siFvL9Wewf)** - FREE
-- **[Understanding Large Language Model by Under The Hood](https://www.youtube.com/playlist?list=PLUfbC589u-FSwnqsvTHXVcgmLg8UnbIy3)** - FREE
+- **[Understanding Large Language Model by Under The Hood](https://www.youtube.com/playlist?list=PLUfbC589u-FSwnqsvTHXVcgmLg8UnbIy3)** - FREE-Completed 
 - **[CampusX](https://www.youtube.com/@campusx-official)** - FREE
 - **[Language AI & NLP by Jay Alammar](https://www.youtube.com/playlist?list=PLTx9yCaDlo1UlgZiSgEjq86Zvbo2yC87d)** - FREE
 - **[MyTechNotes](https://www.youtube.com/@mytechnotes86)** - FREE
@@ -474,6 +474,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[Zero to AI](https://github.com/PavanMudigonda/zero-to-ai)** - FREE
 - **[Finituning-Large-Language-Models](https://github.com/AngelFelipeMP/Finituning-Large-Language-Models)** - FREE
 - **[llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)** - FREE
+- **[LLM Course by Maxime Labonne](https://github.com/mlabonne/llm-course)** - FREE
   
  ### Week 1-[**📚Chapter1:Introduction**]()
 
