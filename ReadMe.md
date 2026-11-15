@@ -399,6 +399,9 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[Dive into Deep Learning](https://d2l.ai/index.html)** - FREE
 #### Website 
 - **[Learn LLM-Visluized](https://learn-llm-kappa.vercel.app)** - FREE
+- **[LLM Visualization](https://bbycroft.net/llm)** - FREE
+- **[TRANSFORMER EXPLAINER](https://poloclub.github.io/transformer-explainer/)** - FREE
+- **[Distill](https://distill.pub/)** - FREE
 
 #### Course
 - **[CME 295 - Transformers & Large Language Models](https://cme295.stanford.edu/syllabus/)** - FREE
