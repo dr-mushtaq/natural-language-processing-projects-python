@@ -423,6 +423,12 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[Generative AI Engineering and Fine-Tuning Transformers](https://www.coursera.org/learn/generative-ai-engineering-and-fine-tuning-transformers?irclickid=QYkUq2VTvxyZTNuSKWR-2VepUkr37yXWGQ0TTk0&irgwc=1&afsrc=1&utm_medium=partners&utm_source=impact&utm_campaign=3401872&utm_content=b2c&utm_campaignid=thecleverprogrammer&utm_term=14726_CR_1164545_)** - FREE
 - **[Hugging Face PEFT documentation](https://huggingface.co/docs/peft/index)** - FREE
 - **[Hugging Face TRL documentation](https://huggingface.co/docs/trl/index)** - FREE
+- **[Mastering LLM Techniques: Customization](https://developer.nvidia.com/blog/selecting-large-language-model-customization-techniques/)** - FREE
+- **[Mastering LLM Techniques: LLMOps](https://developer.nvidia.com/blog/mastering-llm-techniques-llmops/)** - FREE
+- **[Mastering LLM Techniques: Training](https://developer.nvidia.com/blog/mastering-llm-techniques-training/)** - FREE
+- **[Mastering LLM Techniques: Inference Optimization](https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/)** - FREE
+- **[Mastering LLM Techniques: Text Data Processing](https://developer.nvidia.com/blog/mastering-llm-techniques-data-preprocessing/)** - FREE
+- **[Mastering LLM Techniques: Evaluation](https://developer.nvidia.com/blog/mastering-llm-techniques-evaluation/)** - FREE
 
 #### Tutorial and  Videos
 - **[Natural Language Processing (NLP) with PyTorch](https://www.dataquest.io/blog/natural-language-processing-nlp-with-pytorch/)** - FREE
