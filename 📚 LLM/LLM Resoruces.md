@@ -72,3 +72,5 @@ Here is how I get started:
 If you are mid/senior ML/AI Engineer and want to go deep, study parallelism and distributed inference.
 
 What else would you add to this list?
+
+![](https://www.linkedin.com/posts/lanchuhuong_i-have-spent-the-past-months-learning-llm-share-7530646733941305345-WX0x/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAALfOjABJ0WirUOPXjd9IzMLuimcgHRZjPo)
