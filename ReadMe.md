@@ -11,15 +11,15 @@ Welcome to the Natural Language Processing (NLP) Course, an open-source initiati
  ## If you found this helpful, Please Start it to help other discover these tutorials ⭐
 
  <div>
-<h2>💖 Sponsors</h2>
-
-<p>We extend our heartfelt thanks to our incredible sponsors for their generous support and commitment to our mission. Their contributions make it possible for us to continue developing open-source educational content, AI learning tools, and community-driven projects.</p>
-
----
-
 ### 🙌 Become a Sponsor
 
-You can support this project by becoming a sponsor on **[GitHub Sponsors](https://github.com/sponsors/dr-mushtaq)** or via **bank transfer** — please contact me at 📧 [mushtaqmsit@gmail.com](mailto:mushtaqmsit@gmail.com).
+You can support this project by becoming a sponsor on  **Gumroad:** —  📧 [Gumroad:]( https://couresesteach.gumroad.com/l/SupportCoursesTeach). or via Patron
+
+[<img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patron!" width="200">](https://www.patreon.com/cw/coursesteach)
+
+Every contribution — big or small — helps sustain the development of **AI tools and Resources**, **AI-driven educational resources**, and **data science tools**.  
+Thank you for your generous support! 🌟
+
 
 
 ## **💡 How to Participate?**
