@@ -10,7 +10,7 @@ Welcome to the Natural Language Processing (NLP) Course, an open-source initiati
 
  ## If you found this helpful, Please Start it to help other discover these tutorials ⭐
 
- <div>
+ 
 ### 🙌 Become a Sponsor
 
 You can support this project by becoming a sponsor on  **Gumroad:** —  📧 [Gumroad:]( https://couresesteach.gumroad.com/l/SupportCoursesTeach). or via Patron
