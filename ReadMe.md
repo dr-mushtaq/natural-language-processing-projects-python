@@ -432,6 +432,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 - **[Mastering LLM Techniques: Text Data Processing](https://developer.nvidia.com/blog/mastering-llm-techniques-data-preprocessing/)** - FREE
 - **[Mastering LLM Techniques: Evaluation](https://developer.nvidia.com/blog/mastering-llm-techniques-evaluation/)** - FREE
 - **[Easy-Vibe AI Coding Guide from Scratch](https://datawhalechina.github.io/easy-vibe/en/stage-1/learning-map/)** - FREE
+- **[🌟Fine-Tune Your Own LLM: LoRA, QLoRA & PEFT](https://www.coursera.org/learn/fine-tune-your-own-llm-lora-qlora--peft?irclickid=RwdUCuXvfxyZRr-U1sVnd0wOUkrU5L3-GQ0gUM0&irgwc=1&afsrc=1&utm_medium=partners&utm_source=impact&utm_campaign=3401872&utm_content=b2c&utm_campaignid=thecleverprogrammer&utm_term=14726_CR_1164545_) - FREE
 
 #### Tutorial and  Videos
 - **[Natural Language Processing (NLP) with PyTorch](https://www.dataquest.io/blog/natural-language-processing-nlp-with-pytorch/)** - FREE
